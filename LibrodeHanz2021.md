@@ -843,7 +843,7 @@ Durante el juego tengo una computadora portátil / tableta / etc.  en la que pue
 
 Si esta es la primera sesión, desvelaré el incidente incitador y comenzaré con los personajes _in situ_.  De lo contrario, es hora de esa pregunta tradicional:
 
-## Paso Ocho: “¿Qué haces?” alias, establecer la escena
+## Paso Ocho: “¿Qué haces?”, mejor conocido como: establecer la escena
 
 Con suerte, los personajes tienen un objetivo claro en mente, algo que simplemente no está bien y exige acción.  Si no es así, saco una granada de mano y se las tiro.  Si lo hace bien, esto los pondrá en movimiento, ¡incluso en una dirección desconocida para mí!  Por ejemplo, con la chica infestada de demonios pidiendo ayuda, no tenía idea de que sucedería con eso, si los PJ se ofrecerían a ayudar, si la atacarían y matarían, si intentarían rastrearla de regreso, o  qué.  Lo importante es ponerlos en movimiento.
 
