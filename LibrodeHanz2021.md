@@ -579,7 +579,7 @@ Si tiene un aspecto en mente, piense si le concede algún tipo de permiso o no. 
 
 El uso más común de un aspecto es probablemente para hacerte más asombroso haciendo cosas.  Cuando se te ocurra un aspecto, intenta pensar en cosas en las que tu personaje podría fallar si el aspecto no fuera cierto.
 
-“Mi personaje puede haber fallado ese tiro, pero «La parca pálida no falla»”.
+“Mi personaje puede haber fallado ese tiro, pero «La Muerte Pálida no falla»”.
 
 "Es posible que no hubiera podido derrotar a esos soldados de asalto si no hubiera sido por «Mi copiloto Wookiie»".
 
