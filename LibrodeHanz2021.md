@@ -1,26 +1,26 @@
 # ¿Qué es Fate?
 
-Algunas publicaciones me hicieron pensar en esto, y es un pensamiento que ha estado en mi cabeza durante un tiempo —sobre todo en cuanto a "si estás hackeandolo, ¿cuáles son las cosas hackeables, y en qué punto te estás liando con los supuestos básicos del sistema?". Como en la publicación de Ryan Macklin, pienso en Fate como un juego específico que hace cosas específicas. Hay cosas en la que Fate es increíble y cosas en las que Fate no lo es. Cuando quiero jugar algo en lo que Fate no es increíble, prefiero usar un juego diferente.
+Algunas publicaciones me hicieron pensar en esto y es un pensamiento que ha estado en mi cabeza durante un tiempo —sobre todo en cuanto a "si estás hackeandolo, ¿cuáles son las cosas hackeables y en qué punto te estás liando con los supuestos básicos del sistema?"—. Como en la publicación de Ryan Macklin, pienso en Fate como un juego específico que hace cosas específicas. Hay cosas en la que Fate es increíble y cosas en las que Fate no lo es. Cuando quiero jugar algo en lo que Fate no es increíble, prefiero usar un juego diferente.
 
 No considero que sea un aspecto negativo de Fate de ninguna manera. Tengo un Jeep Wrangler. Es bueno en algunas cosas (transportar), increíble en otras (todoterreno), y absolutamente malo en otras (cargar muchas cosas, llevar mucha gente, ir rápido). Y hacer que mi Wrangler sea mejor en esas cosas, casi necesariamente empeoraría en las cosas que hace bien en este momento.
 
-Entonces, no uso Fate para jugar D&D. Quizás use Fate para jugar en una ambientación de D&D, pero pienso que no se sentiría mucho como un juego de D&D —he descrito antes lo que pienso sería más como "D&D: La película: El juego" (no la película horrible, una imaginaria buena). 
+Entonces, no uso Fate para jugar D&D. Quizás use Fate para jugar en una ambientación de D&D, pero pienso que no se sentiría mucho como un juego de D&D —he descrito en otro momento lo que pienso sería más como "La película de D&D: el juego" (no la película horrible, una imaginaria buena)—. 
 
 Sí, podría hackear Fate lo suficiente para jugar un juego de D&D aceptable, pero ¿seguiría siendo Fate? No lo creo, porque las preguntas centrales y las suposiciones de D&D son diferentes a las de Fate. Lo que, de nuevo, no es una crítica hacia Fate o hacia D&D; es como decir que mi Wrangler no es tan rápido como un Ferrari, eso no es una crítica hacia mi Wrangler.
 
-Entonces, ¿cuáles son las cosas que considero son Fate? No como algún tipo de prueba de pureza, sino como un indicador más general —Si veo una compilación de Fate que cumple con el 95% de estas, probablemente se sentirá como Fate para mi. Pero, si veo algo que solo cumple con el 10% de las cosas, probablemente no funcione como Fate muy bien.
+Entonces, ¿cuáles son las cosas que considero hacen a Fate lo que es? No como algún tipo de prueba de pureza, sino como un indicador más general —si veo una versión de Fate que cumple con el 95% de estas cosas, probablemente se sentirá como Fate para mí. Pero, si veo algo que solo cumple con el 10% de estas, probablemente no funcione como Fate muy bien—.
 
 ## Personajes Proactivos
 
 Esto es muy importante. Los personajes de Fate son proactivos. Hacen que las cosas sucedan. El juego progresa como resultado de sus acciones.
 
-Esto pareciera ser igual en todos los demás juegos, pero realmente no lo es —es un argumento de que el _railroading_ no pertenece a los juegos Fate. Si sabes qué ocurrirá, entonces en algún nivel los personajes no serán proactivos. Estarán buscando el botón mágico de la "escena siguiente". No tienen la capacidad de decidir qué acción realizar. Y algunos juegos y estilos se basan en gran medida en este tipo de estructura de juego.  Lo cual está bien, solo no creo que sea necesariamente una buena opción para Fate.
+Lo anterior pareciera ser igual en todos los demás juegos, pero realmente no lo es —se trata de un razonamiento de que el _railroading_ no es una característica de los juegos Fate—. Si sabes qué ocurrirá, entonces en algún nivel los personajes no serán proactivos. Estarán buscando el botón mágico de la "escena siguiente". No tienen la capacidad de decidir qué acción realizar. Y algunos juegos y estilos se basan en gran medida en este tipo de estructura de juego.  Lo cual está bien, solo no creo que sea necesariamente una buena opción para Fate.
 
 También, se convierte en una buena pregunta el cuestionarse si los juegos basados en investigación son una opción buena con Fate. Los juegos basados en investigación generalmente tratan de seguir el rastro de pistas, lo que conduce hacia jugadores reactivos y no proactivos. Debido a que todos están reaccionando a las pistas y la trama, el nivel de control narrativo que Fate les da a los jugadores hace que la investigación sea problemática.
 
 ## Personajes Competentes
 
-Los personajes de Fate son competentes. Son buenos en lo que hacen. Quizás no son los mejores del mundo, pero en lo que sea que son buenos, lo son. Ellos no son unos aficionados torpes.
+Los personajes de Fate son competentes. Son buenos en lo que hacen. Quizás no son los mejores del mundo, pero en lo que sea que son buenos, lo son. Ellos no son unos simples aficionados torpes.
 
 ## Habilidades, Aspectos, Forzados e Invocaciones
 
@@ -33,11 +33,11 @@ Funciona y la forma en que genera personajes interconectados es para mí una par
 
 ## Falta de optimización de personajes
 
-Como juego, Fate casi hace todo lo posible para evitar que los jugadores maximicen las cosas en las que sus personajes son buenos. La creación de proezas se centra en hacer que las cosas sean interesantes en vez de minimizar o maximizar. Entonces, la creación de proezas es opuesta a la idea de "hallar la combinación de cosas perfecta que hagan a mi personaje increíble". En la discusión de la mesa acerca de las proezas, igualmente se tiene un veto general para cuando  un jugador esté buscando minimizar o maximizar a su personaje.
+Como juego, Fate casi hace todo lo posible para evitar que los jugadores maximicen las cosas en las que sus personajes son buenos. La creación de proezas se centra en hacer que las cosas sean interesantes en vez de minimizar o maximizar. Entonces, la creación de proezas es opuesta a la idea de "hallar la combinación de cosas perfecta que hagan a mi personaje increíble". En la mesa, cuando se discuta acerca de las proezas, igualmente se cuenta con un veto general para cuando  un jugador esté buscando minimizar o maximizar a su personaje.
 
 ## Habilidades “Finales"
 
-Una de las cosas que realmente aprecio de Fate es la idea de que las habilidades representan tu capacidad final para influir en la escena —no una capacidad base para ser modificada por un trillón de otros factores. Esto se relaciona bastante con el punto de optimización del personaje anterior.
+Una de las cosas que realmente me agrada de Fate es la idea de que las habilidades representan tu capacidad final para influir en la escena —no una capacidad base para ser modificada por un trillón de otros factores—. Esto se relaciona bastante con el punto de optimización del personaje anterior.
 
 ## Falta de énfasis en el dominio del sistema
 
