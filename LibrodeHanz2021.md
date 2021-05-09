@@ -41,7 +41,7 @@ Una de las cosas que realmente me agrada de Fate es la idea de que las habilidad
 
 ## Falta de énfasis en el dominio del sistema
 
-Para mí, Fate no es juego sobre aprender a manipular el sistema de juego. Es un juego sobre la ficción (las cosas que nos imaginamos en nuestras cabezas), no sobre las reglas. Las reglas se quitan de en medio, y es difícil que el dominio del sistema sea importante, si se está intentando restar importancia al mismo. 
+Para mí, Fate no es juego sobre aprender a manipular el sistema de juego. Es un juego sobre la ficción (las cosas que nos imaginamos en nuestras cabezas), no sobre las reglas. Las reglas se hacen a un lado. Lo que hace difícil que el dominio del sistema sea importante en el juego cuando se está intentando restar importancia al mismo. 
 
 Intentos por hacer "reglas más pesadas" (es decir, hacer que el dominio del sistema sea más importante) hace que los juegos se sientan menos como Fate.
 
@@ -51,15 +51,15 @@ Las escenas en los juegos Fate funcionan mejor como una serie de ramificaciones 
 
 ## Enfocarse en el costo de la oportunidad
 
-Esto es fundamental. A diferencia de los juegos que se centran en el dominio del sistema y superar desafíos, Fate pienso que funciona mejor cuando el costo de la oportunidad se echa en cara a los jugadores. Estas son preguntas que aparecen una y otra vez en Fate —¿Cuánto deseas esto y a qué estás dispuesto a renunciar para conseguirlo? ¿Gastarías un punto Fate para conseguir una victoria, lograr un éxito a un costo, o aceptarías un forzado?
+Esto es fundamental. A diferencia de los juegos que se centran en el dominio del sistema y superar desafíos, Fate pienso que funciona mejor cuando el costo de la oportunidad se echa en cara a los jugadores. Estas son preguntas que aparecen una y otra vez en Fate: ¿Cuánto deseas esto y a qué estás dispuesto a renunciar para conseguirlo? ¿Gastarías un punto Fate para conseguir una victoria, lograr un éxito a un costo, o aceptarías un forzado?
 
-Si un juego de Fate quita énfasis a esto, para mí comienza a sentirse menos como Fate.  Algunos hacks de Fate que hacen cosas como requerir el gasto previo de puntos Fate o similares se sienten menos "Fate" para mí.
+Si un juego de Fate quita énfasis a esto, para mí se siente menos como Fate.  Algunos hacks de Fate que hacen cosas como requerir el gasto previo de puntos Fate o similares se sienten menos "Fate" para mí.
 
 ## Concentrarse en qué es lo importante en la historia, no en simular la realidad
 
 En la ficción en general, el arma que un combatiente usa no es relevante la mayor parte del tiempo. Lo que importa es la historia que estás contando. 
 
-Un ejemplo sobre concentrarse en la historia que estás contando es pensar en los _mechas_. ¿La historia trata acerca de los _mecha_? ¿Cuánta puntuación debería tener un _mecha_, y cuánta de su capacidad de combate debería estar basada en si mismo en lugar de su piloto? Si se trata del piloto, y un buen piloto en un _mecha_ débil o mediocre puede ser un combatiente eficaz, entonces el _mecha_ solo debería tener un modificador que influya en las habilidades del piloto, y la historia se enfocaría en los pilotos. Pero si la historia debe centrarse en conseguir increíbles mechas, entonces deberían tener una influencia mayor.  No se trata de qué es "realista".  Es una cuestión de "¿qué influencia tiene esto en el juego y qué elementos quiero que sean importantes en el  mismo?"
+Un ejemplo sobre concentrarse en la historia que estás contando es pensar en los _mechas_. ¿La historia trata acerca de los _mechas_? ¿Cuánta puntuación debería tener un _mecha_, y cuánta de su capacidad de combate debería estar basada en sí mismo en lugar de su piloto? Si se trata del piloto, y un buen piloto en un _mecha_ débil o mediocre puede ser un combatiente eficaz, entonces el _mecha_ solo debería tener un modificador que influya en las habilidades del piloto, y la historia se enfocaría en los pilotos. Pero si la historia debe centrarse en conseguir increíbles _mechas_, entonces deberían tener una influencia mayor.  No se trata de qué es "realista".  Es una cuestión de "¿qué influencia tiene esto en el juego y qué elementos quiero que sean importantes en el mismo?"
 
 ## Bonificaciones activas en vez de pasivas
 
@@ -67,13 +67,14 @@ Las bonificaciones son activas como resultado de las cosas que haces, esto encaj
 
 ## Habilidades ligadas a los resultados, no a las acciones
 
-En varios juegos, usar una habilidad significa comprometerse en una tarea específica que puede tener un resultado variable. En Fate, lo veo más como "Intento lograr esto –¿tengo éxito?" Es un punto sutil, pero bastante importante, y muestra cómo se aplican muchas mecánicas.
+En varios juegos usar una habilidad significa comprometerse en una tarea específica que puede tener un resultado variable. En Fate, lo veo más como: "Intento lograr esto, ¿tengo éxito?" Es un punto sutil, pero bastante importante y muestra cómo se aplican muchas mecánicas.
 
 ## Resultados de la curva de campana
 
-Fate utiliza un esquema de aleatorización fuertemente sesgado hacia resultados "promedio" o una curva de campana. No utiliza una distribución plana. Cómo se logra específicamente esa curva de campana, o exactamente qué tan sesgada está, es algo más amplio –pero una distribución plana no se siente como Fate para mí. Al usar una curva de campana que tiende hacia 0, se pone más énfasis en la puntuación de la habilidad. Cuando tu personaje es bueno en algo, se siente como si lo fuera.
+Fate utiliza un esquema de aleatorización fuertemente sesgado hacia resultados "promedio" o una curva de campana. No utiliza una distribución plana. Cómo se logra específicamente esa curva de campana, o exactamente qué tan sesgada está, es algo más amplio –pero una distribución plana no se siente como Fate para mí—. Al usar una curva de campana que tiende hacia cero, se pone más énfasis en la puntuación de la habilidad. Cuando tu personaje es bueno en algo, se siente como si lo fuera.
 
-Esto es la escencia de lo que considero es Fate o no lo es para mí.
+
+Lo anterior, es la escencia de lo que considero es Fate o, en su caso, no lo es para mí.
 
 # ¿Por qué diablos estoy haciendo esto?
 
