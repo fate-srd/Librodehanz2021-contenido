@@ -10,23 +10,23 @@ Sí, podría hackear Fate lo suficiente para jugar un juego de D&D aceptable, pe
 
 Entonces, ¿cuáles son las cosas que considero hacen a Fate lo que es? No como algún tipo de prueba de pureza, sino como un indicador más general —si veo una versión de Fate que cumple con el 95% de estas cosas, probablemente se sentirá como Fate para mí. Pero, si veo algo que solo cumple con el 10% de estas, probablemente no funcione como Fate muy bien—.
 
-## Personajes Proactivos
+## Personajes proactivos
 
 Esto es muy importante. Los personajes de Fate son proactivos. Hacen que las cosas sucedan. El juego progresa como resultado de sus acciones.
 
-Lo anterior pareciera ser igual en todos los demás juegos, pero realmente no lo es —se trata de un razonamiento de que el _railroading_ no es una característica de los juegos Fate—. Si sabes qué ocurrirá, entonces en algún nivel los personajes no serán proactivos. Estarán buscando el botón mágico de la "escena siguiente". No tienen la capacidad de decidir qué acción realizar. Y algunos juegos y estilos se basan en gran medida en este tipo de estructura de juego.  Lo cual está bien, solo no creo que sea necesariamente una buena opción para Fate.
+Lo anterior pareciera ser igual en todos los demás juegos, pero realmente no lo es —esta es la razón por la que el _railroading_ no es parte de los juegos Fate—. Si sabes qué ocurrirá, entonces en algún nivel los personajes no serán proactivos. Estarán buscando el botón mágico de la "escena siguiente". No tienen la capacidad de decidir qué acción realizar. Y algunos juegos y estilos se basan en gran medida en este tipo de estructura de juego.  Lo cual está bien, solo no creo que sea necesariamente una buena opción para Fate.
 
 También, se convierte en una buena pregunta el cuestionarse si los juegos basados en investigación son una opción buena con Fate. Los juegos basados en investigación generalmente tratan de seguir el rastro de pistas, lo que conduce hacia jugadores reactivos y no proactivos. Debido a que todos están reaccionando a las pistas y la trama, el nivel de control narrativo que Fate les da a los jugadores hace que la investigación sea problemática.
 
-## Personajes Competentes
+## Personajes competentes
 
 Los personajes de Fate son competentes. Son buenos en lo que hacen. Quizás no son los mejores del mundo, pero en lo que sea que son buenos, lo son. Ellos no son unos simples aficionados torpes.
 
-## Habilidades, Aspectos, Forzados e Invocaciones
+## Habilidades, aspectos, forzados e invocaciones
 
-Sin estos cuatro elementos funcionando más o menos como lo hacen en Fate Básico, no se sentirá mucho como Fate para mí. Las proezas pueden eliminarse si es necesario, porque Fate es más que solo Proezas y lo que se puede hacer con ellas.
+Sin estos cuatro elementos funcionando más o menos como lo hacen en Fate Básico, no se sentirá mucho como Fate para mí. Las proezas pueden eliminarse si es necesario, porque Fate es más que solo proezas y lo que se puede hacer con ellas.
 
-## Las Tres Fases
+## Las tres fases
 
 Esto ha existido y casi no ha cambiado desde SotC. 
 Funciona y la forma en que genera personajes interconectados es para mí una parte bastante importante de la experiencia de Fate.
@@ -35,7 +35,7 @@ Funciona y la forma en que genera personajes interconectados es para mí una par
 
 Como juego, Fate casi hace todo lo posible para evitar que los jugadores maximicen las cosas en las que sus personajes son buenos. La creación de proezas se centra en hacer que las cosas sean interesantes en vez de minimizar o maximizar. Entonces, la creación de proezas es opuesta a la idea de "hallar la combinación de cosas perfecta que hagan a mi personaje increíble". En la mesa, cuando se discuta acerca de las proezas, igualmente se cuenta con un veto general para cuando  un jugador esté buscando minimizar o maximizar a su personaje.
 
-## Habilidades “Finales"
+## Habilidades “finales"
 
 Una de las cosas que realmente me agrada de Fate es la idea de que las habilidades representan tu capacidad final para influir en la escena —no una capacidad base para ser modificada por un trillón de otros factores—. Esto se relaciona bastante con el punto de optimización del personaje anterior.
 
@@ -78,27 +78,27 @@ Lo anterior, es la escencia de lo que considero es Fate o, en su caso, no lo es 
 
 # ¿Por qué diablos estoy haciendo esto?
 
-He dedicado mucho tiempo a algunas de estas publicaciones y me gustaría señalar por qué. Soy un jugador de muchos años.  Llevo jugando más de treinta años, habiendo empezado con D&D básico de la edición de Moldvay.  He jugado una gran cantidad de sistemas.  He trabajado con gente famosa de la industria, aunque ciertamente no soy "gente famosa de la industria".
+He dedicado mucho tiempo a algunas de estas publicaciones y me gustaría señalar el porqué. Soy un jugador de muchos años.  Llevo jugando más de treinta años, habiendo empezado con D&D básico de la edición de Moldvay.  He jugado una gran cantidad de sistemas.  He trabajado con gente famosa de la industria, aunque ciertamente no soy "gente famosa de la industria".
 
 Mi forma de pensar es bastante de la vieja escuela. ¡Sí! la muerte de personajes, ¡sí! la dificultad, ¡sí! obtener cosas increíbles. Si me hubieras preguntado hace un año si tendría sentido que un personaje encontrara una puerta secreta que no estaba en el mapa, solo porque había conseguido una tirada buena, te hubiera preguntado si estabas loco. Si me hubieses dicho hace un año que abogaría por no matar personajes sin una discusión, te pediría que me compartas lo que estás fumando (¡Aunque todavía mantengo esas declaraciones para ciertos tipos de juegos!).
 
-Empecé Fate con SotC y DFRPG.  Y fue una curva de aprendizaje. Había cosas que simplemente no entendía y lo sabía. Pero me gustó tanto lo que sucedía, y me gustó tanto Fate (mi incursión anterior en sistemas narrativos había sido _Burning Wheel_) que me atrapó. Y el mayor problema, una y otra vez, fue el hecho de que inconscientemente estaba tratando de hacer que Fate actuara como un sistema más tradicional.
+Empecé Fate con SotC y DFRPG.  Y fue una curva de aprendizaje. Había cosas que simplemente no entendía y lo sabía. Pero me gustó tanto lo que sucedía y me gustó tanto Fate (mi incursión anterior en sistemas narrativos había sido _Burning Wheel_) que me atrapó. Y el mayor problema, una y otra vez, fue el hecho de que inconscientemente estaba tratando de hacer que Fate funcionara como un sistema más tradicional.
 
 ¿Dónde están los atributos?  ¿Dónde estaban las cosas que se suman?  ¿Cómo diablos tenía sentido tener un aspecto «Realmente fuerte», pero solo entraba en juego en ocasiones?  ¡Era una locura!
 
 Pero, me atrapó. Leí los libros, jugué con personas que lo entendían (¡Hola Jacob Poss!). Leí las respuestas de los gurús de esta comunidad (más de lo que me importa nombrar, ¡la mayoría de ustedes saben quiénes son!). 
 
-Al principio, fueron algunas partes aquí y allá que se juntaron y fueron simplemente increíbles.Y luego, en algún momento, algo hizo clic.  Tuvo sentido. Lo entendí. "Ficción, no física" se convirtió en más que un lindo eslogan para hacer que la diversión sea más importante que el realismo. Dejé de buscar más sistemas. Los aviones como proezas en _Kriegszeppelin Valkyrie_ tenían sentido. La importancia de las tres fases hizo clic.
+Al principio, fueron algunas partes aquí y allá que se juntaron y fueron simplemente increíbles. Y luego, en algún momento, algo hizo clic. Tuvo sentido. Lo entendí. "Ficción, no física" se convirtió en más que un lindo eslogan para hacer que la diversión sea más importante que el realismo. Dejé de buscar más sistemas. Los aviones como proezas en _Kriegszeppelin Valkyrie_ tenían sentido. La importancia de las tres fases hizo clic.
 
-Cuando todo encajó, encontré una nueva forma de jugar juegos de rol.  Una forma que es bastante asombrosa, y muy diferente al D&D que jugué cuando tenía 10 años.
+Cuando todo encajó, encontré una nueva forma de jugar juegos de rol. Una forma que es bastante asombrosa y muy diferente al D&D que jugué cuando tenía 10 años.
 
-No me malinterpretes, todavía me gustan otras formas de jugar. No tengo ningún problema con un buen y viejo juego de mazmorreo, o una serie de encuentros tácticos con algunos fragmentos de historia o investigación entre ellos. Me he divertido muchísimo a lo largo de los años jugando a esos juegos, y estoy seguro de que lo seguiré haciendo en los próximos años. Quiero jugar un juego X-COM en algún momento, y es casi seguro que no lo haré con Fate (_GURPS_ y _Savage Worlds_ son los favoritos).
+No me malinterpretes, todavía me gustan otras formas de jugar. No tengo ningún problema con un buen y viejo juego de mazmorreo, o una serie de encuentros tácticos con algunos fragmentos de historia o investigación entre ellos. Me he divertido muchísimo a lo largo de los años jugando a esos juegos y estoy seguro de que lo seguiré haciendo en los próximos años. Quiero jugar un juego X-COM en algún momento y es casi seguro que no lo haré con Fate (_GURPS_ y _Savage Worlds_ son los favoritos).
 
-Y de eso se tratan estas publicaciones —detallar mis logros conseguidos y compartirlos para tal vez ayudar a otras personas que están luchando por superar las mismas cosas que yo me enfrenté. Entonces, si publico algo como, "Fate no tiene un sistema de daño", no lo tome como una declaración demasiado seria. Tómelo como yo, diciendo: “¡Mierda!  ¡Me acabo de dar cuenta de que este juego no tiene un sistema de daños!  ¡Piensa en los resultados del combate de una manera casi totalmente diferente! ¡Eso es increíblemente genial!"
+Y de eso se tratan estas publicaciones: detallar mis logros conseguidos y compartirlos para tal vez ayudar a otras personas que están luchando por superar las mismas cosas que yo me enfrenté. Entonces, si publico algo como: "Fate no tiene un sistema de daño", no lo tome como una declaración demasiado seria. Tómelo como yo lo hago, diciendo: “¡Mierda!  ¡Me acabo de dar cuenta de que este juego no tiene un sistema de daños!  ¡Piensa en los resultados del combate de una manera casi totalmente diferente! ¡Eso es increíblemente genial!"
 
-De eso se tratan estas publicaciones. Tratar de ayudar a otros a mirar a Fate con un poco de "mente de principiante" y verlo a través de ojos no condicionados por años de juegos con otros sistemas. Se trata de ayudar a otros a encontrar las cosas que considero increíbles en el sistema. No se trata de decirle a la gente que están haciendo las cosas "mal" —no hay una Policía de Fate lista para derribar puertas. Si te estás divirtiendo, lo estás haciendo bien. Se trata de compartir las cosas que descubrí sobre el sistema cuando dejé de intentar meter una clavija cuadrada en un agujero redondo.
+De eso se tratan estas publicaciones. Tratar de ayudar a otros a mirar a Fate con un poco de "mente de principiante" y verlo a través de ojos no condicionados por años de juegos con otros sistemas. Se trata de ayudar a otros a encontrar las cosas que considero increíbles en el sistema. No se trata de decirle a la gente que están haciendo las cosas "mal" —no hay una Policía de Fate lista para derribar puertas—. Si te estás divirtiendo, lo estás haciendo bien. Se trata de compartir las cosas que descubrí sobre el sistema cuando dejé de intentar meter una clavija cuadrada en un agujero redondo.
 
-Lo cual es duro. Tenemos muchas cosas en los juegos tradicionales que funcionan y hacen que los juegos sean increíbles. En muchos casos, desviarse ligeramente de esos juegos no funciona, ya que esos juegos tienden a ubicarse en un "máximo local" —área donde las decisiones tomadas funcionan juntas de una manera estrecha y entrelazada. Pero creo que Fate se encuentra en un "máximo local" muy diferente al de la mayoría de los juegos, y para encontrarlo debes cambiar muchas suposiciones. Me pareció que valía la pena, así que quiero compartir lo que he aprendido para ayudar a otros a encontrar las mismas cosas increíbles.
+Lo cual es duro. Tenemos muchas cosas en los juegos tradicionales que funcionan y hacen que los juegos sean increíbles. En muchos casos, desviarse ligeramente de esos juegos no funciona, ya que esos juegos tienden a ubicarse en un "máximo local" —área donde las decisiones tomadas funcionan juntas de una manera estrecha y entrelazada—. Pero creo que Fate se encuentra en un "máximo local" muy diferente al de la mayoría de los juegos, y para encontrarlo debes cambiar muchas suposiciones. Me pareció que valía la pena, así que quiero compartir lo que he aprendido para ayudar a otros a encontrar las mismas cosas increíbles.
 
 # Introducir personas a Fate
 
@@ -110,9 +110,9 @@ Lo primero que hago es hablar sobre las fortalezas del sistema. Señalo cómo el
 
 Antes del juego, repaso algunas cosas. Primero, hablo del hecho de que en Fate, la expectativa no es que te den un montón de encuentros y que tengas que superarlos. Le señalo que fallar es normal y esperado, y no significará el final del juego.
 
-A la hora del juego, realizo la creación de la ambientación y de los personajes de manera cooperativa. Encuentro que esto genera mayor compromiso con la ambientación, y facilita la creación de personajes. Hacer que los jugadores se involucren en el juego y se emocionen antes de comenzar parece útil para hacerlos avanzar si se encuentran sin poder avanzar en algún momento.
+A la hora del juego, realizo la creación de la ambientación y de los personajes de manera cooperativa. Encuentro que esto genera mayor compromiso con la ambientación y facilita la creación de personajes. Hace que los jugadores se involucren en el juego y se emocionen antes de comenzar parece útil para hacerlos avanzar si se encuentran sin poder hacerlo en algún momento.
 
-Me aseguro de que al crear personajes, se haga en grupo —la persona cuyo personaje se está creando lidera el proceso, pero todos están prestando atención y contribuyendo.
+Me aseguro de que al crear personajes, se haga en grupo —la persona cuyo personaje se está creando lidera el proceso, pero todos están prestando atención y contribuyendo—.
 
 Explicar aspectos en este punto ayuda, así como también ofrecer sugerencias. Puedo orientarlos hacia aspectos un poco más útiles con lo que sé sin poner todo mi esfuerzo. 
 
@@ -120,21 +120,21 @@ La explicación habitual de aspectos que me gusta dar es algo como esto: “Tome
 
 Si bien la creación de personajes de manera colaborativa, uno por uno, puede parecer lenta, en la práctica funciona más rápido. Creo que el nivel de colaboración e interés, combinado con la atención de alguien que conoce el juego, mantiene las cosas en movimiento a un ritmo narrativo mejor. Además, para las fases de "estrella invitada", parece ayudar porque los jugadores ya estarán algo familiarizados con las historias en las que son protagonistas invitados.
 
-Después de completar las habilidades, generalmente paso por alto las proezas y dejo espacios en blanco.  Puedo ayudarlos a pensar en proezas que funcionen con su personaje, pero he descubierto que esto es lo que puede llevar más tiempo.  En cambio, sugeriré proezas durante el juego a medida que estén disponibles, y señalaré de antemano que esto es lo que haremos.
+Después de completar las habilidades, generalmente paso por alto las proezas y dejo espacios en blanco.  Puedo ayudarlos a pensar en proezas que funcionen con su personaje, pero he descubierto que esto es lo que puede llevar más tiempo.  En cambio, sugeriré proezas durante el juego a medida que estén disponibles y señalaré de antemano que esto es lo que haremos.
 
-Me aseguro de seguir con el modelo de TV / Película / Libro. Todos los ejemplos que utilizo para explicar las reglas serán de uno de esos o se enmarcarán como si estuvieran en uno. Haré referencias a "tomas de cámara" y cosas así —incluso haga cortes o "secuencias de título" según corresponda. Para mí, la clave aquí es ser coherente al enmarcar las cosas de esta manera, para ayudar a superar algunas de las tendencias "simulacionistas" que tienen la mayoría de los nuevos jugadores (incluyéndome).
+Me aseguro de seguir con el modelo de TV / Película / Libro. Todos los ejemplos que utilizo para explicar las reglas serán de uno de esos o se enmarcarán como si estuvieran en uno. Haré referencias a "tomas de cámara" y cosas así —incluso haga cortes o "secuencias de título" según corresponda—. Para mí, la clave aquí es ser coherente al enmarcar las cosas de esta manera, para ayudar a superar algunas de las tendencias "simulacionistas" que tienen la mayoría de los nuevos jugadores (incluyéndome).
 
-Además, durante el juego trato de tener en cuenta lo que haría si estuviera llevando ese PJ y ofrezco sugerencias. También mantengo el énfasis en "está bien, pero ¿qué haces?" Cada vez que los jugadores comienzan a centrarse más en los números que en el juego.
+Además, durante el juego trato de tener en cuenta lo que haría si estuviera llevando ese PJ y ofrezco sugerencias. También mantengo el énfasis en "—está bien, pero ¿qué haces?" Cada vez que los jugadores comienzan a centrarse más en los números que en el juego.
 
-Una cosa que he visto es que los jugadores tienen dificultades para ser proactivos y tratan de impulsar las cosas. El modo habitual que he visto en los jugadores es investigar pasivamente. Así que también pregunto con frecuencia “Bien, ¿qué estás tratando de sacar de esto?  Imagínese el mejor éxito posible para esto  —¿cómo se ve?". Curiosamente, creo que la idea de que los jugadores tengan éxito en ese nivel y obtengan lo que quieren es un concepto novedoso en muchos casos.
+Una cosa que he visto es que los jugadores tienen dificultades para ser proactivos y tratar de impulsar las cosas. El modo habitual que he visto en los jugadores es investigar pasivamente. Así que también pregunto con frecuencia “—Bien, ¿qué estás tratando de sacar de esto? Imagínese el mejor éxito posible para esto: —¿cómo se ve?". Curiosamente, creo que la idea de que los jugadores tengan éxito en ese nivel y obtengan lo que quieren es un concepto novedoso en muchos casos.
 
-Es casi seguro que surgirá un Conflicto físico (pelea), aunque sea por la única razón que se espera en la mayoría de los juegos de rol, por lo que no me importa cumplir con esa expectativa. Veo esto como una oportunidad para enseñar más de Fate y hacer que la gente se involucre e interese más en él.
+Es casi seguro que surgirá un conflicto físico (pelea), aunque sea por la única razón que se espera en la mayoría de los juegos de rol, por lo que no me importa cumplir con esa expectativa. Veo esto como una oportunidad para enseñar más de Fate y hacer que la gente se involucre e interese más.
 
-La clave aquí es hacer que piensen en términos de una buena estrategia de Fate dirigida a las debilidades, usando la acción Crear una Ventaja y todas las demás cosas. Una vez más, me resulta útil volver a películas / TV / libros.  Ya sea antes del Conflicto, o dentro de una ronda más o menos, pediré un tiempo fuera, y explicaré cómo funciona y cómo la acción Crear una Ventaja realmente puede hacer maravillas por su efectividad, en lugar de intentar tirar con tu Pelea 2 contra Pelea 6 de tu oponente.
+La clave aquí es hacer que piensen en términos de una buena estrategia de Fate dirigida a las debilidades, usando la acción *Crear una ventaja* y todas las demás cosas. Una vez más, me resulta útil volver a películas / TV / libros.  Ya sea antes del *Conflicto*, o dentro de una ronda más o menos, pediré un tiempo fuera y explicaré cómo funciona y cómo la acción *Crear una Ventaja* realmente puede hacer maravillas por su efectividad, en lugar de intentar tirar con tu 2 de Pelea contra 6 de Pelea de tu oponente.
 
-También me aseguraré de que sepan que puede hacer una concesión y señalaré que pueden ofrecer hacerlo en cualquier momento.  Enfatizaré que el tiempo que permanezcan en la pelea realmente depende más de cuánto están dispuestos a arriesgar, y reiteraré que perder no es necesariamente malo. En muchos casos, esta primera pelea se diseñará deliberadamente para perderse o rendirse.  A menudo lo enmarco como un incidente incitante, de modo que impulse la historia hacia adelante.
+También me aseguraré de que sepan que puede hacer una *concesión* y señalaré que pueden ofrecer hacerlo en cualquier momento.  Enfatizaré que el tiempo que permanezcan en la pelea realmente depende más de cuánto están dispuestos a arriesgar, y reiteraré que perder no es necesariamente malo. En muchos casos, esta primera pelea se diseñará deliberadamente para perderse o rendirse.  A menudo lo enmarco como un incidente incitante, de modo que impulse la historia hacia adelante.
 
-Una cosa que no hago es tratar de "facilitar" el aprendizaje de Fate haciéndolo más parecido a otros juegos. Sé que es bastante común, pero realmente no le he visto ningún valor ni necesidad. Por lo general, me parece que funciona muy bien simplemente decir “Sí, esto es diferente.  He aquí por qué y esto es lo que le ofrece. Así que probémoslo". Para aquellas cosas que "no coinciden", creo que tienes que hacer lo uno o lo otro —o haz que sea lo suficientemente parecido a lo que se espera que no desencadene la reacción, o dilo para que esté en la mente consciente de todos, lo que también pasa por alto ese tipo de reacción inconsciente.
+Una cosa que no hago es tratar de "facilitar" el aprendizaje de Fate haciéndolo más parecido a otros juegos. Sé que es bastante común, pero realmente no le he visto ningún valor ni necesidad. Por lo general, me parece que funciona muy bien simplemente decir: “—sí, esto es diferente.  He aquí por qué y esto es lo que le ofrece. Así que probémoslo". Para aquellas cosas que "no coinciden", creo que tienes que hacer lo uno o lo otro —o haz que sea lo suficientemente parecido a lo que se espera que no desencadene la reacción, o dilo para que esté en la mente consciente de todos, lo que también pasa por alto ese tipo de reacción inconsciente—.
 
 # Primero la ficción, interacción de reglas de ficción y resultados sin sentido
 
