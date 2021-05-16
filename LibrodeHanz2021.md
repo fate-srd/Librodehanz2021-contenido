@@ -102,39 +102,39 @@ Lo cual es duro. Tenemos muchas cosas en los juegos tradicionales que funcionan 
 
 # Introducir personas a Fate
 
-Esto parece ocurrir un montón. Fate hace algunas cosas de manera diferente. Básicamente, creo que se debe a que intenta responder preguntas muy diferentes a las que hacen los juegos de rol típicos. Por eso, puede parecer un poco extraño al principio para los nuevos jugadores.  Hay una serie de conceptos que no encajan particularmente bien con los juegos de rol más "tradicionales" o típicos.
+Esto parece ocurrir un montón. Fate hace algunas cosas de manera diferente. Básicamente, pienso que se debe a que intenta responder preguntas muy diferentes a las que hacen los juegos de rol típicos. Por eso puede parecer un poco extraño al principio para los jugadores nuevos.  Hay una serie de conceptos que no encajan particularmente bien con los juegos de rol más "tradicionales" o típicos.
 
-Entonces, ¿cómo introduces a nuevos jugadores?
+Entonces, ¿cómo introducir a jugadores nuevos?
 
 Lo primero que hago es hablar sobre las fortalezas del sistema. Señalo cómo el sistema realmente te permite pensar en quién es tu personaje, en lugar de solo qué es y qué puede hacer. Señalo lo rápido que se juega y el gran soporte que tiene para las opciones y acciones que no son de combate.
 
 Antes del juego, repaso algunas cosas. Primero, hablo del hecho de que en Fate, la expectativa no es que te den un montón de encuentros y que tengas que superarlos. Le señalo que fallar es normal y esperado, y no significará el final del juego.
 
-A la hora del juego, realizo la creación de la ambientación y de los personajes de manera cooperativa. Encuentro que esto genera mayor compromiso con la ambientación y facilita la creación de personajes. Hace que los jugadores se involucren en el juego y se emocionen antes de comenzar parece útil para hacerlos avanzar si se encuentran sin poder hacerlo en algún momento.
+A la hora del juego, realizo la creación de la ambientación y de los personajes de manera colaborativa. Encuentro que esto genera mayor compromiso con la ambientación y facilita la creación de personajes. Hace que los jugadores se involucren en el juego y se emocionen antes de comenzar. También, parece útil para hacerlos avanzar si se encuentran sin poder hacerlo en algún momento.
 
 Me aseguro de que al crear personajes, se haga en grupo —la persona cuyo personaje se está creando lidera el proceso, pero todos están prestando atención y contribuyendo—.
 
 Explicar aspectos en este punto ayuda, así como también ofrecer sugerencias. Puedo orientarlos hacia aspectos un poco más útiles con lo que sé sin poner todo mi esfuerzo. 
 
-La explicación habitual de aspectos que me gusta dar es algo como esto: “Tomemos a Han Solo al final de Star Wars.  ¿Qué cosas tendrían que incluir las historias para que sea realmente 'historias de Han Solo'?". Por lo general, la respuesta serán cosas como el Halcón, Chewie, su deuda con Jabba, que sea un tipo apuesto o arrogante, etc. Y esas son todas las cosas que considero que son sus aspectos.
+La explicación habitual de aspectos que me gusta dar es algo como esto: "Tomemos a Han Solo al final de Star Wars.  ¿Qué cosas tendrían que incluir las historias para que sea realmente 'historias de Han Solo'?". Por lo general, la respuesta serán cosas como: el Halcón, Chewie, su deuda con Jabba, que sea un tipo apuesto o arrogante, etc. Y esas son todas las cosas que considero que son sus aspectos.
 
-Si bien la creación de personajes de manera colaborativa, uno por uno, puede parecer lenta, en la práctica funciona más rápido. Creo que el nivel de colaboración e interés, combinado con la atención de alguien que conoce el juego, mantiene las cosas en movimiento a un ritmo narrativo mejor. Además, para las fases de "estrella invitada", parece ayudar porque los jugadores ya estarán algo familiarizados con las historias en las que son protagonistas invitados.
+Si bien la creación de personajes de manera colaborativa, uno por uno, puede parecer lenta en la práctica funciona más rápido. Creo que el nivel de colaboración e interés, combinado con la orientación de alguien que conoce el juego, mantiene las cosas en movimiento a un ritmo narrativo mejor. Además, para las fases de "estrella invitada" (hace referencia a la [fase cuatro y cinco de SotC](https://www.faterpg.com/dl/sotc-srd.html#phase-4-guest-star), N.d.T), parece ayudar porque los jugadores ya estarán algo familiarizados con las historias en las que son protagonistas invitados.
 
-Después de completar las habilidades, generalmente paso por alto las proezas y dejo espacios en blanco.  Puedo ayudarlos a pensar en proezas que funcionen con su personaje, pero he descubierto que esto es lo que puede llevar más tiempo.  En cambio, sugeriré proezas durante el juego a medida que estén disponibles y señalaré de antemano que esto es lo que haremos.
+Después de completar las habilidades, generalmente paso por alto las proezas y dejo los espacios en blanco.  Puedo ayudarlos a pensar en proezas que funcionen con su personaje, pero he descubierto que esto es lo que puede llevar más tiempo.  En cambio, sugeriré proezas durante el juego a medida que estén disponibles y señalaré de antemano que eso es lo que haremos.
 
-Me aseguro de seguir con el modelo de TV / Película / Libro. Todos los ejemplos que utilizo para explicar las reglas serán de uno de esos o se enmarcarán como si estuvieran en uno. Haré referencias a "tomas de cámara" y cosas así —incluso haga cortes o "secuencias de título" según corresponda—. Para mí, la clave aquí es ser coherente al enmarcar las cosas de esta manera, para ayudar a superar algunas de las tendencias "simulacionistas" que tienen la mayoría de los nuevos jugadores (incluyéndome).
+Me aseguro de seguir con el modelo de la tv/película/libro. Todos los ejemplos que utilizo para explicar las reglas serán de alguno de los anteriores o se enmarcarán como si estuvieran en uno. Haré referencias a "tomas de cámara" y cosas así —incluso haré cortes o "secuencias de título" según corresponda—. Para mí, la clave aquí es ser coherente al enmarcar las cosas de esta manera, para ayudar a superar algunas de las tendencias "simulacionistas" que tienen la mayoría de los jugadores nuevos (incluyéndome).
 
-Además, durante el juego trato de tener en cuenta lo que haría si estuviera llevando ese PJ y ofrezco sugerencias. También mantengo el énfasis en "—está bien, pero ¿qué haces?" Cada vez que los jugadores comienzan a centrarse más en los números que en el juego.
+Además, durante el juego trato de tener en cuenta lo que haría si estuviera llevando a ese PJ y ofrezco sugerencias. También mantengo el énfasis en: "Está bien, pero ¿qué haces?". Cada vez que los jugadores comienzan a centrarse más en los números que en el juego.
 
-Una cosa que he visto es que los jugadores tienen dificultades para ser proactivos y tratar de impulsar las cosas. El modo habitual que he visto en los jugadores es investigar pasivamente. Así que también pregunto con frecuencia “—Bien, ¿qué estás tratando de sacar de esto? Imagínese el mejor éxito posible para esto: —¿cómo se ve?". Curiosamente, creo que la idea de que los jugadores tengan éxito en ese nivel y obtengan lo que quieren es un concepto novedoso en muchos casos.
+Una cosa que he visto es que los jugadores tienen dificultades para ser proactivos y tratar de impulsar las cosas. El modo habitual que he visto en los jugadores es investigar pasivamente. Así que también pregunto con frecuencia: "Bien, ¿qué estás tratando de sacar de esto?. Imagínate el mejor éxito posible para eso ¿cómo se ve?". Curiosamente, pienso que la idea de que los jugadores tengan éxito en ese nivel y obtengan lo que quieren es un concepto novedoso en muchos casos.
 
 Es casi seguro que surgirá un conflicto físico (pelea), aunque sea por la única razón que se espera en la mayoría de los juegos de rol, por lo que no me importa cumplir con esa expectativa. Veo esto como una oportunidad para enseñar más de Fate y hacer que la gente se involucre e interese más.
 
-La clave aquí es hacer que piensen en términos de una buena estrategia de Fate dirigida a las debilidades, usando la acción *Crear una ventaja* y todas las demás cosas. Una vez más, me resulta útil volver a películas / TV / libros.  Ya sea antes del *Conflicto*, o dentro de una ronda más o menos, pediré un tiempo fuera y explicaré cómo funciona y cómo la acción *Crear una Ventaja* realmente puede hacer maravillas por su efectividad, en lugar de intentar tirar con tu 2 de Pelea contra 6 de Pelea de tu oponente.
+La clave aquí es hacer que piensen en términos de una buena estrategia de Fate dirigida a las debilidades, usando la acción *Crear una ventaja* y todas las demás cosas. Una vez más, me resulta útil volver a tv/películas/libros.  Ya sea antes del *Conflicto*, o dentro de una ronda más o menos, pediré un tiempo fuera y explicaré cómo funciona y cómo la acción *Crear una Ventaja* realmente puede hacer maravillas por su efectividad, en lugar de intentar tirar con tu 2 de Pelea contra 6 de Pelea de tu oponente.
 
-También me aseguraré de que sepan que puede hacer una *concesión* y señalaré que pueden ofrecer hacerlo en cualquier momento.  Enfatizaré que el tiempo que permanezcan en la pelea realmente depende más de cuánto están dispuestos a arriesgar, y reiteraré que perder no es necesariamente malo. En muchos casos, esta primera pelea se diseñará deliberadamente para perderse o rendirse.  A menudo lo enmarco como un incidente incitante, de modo que impulse la historia hacia adelante.
+También me aseguraré de que sepan que puede hacer una *Concesión* y señalaré que pueden pedir hacerlo en cualquier momento. Enfatizaré que el tiempo que permanezcan en la pelea realmente depende más de cuánto están dispuestos a arriesgar y reiteraré que perder no es necesariamente malo. En muchos casos, esta primera pelea se diseñará deliberadamente para perderse o para que los PJs se rindan.  A menudo lo enmarco como un incidente incitante, de modo que impulse la historia hacia adelante.
 
-Una cosa que no hago es tratar de "facilitar" el aprendizaje de Fate haciéndolo más parecido a otros juegos. Sé que es bastante común, pero realmente no le he visto ningún valor ni necesidad. Por lo general, me parece que funciona muy bien simplemente decir: “—sí, esto es diferente.  He aquí por qué y esto es lo que le ofrece. Así que probémoslo". Para aquellas cosas que "no coinciden", creo que tienes que hacer lo uno o lo otro —o haz que sea lo suficientemente parecido a lo que se espera que no desencadene la reacción, o dilo para que esté en la mente consciente de todos, lo que también pasa por alto ese tipo de reacción inconsciente—.
+Una cosa que no hago es tratar de "facilitar" el aprendizaje de Fate haciéndolo más parecido a otros juegos. Sé que es bastante común, pero realmente no le he visto ningún valor ni necesidad. Por lo general, me parece que funciona muy bien simplemente decir: "sí, esto es diferente.  He aquí por qué y esto es lo que ofrece. Así que probémoslo". Para aquellas cosas que "no son iguales", creo que tienes que hacer lo uno o lo otro —o haces que sea lo suficientemente parecido a lo que se espera que no desencadene la reacción, o dilo abiertamente para que esté en la mente de todos, lo que también pasa por alto ese tipo de reacción inconsciente—.
 
 # Primero la ficción, interacción de reglas de ficción y resultados sin sentido
 
@@ -142,59 +142,59 @@ Una cosa que no hago es tratar de "facilitar" el aprendizaje de Fate haciéndolo
 
 Para mí "ficción" es la mierda que estamos imaginando en nuestras cabezas. Cuando nos olvidamos de nuestros números y dejamos que nuestra imaginación se apodere de la escena, eso es la "ficción" en lugar de centrarnos en los dados y las hojas de personajes.
 
-Y eso es demasiado poderoso. No sé de nadie más, pero esa es la razón por la que juego los juegos de rol. No por el cálculo numérico, sino por esa sensación de estar "en" el mundo y ver lo que sucede. Entonces, ¿qué significa al menos para mi: "primero la ficción"?  Significa que las acciones de los personajes deben comenzar con la "ficción" y describirse en términos de la "ficción". Entonces, y solo entonces, las acciones deben ser interpretadas considerando las mecánicas
+Y eso es demasiado poderoso. No sé de nadie más, pero esa es la razón por la que juego los juegos de rol. No por el cálculo numérico, sino por esa sensación de estar "en" el mundo y ver lo que sucede. Entonces, ¿qué significa al menos para mi: "primero la ficción"?  Significa que las acciones de los personajes deben comenzar con la "ficción" y describirse en términos de la "ficción". Entonces, y solo entonces, las acciones deben ser interpretadas considerando las mecánicas.
 
-Esto significa que en general, los jugadores no deberían iniciar con "Ataco/Supero/Creo". Si escuchas un montón de jerga de juegos en términos de lo que está sucediendo, es hora de poner más énfasis en la "ficción" y menos en las reglas. Describe la escena. Asegúrese de que todos "vean" lo mismo en su mente. Pídales que digan lo que hace su personaje, no lo que sugiere la colección de números en la ficha como el curso de acción óptimo.
+Esto significa que en general, los jugadores no deberían iniciar con frases como: "Ataco.../Supero.../Creo...". Si escuchas un montón de jerga de juegos en términos de lo que está sucediendo, es hora de poner más énfasis en la "ficción" y menos en las reglas. Describe la escena. Asegúrese de que todos "vean" lo mismo en su imaginación. Pídales que digan lo que hace su personaje, no lo que sugiere la colección de números en la ficha como el curso de acción óptimo.
 
 A partir de ahí, averigüe qué otra cosa está involucrada en esta acción. ¿Quién se opone?  ¿Qué tan difícil es?
 
-Una vez que lo haya descubierto, puede empezar a averiguar cómo va a resolver la acción. ¿Es una acción de ataque?  ¿es una acción de superar?  ¿es una acción de crear una ventaja?  ¿Existe una oposición pasiva y, de ser así, a qué nivel? Luego tiramos los dados, revisamos cualquier "intención" de invocación y obtenemos una resolución.
+Una vez que lo haya descubierto, puede empezar a averiguar cómo va a resolver la acción. ¿Es una acción de ataque?  ¿es una acción de superar?  ¿es una acción de crear una ventaja?  ¿Existe una oposición pasiva y, de ser así, a qué nivel? Luego, tiramos los dados, revisamos cualquier "intención" de invocación y obtenemos una resolución.
 
-Y aquí llegamos al siguiente punto: Fate en realidad no te dice lo que sucede. Los dados nunca te dicen lo que realmente ocurre —al menos no de la forma en que se hace en GURPS, donde el sistema determina "le pegas al orco en el brazo, por una cantidad x de daño, y el brazo ha quedado incapacitado". En cambio, Fate impone restricciones a la narración.
+Y aquí llegamos al siguiente punto: Fate en realidad no te dice lo que sucede. Los dados nunca te dicen lo que realmente ocurre —al menos no de la forma en que se hace en *GURPS*, donde el sistema determina lo que ocurre: "le pegas al orco en el brazo, por una cantidad X de daño, y el brazo ha quedado incapacitado". En cambio, Fate lo que hace es imponer restricciones a la narración.
 
-Si atacas a un oponente con una espada y empatas, obtienes un impulso. Genial. ¿Qué significa esto? No es nada en concreto, tenemos que narrar lo que pasa, pero ¿qué pasa?
+Si atacas a un oponente con una espada y el resultado es un empate, obtienes un impulso. ¡Genial! ¿Qué significa esto? No es nada en concreto, tenemos que narrar lo que pasa, pero ¿qué pasa?
 
-Bueno, Fate no nos lo dice. Lo que sí nos dice son los parámetros generales de la narración. Sabemos que no se ha infligido estrés, por lo que el objetivo no está intrínsecamente más cerca de ser eliminado. Sabemos que no han recibido ninguna consecuencia, por lo que no les sucede nada significativo. Sin embargo, sabemos que están en desventaja temporal, y la narración lo tiene que incorporar, pero cómo lo incorporaremos dependerá de nosotros.
+Bueno, Fate no nos lo dice. Lo que sí nos dice son los parámetros generales de la narración. Sabemos que no se ha causado estrés, por lo que el objetivo no está intrínsecamente más cerca de ser eliminado. Sabemos que no han recibido ninguna consecuencia, por lo que no les sucede nada significativo. Sin embargo, sabemos que están en desventaja temporal y la narración lo tiene que incorporar, pero cómo lo incorporaremos dependerá de nosotros.
 
-Para un juego descarnado y sombrío, podría ser que el impacto de parar la espada los hiciera sentir un poco entumecidos en esa mano, pero nada de lo que no pudiera recuperarse.  O podrían ser derribados por la fuerza del golpe.  Para un juego de capa y espada, tal vez su ropa se rasgue y se encolericen durante unos segundos.  En un juego más cinematográfico, tal vez reciban una herida superficial que les haga retroceder.
+Para un juego *gritty*, podría ser que el impacto de parar la espada los hiciera sentir un poco entumecidos en esa mano, pero nada de lo que no pudiera recuperarse.  O podrían ser derribados por la fuerza del golpe.  Para un juego de capa y espada, tal vez su ropa se rasgue y se encolericen durante unos segundos. En un juego más cinematográfico, tal vez reciban una herida superficial que les haga retroceder.
 
-¿Cómo puede un impulso ser un golpe que cause daño si no infligió estrés?
+¿Cómo puede un impulso ser un golpe que cause daño si no causó estrés?
 
-Estrés no es daño —es una medida de ritmo narrativo, una forma de determinar qué tan cerca está alguien de ser eliminado. Y tener éxito en una acción de Ataque no significa que golpees, y empatar, o incluso fallar, en la accion de Ataque no significa que no golpees. Una vez más, Fate no te dice lo que sucede, solo impone restricciones a la narración. Y dado que el estrés es realmente una medida de lo cerca que estás de ser eliminado, siempre que la narración de la resolución sea coherente con eso, estás bien. No necesitas golpear a alguien para que esté más cerca de ser eliminado, y solo porque golpeas a alguien no significa que esté más cerca de ser eliminado.
+Estrés no es daño —es una medida de ritmo narrativo, una forma de determinar qué tan cerca está alguien de ser eliminado—. Y tener éxito en una acción de ataque no significa que golpees, y empatar, o incluso fallar, en la accion de ataque no significa que no golpees. Una vez más, Fate no te dice lo que sucede, solo impone restricciones a la narración. Y dado que el estrés es realmente una medida de lo cerca que estás de ser eliminado, siempre que la narración de la resolución sea coherente con eso, estás bien. No necesitas golpear a alguien para que esté más cerca de ser eliminado, y solo porque golpeas a alguien no significa que esté más cerca de ser eliminado.
 
-Entonces narramos los resultados y el juego avanza.  Esto da un flujo general que se parece a esto:
+Entonces narramos los resultados y el juego avanza.  Esto da un flujo general al juego que se parece a esto:
 
-1. Describe la escena en términos de "la ficción"
+1. Describir la escena en términos de "la ficción"
 
-1. Determina la acción del personaje en la "ficción"
+1. Determinar la acción del personaje en la "ficción"
 
-1. Determina la oposición
+1. Determinar la oposición
 
-1. Determina cómo aplicar las reglas
+1. Determinar cómo aplicar las reglas
 
-1. Resuelve la acción mecánicamente
+1. Resuelver la acción mecánicamente
 
-1. Obtenga restricciones sobre la resolución de las mecánicas
+1. Obtener restricciones sobre la resolución de las mecánicas
 
-1. Narre la resolución dentro de las restricciones dadas.
+1. Narrar la resolución dentro de las restricciones dadas.
 
 En mi opinión, esto aclara algunas preguntas o preocupaciones comunes que surgen sobre Fate, especialmente con aquellos jugadores que provienen de juegos de rol más tradicionales.
 
-Lo primero, si se puede usar la acción Crear una Ventaja para crear un aspecto arbitrario, ¿por qué no puedes usarlo para crear algo descaradamente super poderoso que te haga ganar en la ambientación?
+Lo primero: si se puede usar la acción crear una ventaja para crear un aspecto arbitrario, ¿por qué no puedes usarlo para crear algo descaradamente super poderoso que te haga ganar en la ambientación?
 
-Omitimos los primeros cinco pasos del proceso de resolución. Si la acción propuesta no tiene sentido en la ficción, nunca pasará del segundo paso. Y el paso cuatro definitivamente lo detiene, ya que no hay una forma real de aplicar las reglas a una acción imposible.
+Detengámonos a revisar los primeros cinco pasos del proceso de resolución. Si la acción propuesta no tiene sentido en la ficción, nunca pasará del segundo paso. Y el paso cuatro definitivamente lo detiene, ya que no hay una forma real de aplicar las reglas de una acción imposible.
 
-Si estamos jugando un juego militar descarnado y sombrío, y alguien dice que quiere agitar los brazos y volar hasta la cima de una torre de vigilancia, eso simplemente no puede ser y no sucede. Tampoco lo es hacer una bomba con palos y barro. Incluso para llegar al punto en el que tiramos los dados, la acción debe aceptarse como plausible, incluso si es poco probable.
+Si estamos jugando un juego militar *gritty* y alguien dice que quiere agitar los brazos y volar hasta la cima de una torre de vigilancia, eso simplemente no puede ser y no sucede. Tampoco lo es hacer una bomba con palos y barro. Incluso para llegar al punto de tirar los dados, la acción debe aceptarse como plausible, incluso si es poco probable.
 
-Lo segundo, ¿Cómo puede ser golpeado por un lanzacohetes y solo recibir 1 aumento? He escuchado un montón de cosas sobre el estrés y el daño y recibir grandes golpes y todo eso. La clave aquí es que el estrés no es tangible ni concreto.  Simplemente impone restricciones a la narrativa. Si te "golpean" con un lanzacohetes (también conocido como el Ataque tuvo éxito), y tomas un solo punto de estrés, eso no significa que el cohete te golpeó de lleno en el pecho y lo apartaste.
+Lo segundo: ¿cómo puede ser golpeado por un lanzacohetes y solo recibir 1 aumento de estrés? He escuchado un montón de cosas sobre el estrés y el daño y recibir grandes golpes y todo eso. La clave aquí es que el estrés no es tangible ni concreto.  Simplemente impone restricciones a la narrativa. Si te "golpean" con un lanzacohetes (también conocido como el ataque tuvo éxito), y recibes un solo punto de estrés, eso no significa que el cohete te golpeó de lleno en el pecho y lo esquivaste.
 
-Lo que significa es que tomas UN punto de estrés. Un punto. Y la narración de lo que sucede como parte del ataque del lanzacohetes debe ser coherente con eso. Dado que ser golpeado por un cohete de un lanzacohetes significa, lógicamente, que te hizo papilla, entonces claramente no te "golpeó" el cohete. Tal vez te torciste el tobillo esquivándolo. Tal vez te golpearon algunas rocas que salieron volando por el impacto. Quizás estabas bastante cubierto, pero te chamuscaste un poco.
+Lo que significa es que tomas **UN** punto de estrés. Un punto. Y la narración de lo que sucede como parte del ataque del lanzacohetes debe ser coherente con eso. Dado que ser golpeado por un cohete de un lanzacohetes significa, lógicamente, que te hizo papilla, entonces claramente no te "golpeó" el cohete. Tal vez, te torciste el tobillo esquivándolo. Tal vez, te golpearon algunas rocas que salieron volando por el impacto. Quizás estabas lo suficientemente cubierto, pero te chamuscaste un poco.
 
-La tercera cosa es ¿qué pasa con dispararle a alguien en la cabeza? ¡Esto incluso aparece en el libro principal de Fate Básico!  Uno de los personajes de muestra (no recuerdo cuál) elimina a un NPC conocido con un solo espadazo. ¡¿Qué pasa con el estrés?!  ¡¿Qué pasa con las consecuencias?!
+La tercera cosa es: ¿qué pasa con dispararle a alguien en la cabeza? ¡Esto incluso aparece en el libro principal de Fate Básico!  Uno de los personajes de muestra (no recuerdo cuál) elimina a un NPC conocido con un solo espadazo. ¡¿Qué pasa con el estrés?!  ¡¿Qué pasa con las consecuencias?!
 
 Bueno, ¿qué pasa con ellos?  Si un guerrero entrenado golpea a un no combatiente desarmado y sorprendido con una espada, ¿qué crees que va a pasar?  Pues, va a ser despedazado sin piedad. 
 
-Esto no es realmente un conflicto, por lo que el estrés no es relevante (el estrés es una mecánica del ritmo narrativo del conflicto, no una propiedad inherente de los personajes). Piensa en cómo resolver una acción.  Esa resolución depende de algunas cosas:
+Esto no es realmente un conflicto, por lo que el estrés no es relevante (el estrés es una mecánica del ritmo narrativo del conflicto, no una propiedad inherente de los personajes). Piensa en cómo resolver una acción. Esa resolución depende de algunas cosas:
 
 - La acción que se realiza
 
@@ -204,9 +204,9 @@ Esto no es realmente un conflicto, por lo que el estrés no es relevante (el est
 
 - El "objetivo" más importante de la escena
 
-En muchos sistemas, la resolución depende solo del primer punto. En Fate, ese no es el caso. Empujar a alguien puede ser una acción de Ataque (intentar empujarlo por un precipicio), o puede ser una acción de Crear una Ventaja (derribarlo o hacerlo perder el equilibrio), o puede ser una acción de Superar (sacarlo de una posición ventajosa).
+En muchos sistemas, la resolución depende solo del primer punto. En Fate, ese no es el caso. Empujar a alguien puede ser una acción de ataque (intentar empujarlo por un precipicio), o puede ser una acción de crear una Ventaja (derribarlo o hacerlo perder el equilibrio), o puede ser una acción de superar (sacarlo de una posición ventajosa).
 
-Disparar a alguien no significa que sea una acción de Ataque —el Ataque es generalmente una acción de conflicto. Si la escena está mejor modelada como un Desafío o una Competición, o incluso simplemente como una sola acción de Superar, es posible que no sea necesario un ataque. Diablos, un francotirador que dispara a alguien en la cabeza debería poder eliminar a su objetivo con un solo disparo —algo que no es realmente posible contra los  nada-incompetentes (juego de palabras que se refiere a los PJ en Fate, N.d.T.) que usan por defecto estrés y consecuencias. Entonces, tal vez eso signifique que una situación de francotirador "típica" (objetivo inconsciente del riesgo, etc.) no es un Conflicto, lo que tendría sentido ya que el objetivo no está proporcionando una oposición activa y no está tratando de herir al francotirador. 
+Disparar a alguien no significa que sea una acción de Ataque —el Ataque es generalmente una acción de conflicto—. Si la escena está mejor representada como un Desafío o una Competición, o incluso simplemente como una sola acción de superar, es posible que no sea necesario un ataque. Diablos, un francotirador que dispara a alguien en la cabeza debería poder eliminar a su objetivo con un solo disparo —algo que no es realmente posible contra los  nada-incompetentes (juego de palabras que se refiere a los PJ en Fate, N.d.T.) que usan por defecto estrés y consecuencias—. Entonces, tal vez eso signifique que una situación de francotirador "típica" (objetivo inconsciente del riesgo, etc.) no es un Conflicto, lo que tendría sentido ya que el objetivo no está proporcionando una oposición activa y no está tratando de herir al francotirador. 
 
 La ficción impulsa las reglas.  Se llama la "regla de oro" de Fate por una razón.
 
