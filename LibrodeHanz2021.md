@@ -1,6 +1,6 @@
 # ¿Qué es Fate?
 
-Algunas publicaciones me hicieron pensar en esto y es un pensamiento que ha estado en mi cabeza durante un tiempo —sobre todo en cuanto a "si estás hackeandolo, ¿cuáles son las cosas hackeables y en qué punto te estás liando con los supuestos básicos del sistema?"—. Como en la publicación de Ryan Macklin, pienso en Fate como un juego específico que hace cosas específicas. Hay cosas en la que Fate es increíble y cosas en las que Fate no lo es. Cuando quiero jugar algo en lo que Fate no es increíble, prefiero usar un juego diferente.
+Algunas publicaciones me hicieron pensar en esto y es algo que ha estado en mi cabeza durante un tiempo —sobre todo en cuanto a "si lo estás hackeando, ¿cuáles son las cosas hackeables y en qué punto te estás liando con los supuestos básicos del sistema?"—. Como en la publicación de Ryan Macklin, pienso en Fate como un juego específico que hace cosas específicas. Hay cosas en la que Fate es increíble y cosas en las que Fate no lo es. Cuando quiero jugar algo en lo que Fate no es increíble, prefiero usar un juego diferente.
 
 No considero que sea un aspecto negativo de Fate de ninguna manera. Tengo un Jeep Wrangler. Es bueno en algunas cosas (transportar), increíble en otras (todoterreno), y absolutamente malo en otras (cargar muchas cosas, llevar mucha gente, ir rápido). Y hacer que mi Wrangler sea mejor en esas cosas, casi necesariamente empeoraría en las cosas que hace bien en este momento.
 
@@ -71,7 +71,7 @@ En varios juegos usar una habilidad significa comprometerse en una tarea especí
 
 ## Resultados de la curva de campana
 
-Fate utiliza un esquema de aleatorización fuertemente sesgado hacia resultados "promedio" o una curva de campana. No utiliza una distribución plana. Cómo se logra específicamente esa curva de campana, o exactamente qué tan sesgada está, es algo más amplio –pero una distribución plana no se siente como Fate para mí—. Al usar una curva de campana que tiende hacia cero, se pone más énfasis en la puntuación de la habilidad. Cuando tu personaje es bueno en algo, se siente como si lo fuera.
+Fate utiliza un esquema de aleatorización fuertemente sesgado hacia resultados "promedio" o una curva de campana. No utiliza una distribución plana. Cómo se logra específicamente esa curva de campana, o exactamente qué tan sesgada está, es una discusión más amplia –pero una distribución plana no se siente como Fate para mí—. Al usar una curva de campana que tiende hacia cero, se pone más énfasis en la puntuación de la habilidad. Cuando tu personaje es bueno en algo, se siente como si lo fuera.
 
 
 Lo anterior, es la escencia de lo que considero es Fate o, en su caso, no lo es para mí.
@@ -100,11 +100,11 @@ De eso se tratan estas publicaciones. Tratar de ayudar a otros a mirar a Fate co
 
 Lo cual es duro. Tenemos muchas cosas en los juegos tradicionales que funcionan y hacen que los juegos sean increíbles. En muchos casos, desviarse ligeramente de esos juegos no funciona, ya que esos juegos tienden a ubicarse en un "máximo local" —área donde las decisiones tomadas funcionan juntas de una manera estrecha y entrelazada—. Pero creo que Fate se encuentra en un "máximo local" muy diferente al de la mayoría de los juegos, y para encontrarlo debes cambiar muchas suposiciones. Me pareció que valía la pena, así que quiero compartir lo que he aprendido para ayudar a otros a encontrar las mismas cosas increíbles.
 
-# Introducir personas a Fate
+# Presentar Fate a la gente
 
 Esto parece ocurrir un montón. Fate hace algunas cosas de manera diferente. Básicamente, pienso que se debe a que intenta responder preguntas muy diferentes a las que hacen los juegos de rol típicos. Por eso puede parecer un poco extraño al principio para los jugadores nuevos.  Hay una serie de conceptos que no encajan particularmente bien con los juegos de rol más "tradicionales" o típicos.
 
-Entonces, ¿cómo introducir a jugadores nuevos?
+Entonces, ¿cómo presentar Fate a jugadores nuevos?
 
 Lo primero que hago es hablar sobre las fortalezas del sistema. Señalo cómo el sistema realmente te permite pensar en quién es tu personaje, en lugar de solo qué es y qué puede hacer. Señalo lo rápido que se juega y el gran soporte que tiene para las opciones y acciones que no son de combate.
 
@@ -134,7 +134,7 @@ La clave aquí es hacer que piensen en términos de una buena estrategia de Fate
 
 También me aseguraré de que sepan que puede hacer una *Concesión* y señalaré que pueden pedir hacerlo en cualquier momento. Enfatizaré que el tiempo que permanezcan en la pelea realmente depende más de cuánto están dispuestos a arriesgar y reiteraré que perder no es necesariamente malo. En muchos casos, esta primera pelea se diseñará deliberadamente para perderse o para que los PJs se rindan.  A menudo lo enmarco como un incidente incitante, de modo que impulse la historia hacia adelante.
 
-Una cosa que no hago es tratar de "facilitar" el aprendizaje de Fate haciéndolo más parecido a otros juegos. Sé que es bastante común, pero realmente no le he visto ningún valor ni necesidad. Por lo general, me parece que funciona muy bien simplemente decir: "sí, esto es diferente.  He aquí por qué y esto es lo que ofrece. Así que probémoslo". Para aquellas cosas que "no son iguales", creo que tienes que hacer lo uno o lo otro —o haces que sea lo suficientemente parecido a lo que se espera que no desencadene la reacción, o dilo abiertamente para que esté en la mente de todos, lo que también pasa por alto ese tipo de reacción inconsciente—.
+Una cosa que no hago es tratar de "facilitar" el aprendizaje de Fate haciéndolo más parecido a otros juegos. Sé que es bastante común, pero realmente no le he visto ningún valor ni necesidad. Por lo general, me parece que funciona muy bien simplemente decir: "sí, esto es diferente.  He aquí por qué y esto es lo que ofrece. Así que probémoslo". Para aquellas cosas en las que Fate "no es igual", creo que tienes que hacer lo uno o lo otro —o haces que sea lo suficientemente parecido a lo que se espera que no desencadene la reacción, o dilo abiertamente para que todos sean consciente de ello, lo que también pasa por alto ese tipo de reacción inconsciente—.
 
 # Primero la ficción, interacción de reglas de ficción y resultados sin sentido
 
