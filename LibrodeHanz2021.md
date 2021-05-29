@@ -340,31 +340,31 @@ En cada caso, los jugadores han modificado la ambientación y la historia de los
 
 # Mecanismos de ritmo narrativo en Fate
 
-Una de las cosas sobre las que veo cierta confusión en Fate son los diversos mecanismos de ritmo narrativo disponibles —_conflicto_, _competiciones_, y _desafíos_, o cómo las llamo las 3C (denominado así por el autor original por las iniciales de las palabras en inglés _Conflict_, _Contest_ y _Challenges_, aunque al traducirlas al español pierde el sentido llamarlas así, N.d.T).
+Una de las cosas sobre las que veo cierta confusión en Fate son los diversos mecanismos de ritmo narrativo disponibles —_conflictos_, _competiciones_, y _desafíos_, o cómo las llamo las 3-C (por las iniciales de las palabras en inglés _conflicts_, _contests_ y _challenges_, aunque al traducirlas al español pierde el sentido llamarlas en conjunto de ese modo, N.d.T)—.
 
 Tiramos los dados en Fate para responder una pregunta. Técnicamente, si quisiéramos, podríamos responder cualquier pregunta, sin importar cuán grande o pequeña sea, con una sola tirada —probablemente sería una _acción de superar_—.
 
-Y, fundamentalmente, ese es el objetivo de los mecanismos de ritmo narrativo.  Son nada más y nada menos que una herramienta para hacer que la resolución de una sola pregunta tome más tiempo que una tirada de dados o la resolución de una acción.
+Y, fundamentalmente, ese es el objetivo de los mecanismos de ritmo narrativo.  Son, nada más y nada menos, una herramienta para hacer que la resolución de una sola pregunta tome más tiempo que una tirada de dados o la resolución de una acción.
 
 Alargan las cosas y proporcionan una condición final.  Tira los dados, averigua los resultados y luego narra los resultados de una manera que deje en claro que un lado u otro se está acercando a lograr su objetivo.
 
-Entonces, ¿cuál de estos mecanismos narrativos usarás? Al igual que la _acción atacar_ contra la _acción superar_ no se basa en lo que estás haciendo, sino más bien en si estás tratando de eliminar a tu oponente, el mecanismo de ritmo narrativo que elijas no está determinado por las acciones que se están llevando a cabo. Está determinado por la naturaleza de la oposición.
+Entonces, ¿cuál de estos mecanismos narrativos hay que usar? Al igual que la _acción atacar_ contra la _acción superar_ no se basa en lo que estás haciendo, sino más bien en si estás tratando de eliminar a tu oponente, el mecanismo de ritmo narrativo que elijas no está determinado por las acciones que se están llevando a cabo. Está determinado por la naturaleza de la oposición.
 
 ## Desafíos
 
-Comenzaré con los _desafíos_, ya que tienen los criterios más fáciles.  Utilice un _desafío_ cuando no tenga una oposición activa durante todo el tiempo que dure este.
+Comenzaré con los _desafíos_, ya que tienen los criterios más fáciles.  Utiliza un _desafío_ cuando no tengas una oposición activa durante todo el tiempo que dure dicho _desafío_.
 
 Zird [al proteger a la gente de los zombis](https://fate-srd.com/fate-core/challenges#setting-up-a-challenge) cumple estos criterios. Los zombis son (en su mayoría) un _desafío_ ambiental pasivo y, en cualquier caso, realmente él les está bloqueando la puerta. Convencer a la gente del pueblo es posiblemente una oposición activa, pero no interfiere con la mayor parte del _desafío_, y es una _acción de superar_. Lanzar el ritual es simplemente ambiental y es una _acción de superar_.
 
-Lo anterior podría significar que la oposición está inconsciente e inactiva.  También, podría significar que tienes una oposición activa, pero solo para una parte del _desafío_ (en cuyo caso puedes representar eso como una _acción de superar_ o como un subconflicto o _competición_, según corresponda).
+Lo anterior podría significar que la oposición está inconsciente e inactiva.  También, podría significar que tienes una oposición activa, pero solo para una parte del _desafío_ (en cuyo caso se puede representar eso como una _acción de superar_ o como un subconflicto o _competición_, según corresponda).
 
-Ahora, parte de un _desafío_ puede implicar una oposición activa —como los aldeanos que tienen qu ser convencidos en el ejemplo de Zird—. En ese caso, puede tratarlo como una simple _acción de superar_ dentro del _desafío_ (recuerde que todos los mecanismos de ritmo narrativo son básicamente sustitutos de una sola resolución), o puede incrementarla aún más con un _conflicto_ o _competición_ interna si corresponde.
+Ahora, parte de un _desafío_ puede implicar una oposición activa —como los aldeanos que tienen que ser convencidos en el ejemplo de Zird—. En ese caso, puede tratarse como una simple _acción de superar_ dentro del _desafío_ (recuerda que todos los mecanismos de ritmo narrativo son básicamente sustitutos de una sola resolución), o puede incrementarse aún más con un _conflicto_ o _competición_ interna si corresponde.
 
-Pero, ¿qué sucede si tiene una oposición activa —algún individuo o grupo que se opone directamente a la pregunta que está tratando de responder—? Por eso hay _conflictos_ y _competiciones_.
+Pero, ¿qué sucede si tienes una oposición activa —algún individuo o grupo que se opone directamente a la pregunta que estás tratando de responder—? Por eso, hay _conflictos_ y _competiciones_.
 
 ## Conflictos
 
-Si su oposición está activa y quiere hacerte daño, usa un _conflicto_.  Con hacerte daño quiero decir que el objetivo de la oposición es lograr eliminarte de alguna manera, ya sea al ser noqueado y asesinado, rindiéndote, huyendo, etc. Para un _conflicto_, entonces dos cosas deberían ser ciertas:
+Si tu oposición está activa y quiere hacerte daño, usa un _conflicto_.  Con hacerte daño quiero decir que el objetivo de la oposición es lograr eliminarte de alguna manera, ya sea al noquearte, asesinarte, haciendo que te rindas, huyas, etc. Para un _conflicto_, entonces dos cosas deberían ser ciertas:
 
 - Ambas partes están comprometidas a hacer daño a la otra parte.
 
@@ -372,23 +372,23 @@ Si su oposición está activa y quiere hacerte daño, usa un _conflicto_.  Con h
   - Si un lado en particular hará daño de alguna manera
   - Algo que el ganador puede lograr si la oposición no está presente
 
-Entonces, si está tratando de capturar a algunos tipos malos (o al revés), eso podría ser un _conflicto_, siempre que ambos lados estén intercambiando golpes (por elección o porque no existe otra opción). Si está tratando de pasar a los guardias para desactivar una bomba, eso es un _conflicto_.
+Entonces, si está tratando de capturar a algunos tipos malos (o al revés), eso podría ser un _conflicto_, siempre que ambos lados estén intercambiando golpes (por elección o porque no existe otra opción). Si estás tratando de pasar a los guardias para desactivar una bomba, eso es un _conflicto_.
 
 ## Competiciones
 
-Si tu oposición es activa e indirecta, elige una _competición_. Por indirecto, quiero decir que ambas partes no están comprometidas en la aniquilación mutua. Los casos obvios serían carreras o una persecución. Podría ser intentar capturar a alguien, siempre y cuando esté tratando de evadir la captura. Incluso podría estar huyendo de un tirador ("¿Puedo cubrirme antes de que me disparen o me maten?"). Pero la clave aquí es que todavía hay dos o más participantes o lados activos.
+Si tu oposición es activa e indirecta, elige una _competición_. Por indirecta, quiero decir que ambas partes no están comprometidas en la aniquilación mutua. Los casos obvios serían carreras o una persecución. Podría ser intentar capturar a alguien, siempre y cuando esté tratando de evadir la captura. Incluso podría estar huyendo de un tirador ("¿puedo cubrirme antes de que me disparen o me maten?"). Pero la clave aquí es que todavía hay dos o más participantes o lados activos.
 
-Aparte: puede elegir una _competición_ con un bando que no es consciente de lo que ocurre, si ese bando está haciendo algo de forma activa que pondría fin a la _competición_ —un hechicero que abre una puerta a un reino maligno, por ejemplo, podría estar en una _competición_ con los aventureros que están tratando de llegar a su santuario para interrumpir el hechizo, incluso si el hechicero no se da cuenta de su presencia.  La clave real aquí es la parte activa.
+Aparte: puede elegir una _competición_ con un bando que no es consciente de lo que ocurre, si ese bando está haciendo algo de forma activa que pondría fin a la _competición_ —un hechicero que abre una puerta a un reino maligno, por ejemplo, podría estar en una _competición_ con los aventureros que están tratando de llegar a su santuario para interrumpir el hechizo, incluso si el hechicero no se da cuenta de su presencia.  La clave real aquí es la parte activa—.
 
-En general, en cualquier momento puedes formular la pregunta "¿hago X antes de que Y?" y responderás es una _competición_, a menos que tanto X como Y tengan el mismo objetivo.
+En general, en cualquier momento puedes formular la pregunta "¿hago *X* antes de que *Y*?" y responderás es una _competición_, a menos que tanto *X* como *Y* tengan el mismo objetivo.
 
 ## Elección basada en hechos
 
-En contexto
+En el contexto.
 
 Esa es la forma básica en que divido los mecanismos de ritmo narrativo. Y es interesante, porque algunas acciones de alto nivel pueden caer bajo cualquiera de los tres mecanismos de ritmo narrativo, según el contexto de la acción.
 
-Si el objetivo no se da cuenta de lo que estás haciendo y el enemigo no se da cuenta de tu presencia, es un _desafío_ —no hay oposición activa, por lo que no hay "otro lado". Ciertamente, hay una oposición pasiva que debe superarse de una forma u otra, pero no se trata de un oponente activo.
+Si el objetivo no se da cuenta de lo que estás haciendo y el enemigo no se da cuenta de tu presencia, es un _desafío_ —no hay oposición activa, por lo que no hay "otro lado". Ciertamente, hay una oposición pasiva que debe superarse de una forma u otra, pero no se trata de un oponente activo—.
 
 Si el objetivo no se da cuenta, pero hay una patrulla en el área que te está persiguiendo, entonces es una _competición_ —"¿Disparo a mi objetivo antes de que la patrulla enemiga me encuentre?" Definitivamente entra en la plantilla de _competiciones_ descrita anteriormente—.
 
