@@ -400,59 +400,59 @@ Estos tres mecanismos de ritmo narrativo hacen un buen trabajo al cubrir casi to
 
 # Calibración — El dial sin un Dial 
 
-Algo común que veo se discute en Fate es cómo representar la superfuerza o cosas por el estilo. Es una pregunta importante. Si 4 en Atletismo es una persona súper atlética, y 5 o 6 es una gimnasta de calidad olímpica, ¿cómo representar algo aún más atlético que eso?  ¿la habilidad máxima tendría que estar representada en un dial?
+Algo común que veo se discute en Fate es cómo representar la superfuerza o cosas por el estilo. Es una pregunta importante. Si "4" en Atletismo es una persona súper atlética, y "5" o "6" es una gimnasta de calidad olímpica, ¿cómo representar algo aún más atlético que eso?  ¿la habilidad máxima tendría que estar representada en un dial?
 
-Una de las cosas que miro en Fate Básico es que la mecánica es sólida para muchas ambientaciones listas para usar. Y las habilidades no representan una medida objetiva de entrenamiento, sino más bien la capacidad de influir en una escena de una manera particular. Parecen cosas relativamente contradictorias, pero se unen en la idea de "calibración".
+Una de las cosas que miro en Fate Básico es que la mecánica es sólida para muchas ambientaciones que están listas para usar. Y las habilidades no representan una medida objetiva de entrenamiento, sino más bien la capacidad de influir en una escena de una manera particular. Parecen cosas relativamente contradictorias, pero se unen en la idea de "calibración".
 
-En Fate Básico, no creo que 4 de atletismo signifique "persona muy atlética". No creo que 5 o 6 signifiquen "gimnasta olímpico". Creo que 4 significa "lo más atlético que puede ser un personaje inicial".  Ni mas ni menos.
+En Fate Básico, no creo que "4" de atletismo signifique "persona muy atlética". Tampoco creo que "5" o "6" signifiquen "gimnasta olímpico". Creo que "4" significa "lo más atlético que puede ser un personaje inicial".  Ni mas, ni menos.
 
-El significado de esto, por supuesto, variará de ambientación en ambientación. Si estás haciendo un juego al estilo _Zero-Dark-Thirty_, 4 significará un soldado profesional altamente entrenado, extremadamente fuerte, en o cerca de los límites de la habilidad humana. 0 significa las capacidades básicas de un soldado profesional, por debajo de 0 sería expulsado del servicio.
+Por supuesto, el significado de esto variará de ambientación en ambientación. Si estás haciendo un juego al estilo _Zero-Dark-Thirty_, "4" significará un soldado profesional altamente entrenado, extremadamente fuerte, en o cerca de los límites de la habilidad humana. "0" significará las capacidades básicas de un soldado profesional, por debajo de "0" sería expulsado del servicio.
 
-Admitiré, por supuesto, que hay circunstancias en las que esto no funciona. Si desea que una habilidad tenga una mayor influencia en la escena que otra, por ejemplo, o si desea que la diferencia de capacidad entre el pico y la base sea mayor. En la práctica, sin embargo, creo que esas circunstancias son relativamente raras.  No pones una habilidad de 5 frente a un 0 con alguna esperanza de éxito de todos modos.
+Admito que hay circunstancias en las que esto no funciona. Por ejemplo, si desea que una habilidad tenga una mayor influencia en la escena que otra, o si desea que la diferencia de capacidad entre el pico y la base sea mayor. Sin embargo, en la práctica pienso que esas circunstancias son relativamente raras.  No pones una habilidad de "5" frente a un "0" con alguna esperanza de éxito de todos modos.
 
-Otra cosa que puede beneficiarse de la calibración es el daño.  Este es particularmente el caso cuando intentas representar lo descarnado y sombrío o el realismo increíble.
+Otra cosa que puede beneficiarse de la calibración es el daño. Este es particularmente el caso cuando intentas representar lo _gritty_ o el realismo increíble.
 
-Digamos que con las reglas predeterminadas de Fate, recibes tres aumentos con una espada. Marca su tercer cuadro de estrés y lo narra como un corte desagradable en el pecho.  Estás cerca de ser eliminado. 
+Digamos que con las reglas predeterminadas de Fate, recibes tres aumentos con una espada. Marcas tu tercer cuadro de estrés y lo narras como un corte desagradable en el pecho. Estás cerca de ser eliminado. 
 
-En un juego más descarnado y sombrío, un corte desagradable en el pecho puede ser fatal, y recibir uno probablemente significa que estás cerca de la muerte. Podemos representar esto reduciendo las casillas de estrés a uno y haciendo que las consecuencias solo valgan -1 / -2 / -3.  ¡Ahora es una consecuencia moderada y su único cuadro de estrés está marcado!  ¡es duro!
+En un juego más _gritty_, un corte desagradable en el pecho puede ser fatal, y recibir uno probablemente significa que estás cerca de la muerte. Podemos representar esto en el juego reduciendo las casillas de estrés en una y haciendo que las consecuencias solo valgan -1 / -2 / -3.  ¡Ahora, el estrés sufrido, es una consecuencia moderada y su único cuadro de estrés queda marcado! ¡Realmente es duro!
 
-¿Cómo ejecutamos una pelea descarnada y sombría en Fate, sin cambiar ninguno de los diales?  Nuevamente, también puede cambiar los diales, pero creo que es interesante ver qué sucede si no los cambiamos.
+¿Cómo ejecutamos una pelea _gritty_ en Fate, sin cambiar ninguno de los diales? Te lo repito de nuevo: puedes cambiar los diales, pero creo que es interesante ver qué sucede si no los cambiamos.
 
-Echemos otro vistazo a un golpe de tres aumentos.  ¿Qué significa esto?  Mecánicamente, significa dos cosas: estamos un poco más cerca de ser eliminados y no hay efectos duraderos de este golpe.
+Echemos otro vistazo a un golpe que provoca tres aumentos.  ¿Qué significa esto?  Mecánicamente, significa dos cosas: estamos un poco más cerca de ser eliminados y no hay efectos duraderos de este golpe.
 
-Entonces, si vamos por algo más "descarnado y sombrío", claramente esto no significa que hayamos recibido una desagradable tajada en el pecho.  Tenemos alternativas:
+Entonces, si vamos por algo más _gritty_, claramente esto no significa que hayamos recibido una desagradable herida en el pecho.  Tenemos alternativas:
 
 - Nos han forzado a cambiarnos de posición y están "pisándonos los talones"
 
-- Hicimos una parada deficiente, lo que provocó que nos doliera la mano, pero sin daños duraderos.
+- Hicimos una parada del golpe deficiente, lo que provocó que nos doliera la mano, pero sin daños duraderos.
 
-- Tuvimos que saltar fuera del camino para esquivar, sin causar lesiones, pero nos quedamos sin aliento.
+- Tuvimos que saltar fuera de nuestra posición para esquivar el golpe, sin causar lesiones, pero nos quedamos sin aliento.
 
-El dolor, el daño muscular, la pérdida de sangre y la conmoción probablemente significarían que un solo golpe serio significaría "fin del juego". Entonces, si bien el estilo descarnado y sombrío puede ser imaginativo y descriptivo, la mayoría de las veces es menos interesante para el juego.
+El dolor, el daño muscular, la pérdida de sangre y la conmoción probablemente significarían que un solo golpe serio significaría "fin del juego". Entonces, si bien el estilo _gritty_ puede ser imaginativo y descriptivo, la mayoría de las veces es menos interesante para el juego.
 
-La misma situación ocurre con las consecuencias.  ¿Qué significa una consecuencia -2?
+La misma situación ocurre con las consecuencias. ¿Qué significa una consecuencia -2?
 
 Mecánicamente, significa que la persona que lo generó obtiene una invocación gratuita, es probable que desaparezca poco después de la pelea y que estás mucho más cerca de ser eliminado.
 
-Narrativamente, tenemos que igualar la sensación del juego.  Para un juego cinematográfico, eso puede significar un corte en el brazo o algo así. Para un juego descarnado y sombrío, puede significar simplemente que te has torcido ligeramente un tobillo, tienes un brazo muerto por un golpe que recibió tu armadura, o algo por el estilo. Los dados dictan los resultados mecánicos de la acción. Un "éxito" o un "fallo" es una explicación narrativa de ese efecto mecánico.  Los dados no dictan la narración. "Hace tres aumentos" es una declaración puramente a nivel de sistema.  La forma en que eso se traduce en narrativa depende de usted y debe variar según el tipo de sensación que desee.
+Narrativamente, tenemos que igualar la sensación en el juego. Para un juego cinematográfico, eso puede significar un corte en el brazo o algo así. Para un juego _gritty_, puede significar simplemente que te has torcido ligeramente un tobillo, tienes un brazo muerto por un golpe que recibió tu armadura, o algo por el estilo. Los dados dictan los resultados mecánicos de la acción. Un "éxito" o un "fallo" es una explicación narrativa de ese efecto mecánico.  Los dados no dictan la narración. "Hace tres aumentos de estrés" es una declaración puramente a nivel de sistema.  La forma en que eso se traduce en narrativa depende de usted y debe variar según el tipo de sensación que desee.
 
-Tres aumentos se convierte en un golpe que no logró concretarse.  Una consecuencia menor es quedarse sin aliento o una laceración menor por la metralla.  Una consecuencia grave es un corte leve en lugar de un corte severo.  Y ser eliminado significa que sufriste un solo golpe fuerte, no media docena.
+Tres aumentos se convierte en un golpe que no logró concretarse.  Una consecuencia leve es quedarse sin aliento o una laceración menor por la metralla.  Una consecuencia grave es un corte leve en lugar de un corte severo.  Y ser eliminado significa que sufriste un solo golpe fuerte, no media docena.
 
-A continuación, se muestra un ejemplo de cómo se puede desarrollar la misma pelea tanto en estilo "cinematográfico" como en el estilo "descarnado y sombrío".  ¡Se utilizarán los mismos efectos mecánicos en ambas situaciones!
+A continuación, se muestra un ejemplo de cómo se puede desarrollar la misma pelea tanto en estilo "cinematográfico" como en el estilo "_gritty_".  ¡Se utilizarán los mismos efectos mecánicos en ambas situaciones!
 
-Alfred golpea a Bob y le hace tres aumentos: “Alfred golpea a Bob, dejándole un feo corte en el pecho.  La sangre gotea cuando Bob comienza su contraataque”.
+- **Alfred golpea a Bob y le hace tres aumentos**: “Alfred golpea a Bob, dejándole un feo corte en el pecho.  La sangre gotea cuando Bob comienza su contraataque”.
 
-Bob golpea a Alfred y le hace cuatro aumentos, Alfred toma 2 de estrés y una consecuencia menor: “El perverso contraataque de Bob pilla a Alfred con la guardia baja, cortándolo en el brazo.  El corte parece profundo, pero Alfred aún no está fuera de combate".
+- **Bob golpea a Alfred y le hace cuatro aumentos, Alfred toma 2 de estrés y una consecuencia leve**: “El perverso contraataque de Bob pilla a Alfred con la guardia baja, cortándolo en el brazo.  El corte parece profundo, pero Alfred aún no está fuera de combate".
 
-Alfred golpea a Bob y le hace cinco aumentos, Bob recibe una consecuencia severa y uno de estrés: “Alfred continúa con su furioso asalto en contra de Bob, dándole un feo golpe en la pierna.  El corte no se ve muy bien en el hueso, pero es bastante severo".
+- **Alfred golpea a Bob y le hace cinco aumentos, Bob recibe una consecuencia moderada y uno de estrés**: “Alfred continúa con su furioso asalto en contra de Bob, dándole un feo golpe en la pierna.  El corte no se ve muy bien en ese hueso, pero es bastante severo".
 
 Comparar con:
 
-Alfred golpea a Bob y le hace tres aumentos: “Alfred golpea a Bob.  Bob no está listo para el golpe repentino, por lo que tropieza y cae cuando apenas logra detener el golpe a tiempo ".
+- **Alfred golpea a Bob y le hace tres aumentos**: “Alfred golpea a Bob.  Bob no está listo para el golpe repentino, por lo que tropieza y cae cuando apenas logra detener el golpe a tiempo ".
 
-Bob golpea a Alfred y le hace cuatro aumentos, Alfred toma 2 de estrés y una consecuencia menor: “Alfred se apresura en empujarlo y Bob lo ataca aún estando fuera de balance. Alfred se las arregla y logra defenderse con la espada a tiempo, pero parece que le va a doler la mano por haber recibido mal el impacto ".
+- **Bob golpea a Alfred y le hace cuatro aumentos, Alfred toma 2 de estrés y una consecuencia leve**: “Alfred se apresura en empujarlo y Bob lo ataca aún estando fuera de balance. Alfred se las arregla y logra defenderse con la espada a tiempo, pero parece que le va a doler la mano por haber recibido mal el impacto ".
 
-Alfred golpea a Bob y le hace cinco aumentos, Bob recibe una consecuencia severa y uno de estrés: “Cuidando su mano lesionada, Alfred patea a Bob y lo deja tumbado.  Bob jadea de dolor, se siente como si tuviera una «Costilla fracturada ". 
+- **Alfred golpea a Bob y le hace cinco aumentos, Bob recibe una consecuencia moderada y uno de estrés**: “Cuidando su mano lesionada, Alfred patea a Bob y lo deja tumbado.  Bob jadea de dolor, se siente como si tuviera una «Costilla fracturada»". 
 
 Misma mecánica.  Sensación muy diferente, basada en la narración y la calibración.
 
