@@ -456,41 +456,41 @@ Comparar con:
 
 Misma mecánica.  Sensación muy diferente, basada en la narración y la calibración.
 
-# Ficción, no Física
+# Ficción, no física
 
-“Ficción, no física.”
+> Ficción, no física.
 
-Me encuentro citando mucho esto, y realmente se ha convertido en la clave para entender a Fate.  Cuando lo escuché por primera vez, asumí que significaba "no nos preocupa el realismo". Y eso es parcialmente cierto, pero sólo parcialmente.
+Me encuentro citando mucho esto y, realmente, se ha convertido en la clave para entender Fate.  Cuando lo escuché por primera vez asumí que significaba: "no nos preocupa el realismo". Y eso es parcialmente cierto, pero sólo parcialmente.
 
 Lo que he llegado a entender que significa esta frase es que Fate se propone representar las historias como fluyen en los medios cinematográficos reales.
 
-Aquí hay una escena que todos hemos visto innumerables veces en la película: nuestro héroe espía necesita pasar una puerta, custodiada por un par de tontos guardias.  Lo vemos deslizarse hacia las sombras donde el par no pueden verlo.  Luego se sube a las tuberías por encima de los guardias, y una vez por encima de ellos cae, eliminando a ambos.  Oculta a los guardias detrás de algunas cajas y continua.
+Aquí hay una escena que todos hemos visto innumerables veces en una película: nuestro héroe espía necesita pasar una puerta, custodiada por un par de tontos guardias.  Lo vemos deslizarse hacia las sombras donde el par no pueden verlo.  Luego se sube por las tuberías que pasan justo encima de los guardias y, una vez encima de ellos, cae eliminando a ambos. Oculta a los guardias detrás de algunas cajas y continua.
 
-En un juego de rol más tradicional, esto sería una tirada de sigilo, probablemente unas pruebas de percepción, probablemente una tirada para trepar en las tuberías, y luego una tirada de ataque con algunas bonificaciones.
+En un juego de rol más tradicional esto sería una tirada de sigilo, probablemente unas pruebas de percepción, quizás una tirada para trepar en las tuberías y, luego, una tirada de ataque con algunas bonificaciones.
 
-Ahora, claro, podrías hacer algo similar con Fate, después de todo, tiene elementos como tiradas de habilidades y todo eso.  Pero es mejor mapear las acciones cinematográficamente, tal como las veríamos en la película.  Entonces, en la primera toma de la escena, vemos a nuestro espía deslizarse hacia las sombras.  Esa es una tirada de Crear una Ventaja, opuesta por la habilidad de percepción de los guardias ineptos. 
+Claro, ahora podrías hacer algo similar con Fate ya que después de todo tiene elementos como tiradas de habilidades y cosas así.  Pero es mejor mapear las acciones cinematográficamente, tal como las veríamos en la película.  Entonces, en la primera toma de la escena vemos a nuestro espía deslizarse hacia las sombras.  Esa es una tirada de _Crear una Ventaja_, opuesta por la habilidad de percepción de los guardias ineptos. 
 
-Entonces nuestro héroe se trepa a las tuberías.  Aquí está realizando la acción Crear una Ventaja, pero esta vez contra una dificultad pasiva (el peligro de fallar es más por el peligro inherente y menos por ser notado; ya hemos establecido que nuestro personaje está fuera de la vista de los guardias).
+Entonces nuestro héroe se trepa a las tuberías.  Aquí está realizando la acción _Crear una Ventaja_, pero esta vez contra una dificultad pasiva (el peligro de fallar es más por el peligro inherente y menos por ser notado; ya hemos establecido que nuestro personaje está fuera de la vista de los guardias).
 
-Con estos aspectos ahora creados (la escena ahora SE TRATA de que nuestro héroe está «En las sombras» y «En las tuberías sobre la puerta»), y ambos están marcados para Invocaciones gratuitas, es una tirada de pelear bastante fácil para hacer aumentos suficientes y noquear a los dos guardias ineptos.
+Con estos aspectos ahora creados (la escena ahora **SE TRATA** de que nuestro héroe está «En las sombras» y «En las tuberías sobre la puerta»), y ambos están marcados para _invocaciones gratuitas_, es una tirada de _pelear_ bastante fácil para hacer aumentos suficientes y noquear a los dos guardias ineptos.
 
 Entonces, como puede ver, a Fate le preocupa más representar cómo se siente la ficción que cuánto tiempo tomarían ciertos tipos de acción en el mundo real.
 
 # Conflictos con PNJs conocidos
 
-El conflicto con los PNJs conocidos no se trata realmente de quién gana, ni siquiera de las tácticas usadas.  Es una prueba de qué tan comprometido estás con tus objetivos.  Es como una puja de ofertas dentro una subasta. O como el juego de la gallina.
+El conflicto con los PNJs conocidos no se trata realmente de quién gana, ni siquiera de las tácticas usadas.  Es una prueba de qué tan comprometido estás con tus objetivos.  Es como una puja de ofertas dentro una subasta o como el [juego de la gallina](https://es.wikipedia.org/wiki/Juego_de_la_gallina).
 
-Es un conflicto más o menos parejo, en donde hay un incremento constante en el gasto de los recursos que se tienen. Claro, podrías ganar si solo tienes que realizar algunas tiradas de habilidades, ya que realmente eso no cuesta nada. Pero, ¿estás dispuesto a gastar unos cuantos puntos Fate?
+Es un _conflicto_ más o menos parejo, en donde hay un incremento constante en el gasto de los recursos que se tienen. Claro, podrías ganar si solo tienes que realizar algunas tiradas de habilidades, ya que realmente eso no cuesta nada. Pero, ¿estás dispuesto a gastar unos cuantos _puntos Fate_?
 
-Luego, pasamos a las consecuencias.  ¿Estás dispuesto a aceptarlas?  ¿Estás dispuesto a arriesgarte a que te eliminen?
+Luego, pasamos a las _consecuencias_. ¿Estás dispuesto a aceptarlas? ¿Estás dispuesto a arriesgarte a que te eliminen?
 
-Aquí es donde realmente brilla la mecánica de las concesiones: en cualquier momento, puedes rendirte y ganar un punto Fate.  Eso ayuda a aumentar el interés de lo que está en juego a medida que avanza el conflicto.
+Aquí es donde realmente brilla la mecánica de las _concesiones_: en cualquier momento puedes rendirte y ganar un _punto Fate_.  Eso ayuda a aumentar el interés de lo que está en juego a medida que avanza el _conflicto_.
 
-Al inicio, solo trata de lograr tu objetivo, como evitar que un nigromante levante un ejército de muertos vivientes.  A medida que se desarrolla el conflicto, estarás en la encrucijada de detener al nigromante frente a obtener un punto Fate.
+Al inicio, solo trata de lograr tu objetivo, como evitar que un nigromante levante un ejército de muertos vivientes.  A medida que se desarrolla el _conflicto_, estarás en la encrucijada de detener al nigromante u obtener un _punto Fate_.
 
-Pronto, el conflicto se centrará en detener al nigromante gastando algunos puntos Fate en lugar de obtener un punto Fate mientras se evitan las consecuencias. Lo que está en juego aumenta a medida que logramos detener al nigromante, gastar puntos Fate y asumir consecuencias en lugar de obtener un montón de puntos Fate. En este punto, ser eliminado se convierte en algo que hay que sopesar.
+Pronto, el _conflicto_ se centrará en detener al nigromante gastando algunos _puntos Fate_ en lugar de obtener un _punto Fate_ mientras se evitan las _consecuencias_. Lo que está en juego aumenta a medida que logramos detener al nigromante, gastar _puntos Fate_ y asumir _consecuencias_ en lugar de obtener un montón de _puntos Fate_. En este punto, ser eliminado se convierte en algo que hay que sopesar.
 
-Este incremento está ocurriendo simultáneamente para ambos lados del conflicto. Las tácticas y las habilidades pueden cambiar la rapidez con la que se incrementa en cada bando, pero al final del día se trata de qué tanto lo deseas acabar más que cualquier otra cosa.
+Este incremento está ocurriendo simultáneamente para ambos lados del _conflicto_. Las tácticas y las habilidades pueden cambiar la rapidez con la que se incrementa en cada bando, pero al final del día se trata de qué tanto lo deseas eliminar más que cualquier otra cosa.
 
 # Póngalo en una escena
 
