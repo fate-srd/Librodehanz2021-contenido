@@ -7,4 +7,4 @@ Esta obra está basada en el Sistema de Fate Básico y la edición de Fate Acele
 
 Fate™ es una Marca Registrada de Evil Hat Productions, LLC. El Powered by Fate logo pertenece a © Evil Hat Productions, LLC y se usa con permiso.  El sitio de La esquina del rol 🎲 no está afiliado con Evil Hat Productions, LLC.
 
-La esquina del rol  🎲 no está afiliada a Fate SRD, Amazing Rando Designs, ni a Evil Hat Productions, LLC. 
+La esquina del rol  🎲 tampoco está afiliada a Fate SRD ni con Amazing Rando Designs.
