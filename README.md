@@ -5,6 +5,6 @@ La traducción del libro de Hanz al español, realizada por [La esquina del rol 
 
 Esta obra está basada en el Sistema de Fate Básico y la edición de Fate Acelerado, ambos de Evil Hat Productions, LLC, desarrollado, escrito y editado por Leonard Balsera, Brian Engard, Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda Valentine, Fred Hicks, y Rob Donoghue; con licencia para su uso bajo [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/deed.es_ES).
 
-Fate es una marca regristrada por Evil Hat Productions, LLC. 
+Fate™ es una Marca Registrada de Evil Hat Productions, LLC. El Powered by Fate logo pertenece a © Evil Hat Productions, LLC y se usa con permiso.  El sitio de La esquina del rol 🎲 no está afiliado con Evil Hat Productions, LLC.
 
 La esquina del rol  🎲 no está afiliada a Fate SRD, Amazing Rando Designs, ni a Evil Hat Productions, LLC. 
