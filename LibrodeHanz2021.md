@@ -1,14 +1,14 @@
 # ¿Qué es Fate?
 
-Algunas publicaciones me hicieron pensar en esto y es algo que ha estado en mi cabeza durante un tiempo —sobre todo en cuanto a "si lo estás hackeando, ¿cuáles son las cosas hackeables y en qué punto te estás liando con los supuestos básicos del sistema?"—. Como en la publicación de Ryan Macklin, pienso en Fate como un juego específico que hace cosas específicas. Hay cosas en la que Fate es increíble y cosas en las que Fate no lo es. Cuando quiero jugar algo en lo que Fate no es increíble, prefiero usar un juego diferente.
+Algunas publicaciones me hicieron pensar en esto y es algo que ha estado en mi cabeza durante un tiempo —sobre todo en cuanto a "si lo estás hackeando, ¿cuáles son las cosas hackeables y en qué punto te estás liando con los supuestos básicos del sistema?"—. Como en la publicación de Ryan Macklin, pienso en Fate como un juego específico que hace cosas específicas. Hay cosas en la que Fate es asombroso y cosas en las que Fate no lo es. Cuando quiero jugar algo en lo que Fate no es asombroso, prefiero usar un juego diferente.
 
 No considero que sea un aspecto negativo de Fate de ninguna manera. Tengo un Jeep Wrangler. Es bueno en algunas cosas (transportar), increíble en otras (todoterreno), y absolutamente malo en otras (cargar muchas cosas, llevar mucha gente, ir rápido). Y hacer que mi Wrangler sea mejor en esas cosas, casi necesariamente empeoraría en las cosas que hace bien en este momento.
 
-Entonces, no uso Fate para jugar D&D. Quizás use Fate para jugar en una ambientación de D&D, pero pienso que no se sentiría mucho como un juego de D&D —he descrito en otro momento lo que pienso sería más como "La película de D&D: el juego" (no la película horrible, una imaginaria buena)—. 
+Entonces, no uso Fate para jugar D&amp;D. Quizás use Fate para jugar en una ambientación de D&amp;D, pero pienso que no se sentiría mucho como un juego de D&amp;D —he descrito antes lo que pienso sería más como "La película de D&amp;D: el juego" (no la película horrible, una imaginaria buena)—. 
 
-Sí, podría hackear Fate lo suficiente para jugar un juego de D&D aceptable, pero ¿seguiría siendo Fate? No lo creo, porque las preguntas centrales y las suposiciones de D&D son diferentes a las de Fate. Lo que, de nuevo, no es una crítica hacia Fate o hacia D&D; es como decir que mi Wrangler no es tan rápido como un Ferrari, eso no es una crítica hacia mi Wrangler.
+Sí, podría hackear Fate lo suficiente para jugar un juego de D&amp;D aceptable, pero ¿seguiría siendo Fate? No lo creo, porque las preguntas centrales y las suposiciones de D&amp;D son diferentes a las de Fate. Lo que, de nuevo, no es una crítica hacia Fate o hacia D&amp;D; es como decir que mi Wrangler no es tan rápido como un Ferrari, eso no es una crítica hacia mi Wrangler.
 
-Entonces, ¿cuáles son las cosas que considero hacen a Fate lo que es? No como algún tipo de prueba de pureza, sino como un indicador más general —si veo una versión de Fate que cumple con el 95% de estas cosas, probablemente se sentirá como Fate para mí. Pero, si veo algo que solo cumple con el 10% de estas, probablemente no funcione como Fate muy bien—.
+Entonces, ¿cuáles son las cosas que considero hacen a Fate lo que es? No como algún tipo de prueba de pureza, sino como un indicador más general —si veo una versión de Fate que cumple con el 95% de estas cosas, probablemente se sentirá como Fate para mí. Pero, si veo algo que solo cumple con el 10% de estas, probablemente no funcione muy bien como Fate—.
 
 ## Personajes proactivos
 
@@ -20,7 +20,7 @@ También, se convierte en una buena pregunta el cuestionarse si los juegos basad
 
 ## Personajes competentes
 
-Los personajes de Fate son competentes. Son buenos en lo que hacen. Quizás no son los mejores del mundo, pero en lo que sea que son buenos, lo son. Ellos no son unos simples aficionados torpes.
+Los personajes de Fate son competentes. Son buenos en lo que hacen. Quizás no son los mejores del mundo, pero en lo que sea que son buenos, lo son. No son unos simples aficionados torpes.
 
 ## Habilidades, aspectos, forzados e invocaciones
 
@@ -33,7 +33,7 @@ Funciona y la forma en que genera personajes interconectados es para mí una par
 
 ## Falta de optimización de personajes
 
-Como juego, Fate casi hace todo lo posible para evitar que los jugadores maximicen las cosas en las que sus personajes son buenos. La creación de proezas se centra en hacer que las cosas sean interesantes en vez de minimizar o maximizar. Entonces, la creación de proezas es opuesta a la idea de "hallar la combinación de cosas perfecta que hagan a mi personaje increíble". En la mesa, cuando se discuta acerca de las proezas, igualmente se cuenta con un veto general para cuando  un jugador esté buscando minimizar o maximizar a su personaje.
+Como juego, Fate casi hace todo lo posible para evitar que los jugadores maximicen las cosas en las que sus personajes son buenos. La creación de proezas se centra en hacer que las cosas sean interesantes en vez de minimizar o maximizar a tu personaje. Entonces, la creación de proezas es opuesta a la idea de "hallar la combinación de cosas perfecta que hagan a mi personaje increíble". En la mesa, cuando se discute acerca de las proezas, igualmente se cuenta con un veto general para cuando  un jugador esté buscando minimizar o maximizar a su personaje.
 
 ## Habilidades “finales"
 
@@ -71,8 +71,7 @@ En varios juegos usar una habilidad significa comprometerse en una tarea especí
 
 ## Resultados de la curva de campana
 
-Fate utiliza un esquema de aleatorización fuertemente sesgado hacia resultados "promedio" o una curva de campana. No utiliza una distribución plana. Cómo se logra específicamente esa curva de campana, o exactamente qué tan sesgada está, es una discusión más amplia –pero una distribución plana no se siente como Fate para mí—. Al usar una curva de campana que tiende hacia cero, se pone más énfasis en la puntuación de la habilidad. Cuando tu personaje es bueno en algo, se siente como si lo fuera.
-
+Fate utiliza un esquema de aleatorización fuertemente sesgado hacia resultados "promedio" o una curva de campana. No utiliza una distribución plana. Cómo se logra específicamente esa curva de campana, o exactamente qué tan sesgada está, esto es una discusión más amplia –pero una distribución plana no se siente como Fate para mí—. Al usar una curva de campana que tiende hacia cero, se pone más énfasis en la puntuación de la habilidad. Cuando tu personaje es bueno en algo, se siente como si lo fuera.
 
 Lo anterior, es la escencia de lo que considero es Fate o, en su caso, no lo es para mí.
 
@@ -494,15 +493,15 @@ Este incremento está ocurriendo simultáneamente para ambos lados del _conflict
 
 # Póngalo en una escena
 
-Así que estoy dirigiendo mi juego de _Kriegszeppelin_, y un jugador quiere saltar en su avión usando algunas mecánicas.  Estoy pensando plenamente en GURPS o D&D, así que le pido que tire los dados.  Lo consigue, recibe algunas invocaciones de un aspecto de escena y seguimos adelante.  ¿Lo hice bien?
+Así que estoy dirigiendo mi juego de _Kriegszeppelin_, y un jugador quiere saltar en su avión usando algunas mecánicas.  Estoy pensando plenamente en GURPS o D&amp;D, así que le pido que tire los dados.  Lo consigue, obtiene algunas invocaciones de un aspecto de la escena y seguimos adelante. ¿Lo hice bien?
 
-No, no podría haberlo estropeado más si lo hubiera intentado.  ¿Dónde está el drama?  ¿Dónde está el conflicto?  ¿Dónde está la historia?  En ningún lugar.  Lo que debería haber hecho fue enmarcar esto en una escena:
+No, no podría haberlo hecho peor si lo hubiera intentado.  ¿Dónde está el drama?  ¿Dónde está el conflicto?  ¿Dónde está la historia?  ¡En ningún lugar!  Lo que debería haber hecho fue ponerlo en una escena:
 
-"Está bien, Eddie, el avión está en el hangar con los otros aviones.  ¿Cuándo haces esto?  ¿De noche, cuando nadie puede verte?  ¿O no te importa realmente si te ven?  ¿Qué piensan los mecánicos de que te metas en el avión?  ¿Qué sucede con los otros pilotos?"
+"Está bien, Eddie, el avión está en el hangar con los otros aviones.  ¿Cuándo lo haces?  ¿De noche, cuando nadie puede verte?  ¿O no te importa realmente si te ven?  ¿Qué piensan los mecánicos de que te metas en el avión?  ¿Qué sucede con los otros pilotos?"
 
 Una vez que relaciono esto con un lugar y un momento específicos, se vuelve mucho más interesante.  Los mecánicos pueden aparecer.  Los forzados empiezan a sugerirse a sí mismos.  Conflicto.  Drama.  Historia.  Las razones por las que jugamos.
 
-Cada vez que ocurra algo, encuadrelo en una escena. ¿Tirada de contactos?  ¿A dónde es apropiado que vayan para encontrar a estas personas?  ¿Indagan? ¿Están en una biblioteca o dando trompadas en las calles?.  No hay absolutamente ninguna mecánica que no pueda mejorarse enmarcándola en una escena.  Ficción, no física.
+Cada vez que ocurra algo, póngalo en una escena. ¿Tirada de _contactos_?  ¿A dónde es apropiado que vayan para encontrar a estas personas?  ¿Indagan al respecto? ¿Están en una biblioteca o están tirando trompadas en las calles?  No hay absolutamente ninguna mecánica que no pueda mejorarse poniéndola en una escena.  Ficción, no física.
 
 Hay otro beneficio sutil de pensar en escenas.  Las cosas pasan en escenas.  Primero tienes que hacer las preguntas de la gran escena:
 
@@ -514,25 +513,25 @@ Hay otro beneficio sutil de pensar en escenas.  Las cosas pasan en escenas.  Pri
 
 - ¿Qué cosa interesante está a punto de suceder?
 
-Y si no tiene respuestas interesantes a esas preguntas, probablemente no sea una escena interesante y simplemente debería omitirla.  Si tu juego fuera un programa de televisión o una película, ¿perderían el tiempo del guión en esto?
+Y si no tiene respuestas interesantes a las preguntas anteriores, probablemente no sea una escena interesante y simplemente debería omitirla.  Si su juego fuera un programa de televisión o una película, ¿perderían el tiempo del guión en esto?
 
-Hágalo más. Póngalo en escena.
+Hágalo más. Póngalo en una escena.
 
 # Creación de personajes en Fate Básico
 
-Las historias de fondo son historias.  Son lo que impulsa el juego.
+Los trasfondos son las historias personales de nuestros personajes. Son lo que impulsa el juego.
 
 Y es por eso que me encanta la creación de personajes en Fate.
 
-Primero, es uno de los pocos sistemas de creación de personajes que se enfoca primero en quién es el personaje, más que en lo que puede hacer.  Ahora me resulta bastante difícil crear personajes en otros sistemas, ya que en ellos es un ejercicio de optimización de puntos.
+Primero, es uno de los pocos sistemas de creación de personajes que se enfoca primero en quién es el personaje, más que en lo que este puede hacer.  Ahora me resulta bastante difícil crear personajes en otros sistemas, ya que en ellos es un ejercicio de optimización de puntos.
 
-Las historias compartidas también le presentan al grupo una buena razón para conocerse y hace un gran trabajo al desterrar el típico “se encuentran en un bar”.
+También, las historias previas compartidas le presentan a los personajes una buena razón para conocerse y hace un gran trabajo al desterrar el típico “se encuentran en una taberna”.
 
-Pero la verdadera razón por la que disfruto la creación de personajes en Fate es más que esto.  Son las Tres Fases. Es crear y enriquecer historias sobre los personajes. Porque cada vez que hago el ejercicio, terminamos con una plétora de amenazas y antagonistas en el mundo. Terminamos con hilos de historias que deben ir a alguna parte y con los que quiero saber qué sucede.  Termino con relaciones complejas que quiero que se resuelvan de una manera interesante.
+Pero la verdadera razón por la que disfruto la creación de personajes en Fate es más que esto.  Son las **Tres fases**. Es crear y enriquecer historias acerca de los personajes. Porque cada vez que hago el ejercicio, terminamos con una plétora de amenazas y antagonistas en el mundo. Terminamos con hilos de historias que deben ir a alguna parte y con los que quiero saber qué sucede.  Termino con relaciones complejas que quiero que se resuelvan de una manera interesante.
 
 No puedo imaginarme dirigir un juego de Fate donde la creación de personajes no influyó en los eventos venideros.  Y si jugara en uno en el que nuestro pasado no entrara en juego, me sentiría como si algo se hubiera olvidado.
 
-He aprendido a odiar el término "trasfondo" cuando se trata de personajes Fate.  La historia de fondo implica que es el pasado, y en muchos círculos de juego tiene la connotación de que solo es importante desde un punto de vista motivacional, después de todo, la historia probablemente se creó antes de que hicieras a tus personajes.  La historia de tu personaje impulsa el juego.  Es lo que crea complicaciones y les da a los jugadores la oportunidad de decidir qué tipo de juego quieren jugar.
+También, he aprendido que no me agrada tanto el término "trasfondo" cuando se trata de personajes Fate. El trasfondo implica que es el pasado del personaje y, en muchos círculos de juego, tiene la connotación de que solo es importante desde un punto de vista motivacional, ya que después de todo la historia probablemente se creó antes de que crearás a tus personajes. La historia personal de tu personaje impulsa el juego.  Es lo que crea complicaciones y les da a los jugadores la oportunidad de decidir qué tipo de juego quieren jugar.
 
 # Guía de Rob para escribir buenos aspectos
 
