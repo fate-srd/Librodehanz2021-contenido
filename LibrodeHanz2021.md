@@ -1167,4 +1167,4 @@ Los entresijos de Fate han sido analizados y presentados; los aspectos tienen se
 
 El Libro de Hanz se convirtió en un libro no por el autor sino por la Comunidad de Fate.  Las publicaciones originales que se convirtieron en estos ensayos fueron compartidas y guardadas por esa comunidad.  Hoy, es un honor que tengas esto en tus manos.
 
-Versión 1.1 traducido por [@laesquinadelrol](https://twitter.com/laesquinadelrol)  09-04-2021 21:48
+Versión 3.11, texto traducido por [@laesquinadelrol](https://twitter.com/laesquinadelrol)  15-05-2021 11:00
