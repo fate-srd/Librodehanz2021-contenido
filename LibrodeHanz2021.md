@@ -535,183 +535,183 @@ También, he aprendido que no me agrada tanto el término "trasfondo" cuando se 
 
 # Guía de Rob para escribir buenos aspectos
 
-Los aspectos son una de las cosas recurrentes con las que la gente, especialmente la gente nueva, tiene problemas en Fate.
+Los _aspectos_ son una de las cosas con las que recurrentemente las personas, especialmente aquellas que comienzan a jugar Fate, tienen problemas.
 
-## Malos Aspectos
+## Aspectos malos
 
-Mucha gente nueva en Fate piensa en los aspectos en términos de definir lo que pueden hacer sus personajes, ya que los Méritos / Dotes / Ventajas funcionan en otros sistemas.  Trate de no pensar en los aspectos de esta manera, tiende a crear malos aspectos.  En cambio, la mejor manera de entender los aspectos es preguntarse "¿qué me gustaría ver en una historia sobre este personaje?"
+Mucha personas que comienzan a jugar Fate piensan en los _aspectos_ en términos de definir lo que pueden hacer sus personajes, ya que los méritos/dotes/ventajas funcionan muy bien en otros sistemas. Trate de no pensar en los _aspectos_ de esta manera, porque tiende a crear _aspectos_ malos. En cambio, la mejor manera de entender los _aspectos_ es preguntarse: "¿qué me gustaría ver en una historia sobre este personaje?"
 
-Seamos claros, las cosas que se pueden manejar con habilidades o proezas deben manejarse como habilidades o proezas.  No necesitas un aspecto de «Buen disparo» para herir a la gente con un arma —para eso está la habilidad Disparar. Y si quieres ser un gran francotirador, una proeza apropiada hará el trabajo mucho mejor que un aspecto.
+Seamos claros, las cosas que se pueden manejar con _habilidades_ o _proezas_ deben manejarse como _habilidades_ o _proezas_.  No necesitas un _aspecto_ de «Justo en el blanco» para herir a la gente con un arma —para eso está la habilidad _Disparar_—. Y si quieres ser un gran francotirador, una _proeza_ apropiada hará el trabajo mucho mejor que un _aspecto_.
 
-Ahora, lo que es un buen aspecto se vuelve un poco más difícil de definir, especialmente sin una comprensión sólida de lo que hacen los aspectos.
+Entonces, lo que es un _aspecto_ se vuelve un poco más difícil de definir, especialmente sin una comprensión sólida de lo que hacen los _aspectos_.
 
-## ¿Qué hacen los aspectos?
+## ¿Qué hacen los _aspectos_?
 
-Para escribir un buen aspecto, es fundamental que se comprenda lo que hacen en el juego.  Si bien esto puede depender de varias cosas, los aspectos de un personaje suelen hacer una o más de las siguientes cinco cosas:
+Para escribir un buen _aspecto_, es fundamental que se comprenda lo que hacen en el juego.  Si bien esto puede depender de varias cosas, los _aspectos_ de un personaje suelen hacer una o más de las siguientes cinco cosas:
 
-1. Concederte permisos
+1. Te concede permisos
 
-1. Hacerte increíble haciendo algunas cosas
+1. Te hace increíble haciendo algunas cosas
 
-1. Obstaculizarte en algunas circunstancias
+1. Te obstaculiza en algunas circunstancias
 
-1. Complicarte tu vida
+1. Te complica tu vida
 
-1. Crear la ambientación
+1. Te ayudan a crear la ambientación
 
-Cubriremos cada uno de estos y por qué son importantes:
+A continuación, se abordará cada una de estas cinco cosas y el por qué son importantes:
 
-## Concederte Permisos
+## Te concede permisos
 
-Uno de los usos comunes de los aspectos es "concederte permiso" para hacer ciertas cosas que la mayoría de la gente no puede hacer.  Este es probablemente el más vago de los cuatro usos de los aspectos del personaje, así que intentaré aclararlo con algunos ejemplos.  La mayoría de la gente no puede usar la magia, pero un «Detective privado que es mago» puede hacerlo.
+Uno de los usos comunes de los _aspectos_ es que "te concede permiso" para hacer ciertas cosas que la mayoría de la gente no puede hacer.  Este es probablemente el más vago de los otros cuatro usos de los _aspectos_ del personaje, así que intentaré aclararlo con algunos ejemplos.
+ 
+- La mayoría de la gente no puede usar la magia, pero un «Detective privado que es mago» puede hacerlo.
 
-La mayoría de la gente no puede usar la Fuerza, pero «El último Jedi», sí puede.
+- La mayoría de la gente no puede usar la Fuerza, pero «El último Jedi», sí puede.
 
-La mayoría de la gente no puede entrar al palacio y hablar con el rey, pero el «Hermano del rey», sí que puede.
+- La mayoría de la gente no puede entrar al palacio y hablar con el rey, pero el «Hermano del rey», sí que puede.
 
-La mayoría de la gente no puede encontrar el gremio de asesinos, y ciertamente no puede entrar, pero un «Asesino en buena posición», sí puede.
+- La mayoría de la gente no puede encontrar el gremio de asesinos, y ciertamente no puede entrar, pero un «Asesino en buena posición», sí puede.
 
-Como puede ver, muchas veces el aspecto de "conceder permiso" sigue la fórmula "La mayoría de la gente no puede, pero yo puedo".
+Como puedes ver, muchas veces el _aspecto_ cuando "te concede permisos" sigue la fórmula "La mayoría de la gente no puede, pero yo puedo".
 
-Si tiene un aspecto en mente, piense si le concede algún tipo de permiso o no.  Si no lo hace, no te preocupes, no todos los aspectos lo hacen.
+Si tienes un _aspecto_ en mente, piensa si te concede algún tipo de permiso o no.  Si no lo hace, no te preocupes, no todos los _aspectos_ lo hacen.
 
-## Hacerte increíble haciendo algunas cosas
+## Te hace increíble haciendo algunas cosas
 
-El uso más común de un aspecto es probablemente para hacerte más asombroso haciendo cosas.  Cuando se te ocurra un aspecto, intenta pensar en cosas en las que tu personaje podría fallar si el aspecto no fuera cierto.
+El uso más común de un _aspecto_ es probablemente para hacerte más impresionante haciendo cosas.  Cuando se te ocurra un _aspecto_, intenta pensar en cosas en las que tu personaje podría fallar si el _aspecto_ no fuera cierto.
 
-“Mi personaje puede haber fallado ese tiro, pero «La Muerte Pálida no falla»”.
+- “Mi personaje puede haber fallado ese tiro, pero «[La muerte blanca](https://es.m.wikipedia.org/wiki/Simo_H%C3%A4yh%C3%A4) (hace referencia a un famoso francotirador finés, N.d.T) no falla»”.
 
-"Es posible que no hubiera podido derrotar a esos soldados de asalto si no hubiera sido por «Mi copiloto Wookiie»".
+- "Es posible que no hubiera podido derrotar a esos soldados de asalto si no hubiera sido por «Mi copiloto Wookiie»".
 
-Es posible que me hayan visto intentar escabullirme, excepto por el hecho de que soy «Uno con las sombras»".
+- "Es posible que me hayan visto intentar escabullirme, excepto por el hecho de que soy «Uno con las sombras»".
 
-Puede que no haya podido hacer lo que quería, pero soy un «Maestro de la diplomacia con las bebidas tropicales».
+- "Puede que no haya podido hacer lo que quería, pero soy un «Maestro de la diplomacia con las bebidas tropicales»".
 
-## Obstaculizarte en algunas circunstancias
+## Te obstaculiza en algunas circunstancias
 
-Esto es exactamente lo contrario de la sección anterior.  Los aspectos de esta categoría pueden causar fallas cuando, de lo contrario, es posible que haya tenido éxito
+Esto es exactamente lo contrario de la sección anterior.  Los _aspectos_ de esta categoría pueden causar fallas cuando de otro modo hubieses tenido éxito
 
-Ahora, este es probablemente un concepto extraño ¿Por qué demonios querrías hacer esto?
+Este es probablemente un concepto extraño ¿Por qué demonios querrías hacer esto?
 
-Los aspectos se activan mediante puntos Fate.  En cada escena, el DJ obtiene un punto Fate por cada personaje.  Si el DJ elige usar uno en tu contra en uno de tus aspectos, obtienes ese punto Fate al final de la escena.
+Los _aspectos_ se activan mediante puntos Fate.  En cada escena, el DJ obtiene un punto Fate por cada personaje.  Si el DJ elige usar uno en tu contra en uno de tus _aspectos_, obtienes ese punto Fate al final de la escena.
 
-Si el DJ usa un punto Fate en uno de los aspectos de un PNJ, no obtienes ese punto.
+Si el DJ usa un punto Fate en uno de los _aspectos_ de un PNJ, no obtienes ese punto.
 
-Ahora, tenga la seguridad de que el DJ utilizará sus de Puntos Fate en cada escena.  Simplemente va a suceder.  La única pregunta es si obtienes o no esos puntos Fate, o si uno de tus compañeros los obtiene, o si simplemente se desvanecen en el aire.
+Ten la seguridad de que el DJ utilizará sus puntos Fate en cada escena.  Simplemente va a suceder. La única pregunta es si obtienes o no esos puntos Fate, o si uno de tus compañeros los obtiene, o si simplemente se desvanecen en el aire.
 
-Dicho esto, la plantilla para el uso de aspectos "negativos" es casi exactamente como los "positivos", por lo que puede pensar en ellos casi de la misma manera.
+Dicho esto, la plantilla para el uso de _aspectos_ "negativos" es casi exactamente como los "positivos", por lo que puede pensar en ellos casi de la misma manera.
 
-“Probablemente habría convencido al funcionario para que hiciera las cosas a mi manera, excepto que obviamente no soy digno de confianza ya que soy «Uno con las sombras»”.
+- “Probablemente habría convencido al funcionario para que hiciera las cosas a mi manera, excepto que obviamente no soy digno de confianza ya que soy «Uno con las sombras»”.
 
-“Hubiera podido agarrarme a esa repisa, excepto que mi «Mano biónica» se congeló”
+- “Hubiera podido agarrarme de esa repisa, excepto que mi «Mano biónica» se congeló”
 
-“"Habría podido saltar de la trampa, si no hubiera sido por mi «Pierna coja»”
+- "Habría podido saltar de la trampa, si no hubiera sido por mi «Pierna coja»”
 
-## Complicarte tu vida
+## Te complican tu vida
 
-Y aquí hay otra cosa en el que parece que los aspectos son negativos.  Y la razón por la que quieres estos es exactamente el mismo —obtener esos maravillosos, maravillosos puntos Fate.
+Y aquí hay otra cosa en la que parece que los _aspectos_ son negativos.  Y la razón por la que quieres este tipo de _aspecto_ es exactamente por lo mismo —obtener esos deliciosos, deliciosos puntos Fate—.
 
-De vez en cuando, el DJ puede decidir complicarte la vida usando uno de tus aspectos.  Si eres «El último Jedi», probablemente haya gente persiguiéndote, y es muy posible que se inmiscuyan en tu vida en los momentos más inoportunos.  Y cuando eso suceda, el DJ te entregará un punto Fate.
+De vez en cuando, el DJ puede decidir complicarte la vida usando uno de tus aspectos.  Si eres «El último Jedi», probablemente haya gente persiguiéndote, y es muy posible que se inmiscuyan en tu vida en los momentos más inoportunos. Y cuando eso suceda, el DJ te entregará un punto Fate.
 
-Incluso sin el punto Fate, ¿estarías mejor sin estas complicaciones?  Bueno, piénsalo.  El trabajo del director general es complicarte la vida.  Es lo que hacen, o los juegos se volverían rápidamente muy aburridos.
+Incluso sin el punto Fate de por medio, ¿estarías mejor sin estas complicaciones?  Bueno, piénsalo.  El trabajo del DJ es complicarte la vida.  Es lo que la persona que es DJ hace, o los juegos se volverían rápidamente muy aburridos.
 
-Entonces, para ver si esto se aplica a tu personaje, intenta ver si hay formas en que esto te complique la vida.  Sin embargo, esto es un poco diferente al conjunto de ideas anterior, en el sentido de que estas situaciones no se tratan de ayudar o dañar directamente en una tarea, sino de complicaciones a nivel de la historia.
+Entonces, para ver si esto se aplica a tu personaje, intenta ver si hay formas en que el _aspecto_ te complique la vida.  Sin embargo, esto es un poco diferente al conjunto de ideas anterior, en el sentido de que estas situaciones no se tratan de que te ayude o perjudique directamente en una tarea, sino de que genere complicaciones a nivel de la historia.
 
 Por ejemplo:
 
-“Se vuelve difícil trabajar en esta ciudad, ya que a la policía le gusta molestar al único «Detective privado mago».
+- “Se vuelve difícil trabajar en esta ciudad, ya que a la policía le gusta molestar al único «Detective privado mago».
+- “Hombre, sigo creándome problemas desde que soy un «Alborotador conocido»”. 
+- “La gente sigue intentando secuestrarme desde que soy «El hermano del rey»”.
 
-“Hombre, sigo creándome problemas desde que soy un «Alborotador conocido»”. 
+## Te ayudan a crear la ambientación
 
-“La gente sigue intentando secuestrarme desde que soy «El hermano del rey»”.
+Este es probablemente el uso menos importante de los _aspectos_, pero aún así vale la pena señalarlo.  Dado que con un _aspecto_, declaras algo como cierto sobre tu personaje, esta es una buena manera de hacer que las cosas existan en el mundo porque las quieres allí.
 
-## Crear la ambientación
-
-Este es probablemente el uso menos importante de los aspectos, pero aún así vale la pena señalarlo.  Dado que con un aspecto, declaras algo como cierto sobre tu personaje, esta es una buena manera de hacer que las cosas existan en el mundo porque las quieres allí.
-
-Si eres un «Asesino de gremio en buena posición», debe haber un gremio de asesinos.
+- Si eres un «Asesino de gremio en buena posición», debe haber un gremio de asesinos.
 
 Sin embargo, los DJ pueden vetar algunas posibilidades, así que téngalo en cuenta.  Jugar mucho a Fate es tomar las ideas de todos en la mesa y hacer una historia increíble, por lo que tu DJ debería trabajar para involucrar a todos.
 
 ## Creando aspectos
 
-Tu aspecto
+>Tu aspecto
 
-Muchas cosas pueden convertirse en buenos aspectos —objetos específicos, relaciones con personas u organizaciones, rasgos de la personalidad, metas o incluso frases clave.  ¡Alguien que «Tiene un mal presentimiento sobre esto» probablemente tendrá razón sobre esos sentimientos al menos algunas veces!
+Muchas cosas pueden convertirse en buenos _aspectos_ —objetos específicos, relaciones con personas u organizaciones, rasgos de la personalidad, metas o incluso frases clave—.  ¡Alguien que «Tiene un mal presentimiento sobre esto» probablemente tendrá razón sobre esos sentimientos al menos algunas veces!
 
 Así que piensa en algo interesante sobre tu personaje, algo que te gustaría que apareciera en la historia.
 
 Cuantas más formas pienses acerca de cómo se pueden utilizar estas ideas en una historia, mejor.  Intente al menos tres formas.  Si algunos te ayudan y otros te obstaculizan, vas por buen camino.
 
-Que sus aspectos sean más generales, no específicos.  Si elige una relación, considere una relación que tenga muchas implicaciones.  El hermano del rey deja que sucedan algunas cosas, ¡pero el medio hermano exiliado del rey tirano dice mucho más!  Para aspectos que no se refieren a relaciones, piense en frases que tengan tanto sabor como connotaciones múltiples —«Señora arreglatodo» tiene unos usos obvios, pero «Llave inglesa» (uno de mis aspectos favoritos de todos los tiempos) se puede usar en todo lugar —ya sea golpeando cosas con una llave inglesa literalmente, arreglando cosas o desarreglando o beneficiarse saboteando planes.
+Que sus _aspectos_ sean más generales, no específicos.  Si elige una relación, considere una relación que tenga muchas implicaciones.  El hermano del rey deja que sucedan algunas cosas, ¡pero el medio hermano exiliado del rey tirano dice mucho más!  Para _aspectos_ que no se refieren a relaciones, piense en frases que tengan tanto sabor como connotaciones múltiples: «Señora arreglatodo» tiene unos usos obvios, pero «Llave inglesa» (uno de mis _aspectos_ favoritos de todos los tiempos) se puede usar en todo lugar —ya sea golpeando cosas con una llave inglesa literalmente, arreglando cosas o desarreglando o beneficiarse saboteando planes—.
 
-Por último, piense en aspectos con sabor.  Piensa en las cosas que te entusiasman con el personaje y muestran la personalidad de este.  «Vida complicada» es un poco aburrido.  La inclinación por los problemas es un poco mejor, pero "Tengo un mal presentimiento" dice mucho sobre el personaje.
+Por último, piense en _aspectos_ con sabor.  Piensa en las cosas que te entusiasman con el personaje y muestran la personalidad de este.  «Vida complicada» es un poco aburrido.  La inclinación por los problemas es un poco mejor, pero «Tengo un mal presentimiento» dice mucho sobre el personaje.
 
-Diviértete. Es un juego y se supone que es divertido. Y ninguna decisión que tomes es permanente. La gran mayoría de los aspectos se pueden modificar de forma regular, de modo que, a medida que tenga una mejor idea de lo que está y de lo que no entra en juego normalmente, puede ajustar sus aspectos para que le resulten más útiles o para reflejar el desarrollo del personaje.
+Diviértete. Es un juego y se supone que es divertido. Y ninguna decisión que tomes es permanente. La gran mayoría de los _aspectos_ se pueden modificar de forma regular, de modo que, a medida que tenga una mejor idea de lo que está y de lo que no entra en juego normalmente en las partidas, puede ajustar sus _aspectos_ para que le resulten más útiles o para reflejar el desarrollo del personaje.
 
 # Intenciones y tareas
 
-Una cosa que he visto como un obstáculo para las personas que vienen a Fate es que maneja las tiradas y las acciones de manera diferente a muchos de los juegos "convencionales".
+Una cosa que he visto como un obstáculo para las personas que vienen a Fate, es que este juego maneja las tiradas y las acciones de manera diferente a muchos de los juegos "convencionales".
 
 En muchos juegos convencionales, las reglas definen lo que puedes hacer, cómo lo haces y qué tan efectivo eres (o no) en eso.  Los llamo juegos "basados ​​en tareas" porque el jugador decide qué tarea va a realizar y luego ve cuál es el resultado de esa acción.
 
 En Fate es diferente.  Fate está en la categoría de lo que llamo juegos "basados ​​en intenciones".  Lo que eso significa es que un jugador comienza con lo que quiere que sean los resultados de su acción.  Luego ve si puede lograr ese resultado.
 
-Para que un sistema basado en intenciones funcione, necesita saber dos cosas para cada acción.  Qué es lo que quiere lograr y cómo diablos va a hacerlo.
+Para que un sistema basado en intenciones funcione, necesitas saber dos cosas de cada acción:  qué es lo que quieres lograr y cómo diablos vas a hacerlo.
 
 Sin esas dos piezas de información, realmente no puedes determinar cómo tirar por algo en Fate.
 
-Por ejemplo, si un PJ está volando y tiene un avión enemigo persiguiéndolo.  Este jugador luego dice "Quiero volar a través de los disparos".  De acuerdo, probablemente sea una tirada de pilotaje, ya que la Tarea casi siempre determina la habilidad obtenida, pero ¿cuál de las cuatro acciones debería ser?
+Por ejemplo, si un PJ está volando y tiene un avión enemigo persiguiéndolo.  Este jugador luego dice: "Quiero volar a través de los disparos".  De acuerdo, probablemente sea una tirada de pilotar, ya que la tarea casi siempre determina la habilidad obtenida, pero ¿cuál de las cuatro acciones debería ser?
 
-El caso más claro es una acción de Superar, ¡y la intención del jugador puede ser evadir esos molestos aviones!
+El caso más claro es una acción de _superar_, ¡y la intención del jugador puede ser evadir esos molestos aviones!
 
-O podría ser un intento de crear una ventaja a partir de cualquiera de esos aviones, o incluso de otros rivales, algo como _Lost Him In The Canyons_.  ¡El jugador puede querer eso para asegurarse de sacarse de encima esos aviones!
+O podría ser un intento de _crear una ventaja_ a partir de cualquiera de esos aviones, o incluso de otros rivales, algo como _Lost Him In The Canyons_.  ¡El jugador puede querer eso para asegurarse de sacarse de encima esos aviones!
 
-O podría atraerlos como Han Solo e intentar hacer que los aviones vuelen entre los cañones y exploten —esto suena como un ataque.
+O podría atraerlos como Han Solo e intentar hacer que los aviones vuelen entre los cañones y exploten —esto suena como una acción de _atacar_—.
 
-Entonces, sin la intención y la tarea, realmente no podemos resolver una acción. Varios de los enigmas "clásicos" de cómo funciona esto caen en esta categoría.  Esposar a alguien a un escritorio, bueno, ¿tiene la intención de que sea permanente y eliminarlo efectivamente de la pelea?  Si es así, los está eliminando y es un ataque.  ¿Se supone que debe ralentizarlo?  Está creando una ventaja.
+Entonces, sin la intención y la tarea, realmente no podemos resolver una acción. Varios de los enigmas "clásicos" de cómo funciona esto caen en esta categoría.  Esposar a alguien a un escritorio, bueno, ¿tienes la intención de que sea permanente y eliminarlo efectivamente de la pelea?  Si es así, lo estás eliminando y es un acción de _atacar_.  ¿Se supone que debe detenerlo?  Estás _creando una ventaja_.
 
-Lo mismo con Hulk arrojando a alguien por el horizonte, si estás tratando de arrojarlo por el horizonte y sacarlo del Conflicto, estás tratando de eliminarlo y, por lo tanto, es una acción de Ataque.  Si solo está tratando de aturdirlos, moverlos o lo que sea, es una acción de Crear una ventaja.
+Lo mismo con Hulk arrojando a alguien por el horizonte, si estás tratando de arrojarlo por el horizonte y sacarlo del _conflicto_, estás tratando de eliminarlo y, por lo tanto, es una acción de _atacar_.  Si solo está tratando de aturdirlo, moverlo o lo que sea, es una acción de _crear una ventaja_.
 
-Hacer que los jugadores digan cuál es su intención puede ser complicado, especialmente si provienen de juegos más tradicionales (basados ​​en tareas).  Me gusta preguntarles a los jugadores cuando algo no está claro “Está bien, describe el éxito.  Digamos que esto funciona, ¿qué es lo que quieres que suceda? "
+Hacer que los jugadores digan cuál es su intención puede ser complicado, especialmente si provienen de juegos más tradicionales (basados ​​en tareas).  Me gusta preguntarles a los jugadores cuando algo no está claro: “Está bien, describe el éxito.  Digamos que esto funciona, ¿qué es lo que quieres que suceda? "
 
 A veces, esto no es realmente necesario, por supuesto.  Si el jugador dice "¡Lo atravesé con mi espada!"  puedes asumir bastante bien que la intención es matarlo.
 
-La intención y la tarea también son importantes cuando se habla de compilaciones y modificaciones o proezas de Fate Básico.  “Qué puedo hacer con la cibernética” es una pregunta incontestable, sin entender qué es lo que quieres que haga la cibernética.  Si quieres que la cibernética haga que las personas tengan superpoderes, eso es una cosa.  Si quieres que te otorguen alguna otra bonificación, esa es otra.  Si pueden alcanzar el límite de la capacidad humana, también se puede.
+La intención y la tarea también son importantes cuando se habla de versiones de Fate Básico y de modificaciones/proezas. “¿Qué puedo hacer con la cibernética?” es una pregunta incontestable, sin entender qué es lo que quieres que haga la cibernética.  Si quieres que la cibernética haga que las personas tengan superpoderes, eso es una cosa. Si quieres que les otorguen alguna otra bonificación, esa es otra.  Si pueden alcanzar el límite de la capacidad humana, también se puede.
 
-Pero, ¿qué tipo de dificultades puede causar la cibernética?  ¿Puede caerse el sistema?  ¿Necesita mantenimiento?  ¿Podría incluso ser hackeada?
+Pero, ¿qué tipo de dificultades puede causar la cibernética? ¿Puede fallar?  ¿Necesita mantenimiento? ¿Podría incluso hackearse?
 
-Por otro lado, también hay que considerar los aspectos sociales de la cibernética —¿La cibernética te deshumaniza?  ¿Hacen que otros reaccionen hacia ti de manera diferente?
+Por otro lado, también hay que considerar los aspectos sociales de la cibernética —¿La cibernética te deshumaniza? ¿Hace que otros reaccionen hacia ti de manera diferente?
 
-Y realmente, la cibernética es una "Tarea".  Es un medio para lograr un fin.  Para descubrir cómo usarla, realmente necesitas comenzar decidiendo de qué quieres que sea tu juego.  Si quieres superhéroes haciendo cosas extraordinarias, entonces te acercarás a ella de una manera.  Si quieres que parte del tema de tu juego gire en torno a la deshumanización, entonces los abordarás de una manera muy diferente.  Todas esas preguntas se combinan para formar la "intención" de tu sistema cibernético.  Y dependiendo de cómo las respondas, puedes decidir que no son más que una pifia descriptiva y que no tienen ningún efecto narrativo (la gente no está en contra de ellos, pero no quiere que les otorguen habilidades sobrehumanas y tampoco las quiere  porque son realmente problemáticas).
+Y realmente, la cibernética es una "tarea". Es un medio para lograr un fin.  Para descubrir cómo usarla necesitas comenzar decidiendo de qué quieres que sea tu juego.  Si quieres superhéroes haciendo cosas extraordinarias, entonces lo abordarás  de una manera.  Si quieres que parte del tema de tu juego gire en torno a la deshumanización, entonces la abordarás de otra manera muy diferente.  Todas esas preguntas se combinan para formar la "intención" de tu sistema cibernético.  Y dependiendo de cómo las respondas, puedes decidir que no es más que una pifia descriptiva y que no tienen ningún efecto narrativo (la gente no está en contra de ella, pero no quieres que conceda habilidades sobrehumanas y tampoco quieres que sea realmente problemática).
 
-Y todos esos es genial y pueden servir para un objetivo en particular.  Pero la única forma de juzgar la efectividad de su implementación cibernética es contra un objetivo definido.
+Y todos lo anterior es genial y puede servir para un objetivo en particular.  Pero la única forma de juzgar la efectividad de cómo implementas el uso de la  cibernética es contra un objetivo definido.
 
 # Fate no sube hasta once
 
-Hablemos de habilidades.  Las habilidades son lo bueno que eres en algo, ¿verdad?
+Hablemos de habilidades.  Las habilidades son lo bueno que eres en algo, ¿cierto?
 
-Eso es cierto en la mayoría de los juegos y superficialmente en Fate.  El físico no es una "habilidad".  Veo las habilidades más cercanas a “cómo un personaje impacta la escena”.  Si piensas en alguien con una pistola peleando contra un maestro en artes marciales, de manera realista, el maestro será menos efectivo con la misma habilidad.
+Eso es cierto en la mayoría de los juegos y lo es superficialmente en Fate.  El físico no es una "habilidad".  Veo las habilidades más cercanas a “cómo un personaje impacta la escena”.  Si piensas en alguien con una pistola peleando contra un maestro en artes marciales, de manera realista, el maestro será menos efectivo con la misma habilidad.
 
 Pero, si solo decimos que la habilidad representa tu capacidad para influir en la escena, entonces podemos convertir la influencia del arma en la influencia de la habilidad y se acabó.  Entonces, con una habilidad hipotética de artes marciales de 4, serías Jackie Chan, pero con un disparo de 4, serías bastante competente, ya que tu arma en sí misma sería parte de la influencia de esa escena.
 
 ¡Llegaré a algo con esto, de verdad!  ¡Gracias por leer hasta ahora!
 
-En el ensayo anterior, hablé sobre representar un brazo cibernético principalmente dándole al personaje la habilidad apropiada (Física o posiblemente Atletismo), un Aspecto para las partes más narrativas, y tal vez posiblemente una proeza, y eso fue todo.  Esto funciona porque, para mí, tener ese 4 en Físico dice “Tengo tanta influencia en las escenas, cuando me acerco a ellas de esta manera.  Cómo obtuve esa influencia es irrelevante, mientras funcione, sea de tecnología, magia o lo que sea ".
+En el ensayo anterior, hablé sobre representar un brazo cibernético principalmente dándole al personaje la habilidad apropiada (físico o posiblemente atletismo), un aspecto para las partes más narrativas, y tal vez posiblemente una proeza, y eso fue todo.  Esto funciona porque, para mí, tener ese 4 en físico dice “Tengo tanta influencia en las escenas, cuando me acerco a ellas de esta manera." Cómo obtuve esa influencia es irrelevante, ya sea por entrenamiento, por la tecnología, la magia o lo que sea.
 
-En este punto, podrías preguntar "¿y si yo fuera un fisicoculturista que tuviera la cibernética incorporada para usar, a ver, Señor Sabelotodo?" 
+En este punto, podrías preguntar "¿y si yo fuera un fisicoculturista que tuviera la cibernética incorporada para usar, a ver, "señor Sabelotodo?" 
 
-“Fate no sube hasta once”
+"Fate no sube hasta once"
 
-Bien, finalmente llegué al título del ensayo.  Pero, ¿qué diablos quiero decir con eso?  Si no está familiarizado con la frase "sube hasta once", proviene de la película _This Is Spinal Tap_.  En ella, uno de los guitarristas habla de que sus amplificadores son especiales porque, si bien la mayoría de los amplificadores tienen diez como el ajuste más alto en su dial, el suyo va a once.  Aparentemente, es demasiado tonto para darse cuenta de que son los componentes internos del sistema los que determinan el volumen del amplificador, y que la etiqueta es exactamente eso, solo una etiqueta.
+Bien, finalmente llegué al título del ensayo.  Pero, ¿qué diablos quiero decir con eso?  Si no está familiarizado con la frase "sube hasta once", proviene de la película _This is spinal tap_.  En ella, uno de los guitarristas habla de que sus amplificadores son especiales porque, si bien la mayoría de los amplificadores tienen diez como el ajuste más alto en su dial, el suyo llega hasta once.  Aparentemente, es demasiado tonto para darse cuenta de que son los componentes internos del sistema los que determinan el volumen del amplificador, y que la etiqueta de este es exactamente eso, solo una etiqueta.
 
-Fate no sube hasta once.  Si la habilidad máxima que puedes tener en un área es 4, eso es lo que obtienes.  Eso también representa la habilidad máxima que un personaje inicial puede tener en esa área (claro, también hay proezas, pero no debería haber nada que otorgue una bonificación fija).  4 no necesita representar lo mismo en todos los juegos.  Representa el máximo con el que un jugador puede comenzar en este juego.  4 de Físico podría ser lo más fuerte que un humano puede lograr en un juego, y podría ser Superman en otro.  Es una escala, una forma de calibrar.  No es GURPS, donde 15 de FUE significa exactamente lo que significa: 15 FUE, y tienes muchas tablas que te dicen exactamente lo que hace 15 FUE, y debes tener niveles increíblemente altos de fuerza para representar individuos superiores, como superhéroes, o lo que sea.
+Fate no sube hasta once.  Si la habilidad máxima que puedes tener en un área es 4, eso es lo que obtienes. Eso también representa la habilidad máxima que un personaje inicial puede tener en esa área (claro, también hay proezas, pero no debería haber nada que otorgue una bonificación fija). Un 4 no necesita representar lo mismo en todos los juegos.  Representa el máximo con el que un jugador puede comenzar en este juego.  4 de físico podría ser lo más fuerte que un humano puede lograr en un juego, y podría ser Superman en otro.  Es una escala, una forma de calibrar.  No es _GURPS_, donde 15 de FUE significa exactamente lo que significa: 15 FUE, y tienes muchas tablas que te dicen exactamente lo que hace 15 FUE, y debes tener niveles increíblemente altos de fuerza para representar individuos superiores, como superhéroes, o lo que sea.
 
-Ahora voy a atar cabos.  Una de las razones por las que a la gente le gustan los kit de opciones avanzadas es que les gusta poder subir hasta once.  Les gusta escuchar sobre el valor máximo de algo y luego encontrar la manera de superarlo.  "¿Qué tan alto podemos acumular las bonificaciones?"  Mucha gente querrá crear un personaje con un brazo cibernético no porque piensen que es una gran historia, sino porque piensan que les permitirá ir más alto que el supuesto más alto del sistema —les permitirá subir hasta once.  Lo que, por supuesto, significa que lo "más alto" de hecho no lo era, y lo "más alto" real depende totalmente de qué tan alto puedas apilar tus bloques de Lego.
+Ahora voy a atar cabos.  Una de las razones por las que a la gente le gustan los kit de opciones avanzadas es que les gusta poder subir hasta once.  Les gusta escuchar sobre el valor máximo de algo y luego encontrar la manera de superarlo.  "¿Qué tan alto podemos acumular las bonificaciones?"  Mucha gente querrá crear un personaje con un brazo cibernético no porque piensen que es una gran historia, sino porque piensan que les permitirá ir más alto que el supuesto más alto del sistema —les permitirá subir hasta once—.  Lo que, por supuesto, significa que lo "más alto" de hecho no lo era, y lo "más alto" real depende totalmente de qué tan alto puedas apilar tus bloques de Lego.
 
-Fate no hace eso.  Fate simplemente dice: “Puedes tener 4. Y algunas proezas que te permitirán hacerlo un poco mejor en situaciones específicas.  No puedes tener más y se acabó".  Fate simplemente dice que tu amplificador llega a 10, y si quieres que suene más fuerte, necesitas un amplificador más fuerte, es decir, tocar en un entorno en el que 4 significa algo más.  No te miente y simplemente vuelve a etiquetar el más alto como 11 para que te sientas más increíble.  Es honesto en sus calibraciones y rangos.
+Fate no hace eso.  Fate simplemente dice: “Puedes tener 4. Y algunas proezas que te permitirán hacerlo un poco mejor en situaciones específicas.  No puedes tener más y se acabó".  Fate simplemente dice que tu amplificador llega a 10, y si quieres que suene más fuerte, necesitas un amplificador más fuerte, es decir, tocar en un entorno en el que 4 significa algo más.  No te miente y simplemente vuelve a etiquetar el más alto como 11 para que te sientas más impresionante.  Es honesto en sus calibraciones y rangos.
 
-Algunas personas, por supuesto, aman ese tipo de optimización del personaje.  Personalmente, lo utilizo poco y sospecho que algunas personas están de acuerdo conmigo.  Y afortunadamente hay toneladas de juegos en el hobby, y muchos de ellos apoyan ese nivel de optimización.  Si quiero un juego que haga eso, jugaré ese tipo de juego.
+Algunas personas, por supuesto, aman ese tipo de optimización del personaje.  Personalmente, lo utilizo poco y sospecho que algunas personas están de acuerdo conmigo.  Y afortunadamente hay toneladas de juegos en el _hobby_, y muchos de ellos apoyan ese nivel de optimización.  Si quiero un juego que haga eso, jugaré ese tipo de juego.
 
 Me alegro de que Fate no haga eso y de que me dé la opción de que no sube hasta once.
 
@@ -719,41 +719,41 @@ Me alegro de que Fate no haga eso y de que me dé la opción de que no sube hast
 
 Fate no tiene un sistema de daño. Tenemos estrés, tenemos consecuencias. Pero nada que sea daño.
 
-Entonces, ¿qué es el estrés, si no es daño?  Bueno, en un nivel abstracto, es un mecanismo de ritmo narrativo.  Lo que eso significa más concretamente es que es una medida de lo cerca que estás de que te eliminen —y hay muchas razones por las que podrías ser eliminado.  Y dado que el estrés desaparece al final de una escena, está bastante claro que no pretende de ninguna manera representar un daño físico verdadero
+Entonces, ¿qué es el estrés, si no es daño?  Bueno, en un nivel abstracto, es un mecanismo de ritmo narrativo.  Lo que eso significa más concretamente es que es una medida de lo cerca que estás de que te eliminen —y hay muchas razones por las que podrías ser eliminado—.  Y dado que el estrés desaparece al final de una escena, está bastante claro que no pretende de ninguna manera representar un daño físico verdadero.
 
 Entonces, ¿qué pasa con las Consecuencias?
 
-Todavía no hay daño. Vuelvo a "física, no ficción" aquí.  El daño es principalmente un concepto de "física", el efecto físico real que algo como un ataque o una caída tiene sobre su cuerpo.  Fate no representa eso y no quiere. Representa la ficción.
+Todavía no hay daño. Vuelvo a "física, no ficción" aquí.  El daño es principalmente un concepto de "física", el efecto físico real que algo, como un ataque o una caída, tiene sobre su cuerpo.  Fate no representa eso y no quiere. Representa la ficción.
 
 Ahora bien, lo interesante de las peleas u otros conflictos en la ficción no es la descripción detallada de exactamente cuáles son los efectos físicos de un golpe de espada.  Es el impacto que tienen en la historia de forma continua.  Ya sea que Harry Dresden tenga dolor de cabeza o que John McClane esté cojo porque le lastimaron los pies con el vidrio, lo que le importa a la ficción es el impacto que la pelea tiene en la historia.  Si una "lesión" es puramente interna, o de otra manera no afecta la historia, es irrelevante.
 
 Y eso es lo que representan las consecuencias. Representan el impacto continuo del conflicto y cómo fluye a lo largo de la historia.
 
-Y esto abre un abanico de opciones.  Hay muchas formas de describir el daño, y hay un montón de consecuencias posibles de una pelea.  ¿Un impacto de una espada grande?  Claro, puede resultar ser una «Pierna cortada».  Puede hacerte sentir «Temeroso de tu propia mortalidad».  Puede destruir un artefacto místico que sostienes en la mano, dejándote «Casi fuera de este mundo».
+Y esto abre un abanico de opciones. Hay muchas formas de describir el daño, y hay un montón de consecuencias posibles de una pelea.  ¿Un impacto de una espada grande?  Claro, puede resultar ser una «Pierna cortada».  Puede hacerte sentir «Temeroso de tu propia mortalidad».  Puede destruir un artefacto místico que sostienes en la mano, dejándote «Casi fuera de este mundo».
 
-El modelo de estrés y consecuencias dicta el impacto que tiene un ataque en un personaje.  No es un modelo de "daño", por lo que no dicta el tipo de daño que recibes.  Eso depende de ti, de tu mesa y tu juego.  Hágalo de modo asombroso.
+El modelo de estrés y consecuencias dicta el impacto que tiene un ataque en un personaje.  No es un modelo de "daño", por lo que no dicta el tipo de daño que recibes.  Eso depende de ti, de tu mesa y tu juego.  Hágalo de manera impresionante.
 
 # La lógica no tan oculta de pagar para invocar aspectos
 
-Los aspectos son como una combinación de ventajas y desventajas de GURPS, solo que de forma más libre, ¿cierto?  Si soy realmente fuerte, tendría sentido que siempre fuera realmente fuerte, y sería una bonificación constante.  Quiero decir, así es como funciona el mundo, ¿cierto?
+Los _aspectos_ son como una combinación de ventajas y desventajas de _GURPS_, solo que de forma más libre, ¿cierto?  Si soy realmente fuerte, tendría sentido que siempre fuera realmente fuerte, y sería una bonificación constante.  Quiero decir, así es como funciona el mundo ¿verdad?
 
 Tomemos una sección de prosa mal escrita:
 
-_Nanoc, el guerrero bárbaro respetuoso de los derechos de autor, entró en la batalla.  Conocía a su objetivo, el malvado señor de la guerra Baddaguy.  Un guerrero gritando lo atacó, pero Nanoc lo partió por la mitad y los pedazos cayeron a sus costados.  Miró a su alrededor para ver a Baddaguy.  ¡Ahí!  ¡Arriba en esa colina!  Nanoc comenzó a subir la colina, solo para encontrar a tres de los sucios secuaces de Baddaguy bloqueando su camino.  Un golpe de espada derribó a uno, y una combinación de parada y contraataque envió al siguiente al infierno.  El tercer secuaz, al ver morir a sus amigos en cuestión de segundos, salió corriendo como el cobarde que era._
+_Nanoc, el guerrero bárbaro respetuoso de la propiedad intelectual (el autor hace referencia a un personaje muy conocido que aparece en algunos módulos de D&amp;D 2e, N.d.T), entró en la batalla.  Conocía a su objetivo, el malvado señor de la guerra Baddaguy.  Un guerrero gritando lo atacó, pero Nanoc lo partió por la mitad y los pedazos cayeron a sus costados.  Miró a su alrededor para ver a Baddaguy.  ¡Ahí!  ¡Arriba en esa colina!  Nanoc comenzó a subir la colina, solo para encontrar a tres de los sucios secuaces de Baddaguy bloqueando su camino. Un golpe de su espada derribó a uno, y una combinación de parada y contraataque envió al siguiente al infierno. El tercer secuaz, al ver morir a sus amigos en cuestión de segundos, salió corriendo como el cobarde que era._
 
 Compare eso con este primer párrafo modificado:
 
-_Nanoc, el guerrero bárbaro respetuoso con los derechos de autor, entró en la batalla.  Conocía a su objetivo, el malvado señor de la guerra Baddaguy.  Un guerrero que gritaba lo atacó, pero Nanoc lo partió por la mitad con la fuerza de sus poderosos músculos de bárbaro, los pedazos cayeron a sus costados.  Miró a su alrededor para ver a Baddaguy.  ¡Ahí!  ¡Arriba en esa colina!  Nanoc comenzó a subir la colina, solo para encontrar a tres de los sucios secuaces de Baddaguy bloqueando su camino.  Un golpe de espada de sus poderosos músculos de bárbaros derribó a uno, y una combinación de parar y contraatacar, apoyada por el poder de sus poderosos músculos de bárbaro envió al siguiente al infierno.  El tercer secuaz, al ver morir a sus amigos en cuestión de segundos y temblar de miedo por la fuerza de sus músculos de bárbaro, salió corriendo como el cobarde que era._
+_Nanoc, el guerrero bárbaro respetuoso de la propiedad intelectual, entró en la batalla.  Conocía a su objetivo, el malvado señor de la guerra Baddaguy.  Un guerrero que gritaba lo atacó, pero Nanoc lo partió por la mitad con la fuerza de sus poderosos músculos de bárbaro, y los pedazos cayeron a sus costados. Miró a su alrededor para ver a Baddaguy. ¡Ahí!  ¡Arriba en esa colina!  Nanoc comenzó a subir la colina, solo para encontrar a tres de los sucios secuaces de Baddaguy bloqueando su camino.  Un golpe de espada de sus poderosos músculos de bárbaros derribó a uno, y una combinación de parar y contraatacar, apoyada por el poder de sus poderosos músculos de bárbaro envió al siguiente al infierno.  El tercer secuaz, al ver morir a sus amigos en cuestión de segundos y temblar de miedo por la fuerza de sus músculos de bárbaro, salió corriendo como el cobarde que era._
 
 Tan mala como fue la primera sección, la segunda lo es tanto que siento que necesito bañarme en desinfectante por haberla escrito.
 
-Pero esa es la razón fundamental por la que los aspectos están "alimentados por" puntos Fate.  La lucha de Nanoc contra Baddaguy fue el único momento en el que realmente necesitaba cambiar la narrativa, y hablar constantemente sobre sus poderosos músculos de bárbaros es simplemente aburrido.
+Pero esa es la razón fundamental por la que los _aspectos_ están "alimentados por" puntos Fate.  La lucha de Nanoc contra Baddaguy fue el único momento en el que realmente necesitaba cambiar la narrativa, y hablar constantemente sobre sus poderosos músculos de bárbaros es simplemente aburrido.
 
-Fate Básico, por lo que puedo ver, intenta emular la ficción.  Eso no significa solo "una simulación física de mundos ficticios".  Eso significa el flujo y la estructura de la ficción.  Eso significa que cuando miramos cómo un juego de Fate 'debería' fluir, nuestro punto de referencia debería ser '¿Esto se desarrolla como un libro o una película?' En lugar de '¿Funciona esto como funcionaría en el mundo real'?
+Fate Básico, por lo que puedo ver, intenta emular la ficción.  Eso no significa solo "una simulación física de mundos ficticios".  Eso significa el flujo y la estructura de la ficción.  Eso significa que cuando miramos cómo un juego de Fate 'debería' fluir, nuestro punto de referencia debería ser: '¿esto se desarrolla como un libro o una película?' En lugar de: '¿funciona esto como funcionaría en el mundo real'?
 
-Una superficie resbaladiza y cubierta de hielo, en la ficción, no significa que cada descripción o toma de personas en ella los involucre deslizándose y deslizándose.  Eso es aburrido.  Lo que probablemente significa es que en algún momento clave, alguien se resbalará debido a la superficie creando un momento dramático.  Y eso es lo que Fate intenta emular —cómo los elementos dramáticos trabajan juntos, no los efectos reales de pelear en una superficie resbaladiza.  Sigue las reglas de la ficción sin importar el realismo, no intentes seguir la realidad —incluso la realidad "cinematográfica".
+En la ficción, una superficie resbaladiza y cubierta de hielo no significa que cada descripción o situación de personas en ella los involucre resbalándose y deslizándose.  Eso es aburrido.  Lo que probablemente significa es que en algún momento clave, alguien se resbalará debido a la superficie creando un momento dramático.  Y eso es lo que Fate intenta emular —cómo los elementos dramáticos trabajan juntos, no los efectos reales de pelear en una superficie resbaladiza—.  Sigue las reglas de la ficción sin importar el realismo, no intentes seguir la realidad —incluso la realidad "cinematográfica"—.
 
-# Cómo dirijo Fate Básico
+# ¿Cómo dirijo Fate Básico?
 
 Así es como dirijo Fate:
 
