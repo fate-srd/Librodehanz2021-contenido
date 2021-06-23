@@ -635,7 +635,7 @@ Sin embargo, los DJ pueden vetar algunas posibilidades, así que téngalo en cue
 
 ## Creando aspectos
 
->Tu aspecto
+"Tu aspecto"
 
 Muchas cosas pueden convertirse en buenos _aspectos_ —objetos específicos, relaciones con personas u organizaciones, rasgos de la personalidad, metas o incluso frases clave—.  ¡Alguien que «Tiene un mal presentimiento sobre esto» probablemente tendrá razón sobre esos sentimientos al menos algunas veces!
 
@@ -757,47 +757,47 @@ En la ficción, una superficie resbaladiza y cubierta de hielo no significa que 
 
 Así es como dirijo Fate:
 
-## Paso Uno: El planteamiento
+## Paso uno: el planteamiento
 
-Aquí es donde le digo a algunas personas "¡Oigan, juguemos algo de Fate!"  Incluiré una descripción general del tipo de juego que estoy pensando en ejecutar: "¡Juguemos un juego básico de fantasía!"  "¡Hagamos un juego basado en _Brutal Legend_!"  O algo por el estilo.
+Aquí es donde le digo a algunas personas: "¡Oigan, juguemos algo de Fate!"  Incluiré una descripción general del tipo de juego que estoy pensando en dirigir: "¡Juguemos un juego básico de fantasía!"  "¡Hagamos un juego basado en _Brutal Legend_!"  O algo por el estilo.
 
-## Paso Dos: Trabajo de preparación inicial
+## Paso dos: preparación inicial
 
-Por lo general, revisaré la lista de habilidades, el dial de Fate, subsistemas adicionales (magia, armadura, etc.) y propondré algunos valores predeterminados.  Esto sigue siendo bastante sencillo y está seriamente sujeto a cambios.  Se trata más de establecer una propuesta inicial en términos más de lo que será el juego que cualquier otra cosa.  Como parte de esto, puedo desarrollar algún conflicto de alto nivel que creo pueda ser interesante —pero, de nuevo, esto se mantiene muy vago y suelto, principalmente para no estar demasiado apegado a él si resulta que los jugadores quieren ir en una dirección totalmente diferente.  Dependiendo de cuán detallado sea el planteamiento, la planificación que haré en este punto será típicamente más en la línea de crear PNJs o facciones que pueden oponerse entre sí y crear fuerzas dinámicas en el mundo, no una serie de eventos. Por lo general, serán vagos, por lo que puedo insertar más adelante los detalles que surjan en la creación de personajes.
+Por lo general, revisaré la lista de habilidades, el dial de Fate, subsistemas adicionales (magia, armadura, etc.) y propondré algunos valores predeterminados.  Esto sigue siendo bastante sencillo y está seriamente sujeto a cambios.  Se trata más de establecer una propuesta inicial en términos más de lo que será el juego que cualquier otra cosa.  Como parte de esto, puedo desarrollar algún conflicto de alto nivel que creo pueda ser interesante —pero, de nuevo, esto se mantiene muy vago y abierto, principalmente para no estar demasiado aferrado a ello si resulta que los jugadores quieren ir en una dirección totalmente diferente—.  Dependiendo de cuán detallado sea el planteamiento, la planificación que haré en este punto será típicamente más en la línea de crear PNJs o facciones que puedan oponerse entre sí y crear fuerzas dinámicas en el mundo, no una serie de eventos. Por lo general, las descripciones de estos serán vagas, por lo que puedo incluir más adelante los detalles que surjan en la creación de personajes.
 
-Si me voy a liarla con las fases, por lo general lo hago en este momento y, luego, pasaré la pelota a los jugadores  para ver qué surge. Siempre y cuando tenga sentido temáticamente para la ambientación.  En general, agregaré uno o dos aspectos antes de terminar con las tres fases, pero si necesito perder el tiempo con más cosas que eso, entonces consideraré deshacerme de ellas tan pronto como pueda.
+Si me voy a liar con las fases, por lo general lo hago en este momento y, luego, pasaré la pelota a los jugadores  para ver qué surge. Siempre y cuando tenga sentido temáticamente para la ambientación.  En general, agregaré uno o dos aspectos antes de terminar con las tres fases, pero si necesito perder el tiempo con más cosas que eso, entonces consideraré deshacerme de ellas tan pronto como pueda.
 
-También intentaré pensar en algún tipo de situación / encuentro / etc. que ocurra al principio de la sesión cero, aunque de nuevo, voy con la idea clara de que todo está sujeto a modificaciones.
+También intentaré pensar en algún tipo de situación/encuentro/etc. que ocurra al principio de la sesión cero, aunque de nuevo, voy con la idea clara de que todo está sujeto a modificaciones.
 
-## Paso Tres: Sesión cero
+## Paso tres: sesión cero
 
-Ahora vamos a tirar algunos dados.  Vengo a esta sesión con mi trabajo de preparación inicial, una nueva carpeta para documentos del juego, algunas hojas de personajes en blanco, las hojas de resúmen de reglas de Fate y un par de dispositivos que pueden mostrar mis versiones electrónicas de las reglas de Fate.
+Ahora vamos a tirar algunos dados. Llego a esta sesión con mi trabajo de preparación inicial, una nueva carpeta para documentos del juego, algunas hojas de personajes en blanco, las hojas de resúmen de reglas de Fate y un par de dispositivos que pueden mostrar mis versiones electrónicas de las reglas de Fate.
 
-Primero se crea la ambientación. Soy un gran admirador de "Rostros y localizaciones" y de la creación de problemas vigentes y latentes. Una cosa que he encontrado con otros juegos narrativos como Fate es que funcionan mejor si hay algo que requiere atención inmediata, así que trato de asegurarme de que haya al menos un problema vigente.
+Primero se crea la ambientación. Soy un gran admirador de _Rostros y localizaciones_ y de la creación de _problemas vigentes_ y _problemas latentes_. Una cosa que he encontrado con otros juegos narrativos como Fate es que funcionan mejor si hay algo que requiere atención inmediata, así que trato de asegurarme de que haya al menos un problema vigente.
 
-Primero establezco la creación de la ambientación, ya que ayuda a que los jugadores se enganchen con la creación de sus propios personajes.  También trato de ser muy permisivo en esta etapa, no hay juego, por lo que no tiene sentido vetar nada, a menos que sea completamente contrario al planteamiento del juego —alguien que quiera ser un extraterrestre en un juego de fantasía, por ejemplo.  Por supuesto, a veces eso se puede convertir en algo que tenga sentido —ver _Warforged_ en Eberron, por ejemplo.  Incluso en los casos en los que existe una ambientación establecida, en donde toda la generación de la ambientación es coherente, solo hay algunos elementos predefinidos. Pero en ningún escenario publicado están todas las tabernas, todas las organizaciones y todas las ciudades planificadas al grado en que los jugadores no pueden agregar sus propias cosas, incluso sin contradecir el canon establecido.
+Primero establezco la creación de la ambientación, ya que ayuda a que los jugadores se enganchen con la creación de sus propios personajes.  También trato de ser muy permisivo en esta etapa, no hay juego, por lo que no tiene sentido vetar nada, a menos que sea completamente contrario al planteamiento de este —por ejemplo: alguien que quiera ser un extraterrestre en un juego de fantasía—.  Por supuesto, a veces eso se puede convertir en algo que tenga sentido —por ejemplo: ver _Warforged_ en Eberron—.  Incluso en los casos en los que existe una ambientación establecida, en donde toda la generación de la ambientación es coherente, solo hay algunos elementos predefinidos. Pero en ningún escenario publicado están todas las tabernas, todas las organizaciones y todas las ciudades planificadas al grado en que los jugadores no pueden agregar sus propias cosas, incluso sin contradecir el canon establecido.
 
-Como parte de esto, ampliaré los rostros y localizaciones creados y los usaré para construir la ambientación de manera colaborativa.  A menudo, un solo rostro o localización sugerirá algo más grande sobre la ambientación, por lo que profundizaré en eso.  Si se sugieren organizaciones o gobiernos, guiaré al grupo para que los desarrolle.
+Como parte de esto, ampliaré los _rostros y localizaciones_ creados y los usaré para construir la ambientación de manera colaborativa.  A menudo, un solo rostro o localización sugerirá algo más grande sobre la ambientación, por lo que profundizaré en eso.  Si se sugieren organizaciones o gobiernos, guiaré al grupo para que los desarrolle.
 
-Luego, la creación de personajes.  Por lo general, lo hago siguiendo las reglas básicas del libro.  Soy un gran admirador de las Tres Fases y creo que es algo que agrega mucho valor a los juegos de Fate, especialmente en términos de hacer que el juego se centre realmente en los personajes.  Si usted ya tiene una trama planeada que no se verá afectada por las historias de fondo de sus personajes, se vuelve menos importante.  Pero no es por eso que juego a Fate.
+Luego, la creación de personajes.  Por lo general, lo hago siguiendo las reglas básicas del libro.  Soy un gran admirador de las _Tres fases_ y creo que es algo que agrega mucho valor a los juegos de Fate, especialmente en términos de hacer que el juego se centre realmente en los personajes.  Si usted ya tiene una trama planeada que no se verá afectada por las historias de fondo de sus personajes, se vuelve menos importante. Pero, no es por eso que juego a Fate.
 
-Hago las Tres Fases de forma muy colaborativa.  Voy de un jugador a otro, a medida que se va terminando cada fase, y les pido que digan cuál es su historia en el momento.  Animo a otros jugadores a que hagan sugerencias o aporten su opinión, y si el jugador al que le toca el turno parece perdido, le pediré ideas generales sobre lo que quiere, incluso si es algo vago.  La idea aquí es mantener a todos involucrados, activos y pensando de manera creativa.  Un segundo objetivo de esto es tener a todos los jugadores involucrados con todos los personajes, para que tengan algún conocimiento de estos personajes y se interesen por ellos.
+Hago las _Tres fases_ de forma muy colaborativa.  Voy de un jugador a otro, a medida que se va terminando cada fase, y les pido que digan cuál es su historia en el momento.  Animo a otros jugadores a que hagan sugerencias o aporten su opinión, y si el jugador al que le toca el turno parece perdido, le pediré ideas generales sobre lo que quiere, incluso si es algo vago.  La idea aquí es mantener a todos involucrados, activos y pensando de manera creativa.  Un segundo objetivo de esto es tener a todos los jugadores involucrados con todos los personajes, para que tengan algún conocimiento de estos personajes y se interesen por ellos.
 
-A medida que pasamos por las fases, trato de buscar temas recurrentes, sacar PNJs / grupos de oposición y comenzar a fusionar esto con las ideas anteriores que tenía sobre los protagonistas en la ambientación.  Si algo planeado de antemano no encaja, lo dejo.  Si hay un tema claro en los personajes, lo sigo.  Si algunas de las historias de fondo implican establecer hechos que no funcionan con mis ideas preconcebidas, las incorporo y me deshago de las ideas preconcebidas.  Para mí, esto se trata realmente de que los jugadores me digan en qué tipo de juego y ambientación quieren jugar, y es mi trabajo proporcionar eso.
+A medida que pasamos por las fases, trato de buscar temas recurrentes, sacar PNJs/grupos de oposición y comenzar a fusionar esto con las ideas anteriores que tenía sobre los protagonistas en la ambientación.  Si algo planeado de antemano no encaja, lo dejo.  Si hay un tema claro en los personajes, lo sigo.  Si algunas de las historias de fondo implican establecer hechos que no funcionan con mis ideas preconcebidas, las incorporo y me deshago de las ideas preconcebidas.  Para mí, esto se trata realmente de que los jugadores me digan en qué tipo de juego y ambientación quieren jugar y es mi tarea proporcionar eso.
 
-Tengo dos trabajos principales durante todo esto: registrar lo que se dice y mantener las cosas en movimiento.  Ofreceré mis propias sugerencias y comentarios, pero realmente no asumo que mis comentarios tengan más peso que los de cualquier otra persona.  Si hay suficiente tiempo después de la creación de personajes, y hay suficiente para que de ello saque algo interesante, entonces llevaré a cabo algún tipo de encuentro inicial o incidente de incitación.  Por lo general, trato de llegar a esto, ya que muchas personas no están acostumbradas a una Sesión cero "sin juego".
+Tengo dos tareas principales durante todo esto: registrar lo que se dice y mantener las cosas fluidas.  Ofreceré mis propias sugerencias y comentarios, pero realmente no asumo que mis comentarios tengan más peso que los de cualquier otra persona.  Si hay suficiente tiempo después de la creación de personajes, y hay suficiente para que de ello saque algo interesante, entonces llevaré a cabo algún tipo de encuentro inicial o incidente incitador.  Por lo general, trato de llegar a esto, ya que muchas personas no están acostumbradas a una _sesión cero_ "sin juego".
 
-## Paso cuatro: Después de la sesión cero
+## Paso cuatro: después de la sesión cero
 
-Este es probablemente el momento de preparación más importante para mí, incluso más que mantener el juego en marcha.  Lo que tengo que hacer ahora es tomar mis pensamientos iniciales sobre lo que podría ser el juego y reconciliarlos con lo que se nos ocurrió en la mesa.  Entre mis pensamientos iniciales, los problemas vigentes y latentes, la creación de la ambientación y las historias de fondo de los jugadores (a través de las Tres Fases), tendré una serie de elementos con los que jugar.  Ahora, tomo estos elementos y trato de integrarlos en alguna ambientación consistente.
+Este es probablemente el momento de preparación más importante para mí, incluso más que mantener el juego en marcha.  Lo que tengo que hacer ahora es tomar mis pensamientos iniciales sobre lo que podría ser el juego y reconciliarlos con lo que se nos ocurrió en la mesa.  Entre mis pensamientos iniciales, los problemas vigentes y latentes, la creación de la ambientación y el trasfondo de los jugadores (creado a través de las _Tres fases_), tendré una serie de elementos con los que jugar.  Ahora, tomo estos elementos y trato de integrarlos en alguna ambientación consistente.
 
-Esto a menudo requerirá la creación de PNJs.  Me concentro más en la creación de PNjs que en la creación de tramas —los personajes impulsan historias, no eventos.  Los eventos ocurren debido a conflictos entre personajes.  Intentaré que varios PNJs / organizaciones / grupos actúen en oposición entre sí, para mantener las cosas interesantes.  Dependiendo del juego, también intento dejar un poco de ambigüedad  —los malos que tienen buenas intenciones o hacen un buen trabajo, o los buenos que tienen malos métodos, o incluso dos grupos que quieren versiones incompatibles del bien.  En general, encuentro que este tipo de cosas hacen que las historias sean más interesantes.  Escribiré todo esto en la carpeta de mi campaña y lo usaré para generar varios arcos iniciales posibles, donde un arco suele ser definido por algún PNJ o grupo que intenta lograr algún objetivo.  Analizaré cuál es su objetivo, cómo podrían participar otros grupos y seguiré con eso.  Parte de esto siempre será mirar los aspectos de los personajes para identificar las cosas que se relacionan con estos —¡después de todo la historia es acerca de ellos! Aunque eso generalmente no es un problema, ya que estos grupos / PNJs / objetivos generalmente surgen de la creación de la ambientación, los trasfondos de los personajes o de los problemas vigentes y latentes.  Siempre es bueno asegurarse de que las cosas estén vinculadas de alguna manera con los personajes.
+Esto a menudo requerirá la creación de PNJs.  Me concentro más en la creación de PNjs que en la creación de tramas —los personajes impulsan historias, no eventos.  Los eventos ocurren debido a conflictos entre personajes—.  Intentaré que varios PNJs/organizaciones/grupos actúen en oposición entre sí, para mantener las cosas interesantes.  Dependiendo del juego, también intento dejar un poco de ambigüedad  —los malos que tienen buenas intenciones o hacen un buen trabajo, o los buenos que tienen malos métodos, o incluso dos grupos que quieren versiones incompatibles del bien—.  En general, encuentro que este tipo de cosas hacen que las historias sean más interesantes.  Escribiré todo esto en la carpeta de mi campaña y lo usaré para generar varios arcos iniciales posibles, donde un arco suele ser definido por algún PNJ o grupo que intenta lograr algún objetivo.  Analizaré cuál es su objetivo, cómo podrían participar otros grupos y seguiré con eso.  Parte de esto siempre será mirar los aspectos de los personajes para identificar las cosas que se relacionan con estos —¡después de todo la historia es acerca de ellos! Aunque eso generalmente no es un problema, ya que estos grupos/PNJs/objetivos generalmente surgen de la creación de la ambientación, los trasfondos de los personajes o de los problemas vigentes y latentes—.  Siempre es bueno asegurarse de que las cosas estén vinculadas de alguna manera con los personajes.
 
-## Paso Cinco: Generación del arco
+## Paso cinco: generación del arco
 
 Aquí es donde empiezo a planificar el arco.  Establecí esto como un paso separado, porque hay un gran bucle aquí con juegos más largos que regresan aquí cuando un arco se resuelve o comienza a resolverse.
 
-La generación del arco generalmente consiste en tomar una de las ideas preliminares de arco del Paso Cuatro y desarrollarla.  Una vez más, me concentro en los PNJs, no en los eventos.  ¿Quién está tratando de lograr qué?  ¿Quién podría estar en el camino?  ¿Quién podría ayudarlos?  Y, quizás lo más importante, ¿cómo se ven arrastrados los PC a esto?  Los mejores arcos, nuevamente, son sobre los PJ de una manera u otra, y no funcionarían si tuvieras un conjunto diferente de personajes.  De todos modos, esa es una heurística bastante buena sobre los arcos de la historia.
+La generación del arco generalmente consiste en tomar una de las ideas preliminares de arco del **paso cuatro** y desarrollarla.  Una vez más, me concentro en los PNJs, no en los eventos.  ¿Quién está tratando de lograr qué?  ¿quién podría estar en el camino?  ¿quién podría ayudarlos?  Y, quizás lo más importante, ¿cómo se ven arrastrados los PJs a esto?  Los mejores arcos, nuevamente, son sobre los PJs de una manera u otra, y no funcionarían si tuvieras un conjunto diferente de personajes.  De todos modos, esa es una heurística bastante buena sobre los arcos de la historia.
 
 Me hago las siguientes preguntas cuando estoy bosquejando las cosas:
 
@@ -813,151 +813,149 @@ Me hago las siguientes preguntas cuando estoy bosquejando las cosas:
 
 1. ¿Qué harán si no tienen oposición?
 
-Los jugadores y DJ más tradicionales pueden encontrar esto artificial.  Yo lo veo como un enfoque centrado en la ficción —en la ficción, los eventos tratan directamente sobre los personajes y, a menudo, específicamente para resaltar el conflicto interno de los personajes.  Esto involucra a los personajes y jugadores de manera más directa, y enfoca la historia en ellos.  Esto es lo que hace diferente a Star Wars de ser una historia genérica sobre disparar láseres a ser una historia más significativa sobre la oscuridad dentro de nosotros y la tentación de esa oscuridad.  Esto es lo que nos da enemigos recurrentes que a los jugadores les encanta odiar.  Por cierto, una de las principales razones por las que utilizo la oposición creada por jugadores cuando es posible es el simple hecho de mantenerlos atraparlos.  Los jugadores se preocupan por las cosas en función de cuánto se han involucrado.  Los DJ a menudo olvidan esto —el villano principal que creamos es genial para nosotros, porque hemos invertido mucho en él.  A los jugadores no les podría importar menos, hasta que ese chico malo toca algo que involucra sus intereses. Al tomar la oposición creada por los jugadores, comenzamos con cierto nivel de interés, incluso si los jugadores únicamente inventan un nombre.  Y todos nos involucraremos naturalmente a través del proceso de preparación.  Así que esto termina haciendo un juego más interesante para todos.
+Los jugadores y DJ más tradicionales pueden encontrar esto artificial.  Yo lo veo como un enfoque centrado en la ficción —en la ficción los eventos tratan directamente sobre los personajes y, a menudo, específicamente para resaltar el conflicto interno de los personajes—.  Esto involucra a los personajes y jugadores de manera más directa, y enfoca la historia en ellos.  Esto es lo que hace diferente a Star Wars de ser una historia genérica sobre disparar láseres a ser una historia más significativa sobre la oscuridad dentro de nosotros y la tentación de esa oscuridad.  Esto es lo que nos da enemigos recurrentes que a los jugadores les encanta odiar.  Por cierto, una de las principales razones por las que utilizo la oposición creada por jugadores cuando es posible es el simple hecho de mantenerlos atrapados.  Los jugadores se preocupan por las cosas en función de cuánto se han involucrado.  Los DJs a menudo olvidan esto —el villano principal que creamos es genial para nosotros, porque hemos invertido mucho en él.  A los jugadores no les podría importar menos, hasta que ese chico malo toca algo que involucra sus intereses—. Al tomar la oposición creada por los jugadores, comenzamos con cierto nivel de interés, incluso si los jugadores únicamente inventan un nombre.  Y todos nos involucraremos naturalmente a través del proceso de preparación.  Así que esto termina haciendo un juego más interesante para todos.
 
-## Paso Seis: Preparación previa al juego
+## Paso seis: preparación previa al juego
 
 Ahora tenemos el juego y la preparación del arco, y es hora de hacer la preparación de la sesión.  Afortunadamente, esto suele ser bastante fácil.
 
-1. Entonces, ¿qué ha cambiado en el mundo desde la última vez que jugamos o como resultado de la última sesión?  Esta es mi forma de entender a todos los demás PNJs del juego y lo que están haciendo.  ¿Cómo van a reaccionar ante los acontecimientos de la última partida?  ¿Cómo han cambiado sus planes?
+1. Entonces, ¿qué ha cambiado en el mundo desde la última vez que jugamos o como resultado de la última sesión?  Esta es mi forma de entender a todos los demás PNJs del juego y lo que están haciendo.  ¿Cómo van a reaccionar ante los acontecimientos de la última partida?  ¿cómo han cambiado sus planes?
 
-1. De todos modos, ¿qué están haciendo los PNJs conocidos?  Resuelva esto y, por lo general, el siguiente conjunto de eventos se sugerirán.
+1. ¿Qué están haciendo los PNJs conocidos?  Resuelva esto y, por lo general, el siguiente conjunto de eventos se sugerirán.
 
 1. Revisa las hojas de personaje para ver si hay algunos forzados  y complicaciones que sean buenos para agregar.  ¡Intenta siempre relacionar las cosas con los personajes!
 
 1. ¿Tengo una idea de hacia dónde van los personajes en esta sesión?  Con suerte, sí, Fate es un juego sobre personajes proactivos, por lo que, en general, deberían haber estado en movimiento al final de la última sesión.  Si no es así, no te preocupes, podemos ponerlos en movimiento.
 
-1. Prepara algunas "granadas de mano".  Las granadas de mano son eventos que ocurren y exigen una respuesta del PJ, aunque no sea una respuesta en particular.  Deben ser cosas que hagan la historia más interesante.  Pueden o no ser convincentes, pero si se relacionan con un personaje o aspecto, ¡es mejor!  Los PNJs que llegan a los PJ en busca de ayuda, revelaciones, acciones de PNJ, todos estos son ejemplos de granadas de mano.
+1. Prepara algunas "_granadas de mano_".  Las _granadas de mano_ son eventos que ocurren y exigen una respuesta del PJ, aunque no sea una respuesta en particular.  Deben ser cosas que hagan la historia más interesante.  Pueden o no ser convincentes, pero si se relacionan con un personaje o aspecto, ¡es mejor!  Los PNJs que llegan a los PJ en busca de ayuda, revelaciones, acciones de PNJ, todos estos son ejemplos de _granadas de mano_.
 
-Un ejemplo de una granada de mano de uno de los últimos juegos que ejecuté: los PJ estaban investigando a unos bandidos particularmente desagradables, que resultaron estar infestados de demonios (invocadores del vacío).  Uno de los PJ tenía el aspecto «No confía en una cara bonita», otro tenía el aspecto «Obligado a ayudar a los necesitados», y los PC se quedaron con el aspecto de situación «Ellos saben quiénes somos» como resultado  de una concesión en el juego anterior (el incidente incitador, en realidad).  La granada de mano era la joven bandida infestada de demonios que venía a los PJ y les pedía ayuda.
+Un ejemplo de una _granada de mano_ de uno de los últimos juegos que dirigí: los PJs estaban investigando a unos bandidos particularmente desagradables, que resultaron estar infestados de demonios (brujos despreciables).  Uno de los PJ tenía el aspecto «No confía en una cara bonita», otro tenía el aspecto «Obligado a ayudar a los necesitados», y los PJs se quedaron con el aspecto de situación «Ellos saben quiénes somos» como resultado  de una concesión en el juego anterior (el incidente incitador, en realidad).  La _granada de mano_ era la joven bandida infestada de demonios que venía a los PJ y les pedía ayuda.
 
-¿Exige acción?  Sí.  ¿Se dirige deliberadamente a aspectos de los PJs y crea un conflicto interesante? claro que sí.
+¿Exige acción?  Sí.  ¿Se dirige deliberadamente a aspectos de los PJs y crea un conflicto interesante? ¡claro que sí!
 
-1. Esboza posibles escenarios si se están sugiriendo evidentemente.  En realidad, esto es lo que menos hago, ya que dedico mucho al  curso de acción definido por parte de los PJ, y trato de no hacer eso.  Como DJ, es demasiado fácil tener en mente un curso de acción en particular y "guiar" sutilmente a los PJ de esa manera.  Así que deliberadamente voy en sentido contrario y evito siquiera pensar en lo que harán los PJs.  En cambio, creo situaciones interesantes y, como "fanático de los PJs", me emociona saber cómo manejarán esas situaciones.
+6. Esboza posibles escenarios si se están sugiriendo evidentemente.  En realidad, esto es lo que menos hago, ya que dedico mucho al  curso de acción definido por parte de los PJs, y trato de no hacer eso.  Como DJ, es demasiado fácil tener en mente un curso de acción en particular y "guiar" sutilmente a los PJs de esa manera.  Así que deliberadamente voy en sentido contrario y evito siquiera pensar en lo que harán los PJs.  En cambio, creo situaciones interesantes y, como "fanático de los PJs", me emociona saber cómo manejarán esas situaciones.
 
-## Paso Siete: Dirigir la sesión e iniciarla
+## Paso siete: dirigir la sesión e iniciarla
 
-¡Viene lo bueno!  Siento a los jugadores, extiendo bocadillos y bebidas, reparto los folletos necesarios allí, reviso las actualizaciones de la hoja de personaje si es necesario y le pido a un jugador que resuma la última sesión, incluyendo cualquier corrección, etc. que tenga apuntada en mis notas.
+¡Viene lo bueno! Siento a los jugadores, extiendo bocadillos y bebidas, reparto los documentos necesarios allí, reviso las actualizaciones de la hoja de personaje si es necesario y le pido a un jugador que resuma la última sesión, incluyendo cualquier corrección, etcétera. que tenga apuntada en mis notas.
 
-Durante el juego tengo una computadora portátil / tableta / etc.  en la que puedo escribir.  Dado que normalmente utilizo versiones en PDF de los libros del juego, trato de tener a la mano al menos dos dispositivos disponibles, uno será solo para tomar notas.
+Durante el juego tengo una computadora portátil/tableta/etcétera en la que puedo escribir. Dado que normalmente utilizo versiones en PDF de los libros del juego, trato de tener a la mano al menos dos dispositivos disponibles, uno será solo para tomar notas.
 
-Si esta es la primera sesión, desvelaré el incidente incitador y comenzaré con los personajes _in situ_.  De lo contrario, es hora de esa pregunta tradicional:
+Si esta es la primera sesión, plantearé el incidente incitador y comenzaré con los personajes _in situ_.  De lo contrario, es hora de esa pregunta tradicional:
 
-## Paso Ocho: “¿Qué haces?”, mejor conocido como: establecer la escena
+## Paso ocho: “¿qué haces?”, mejor conocido como: establecer la escena
 
-Con suerte, los personajes tienen un objetivo claro en mente, algo que simplemente no está bien y exige acción.  Si no es así, saco una granada de mano y se las tiro.  Si lo hace bien, esto los pondrá en movimiento, ¡incluso en una dirección desconocida para mí!  Por ejemplo, con la chica infestada de demonios pidiendo ayuda, no tenía idea de que sucedería con eso, si los PJ se ofrecerían a ayudar, si la atacarían y matarían, si intentarían rastrearla de regreso, o  qué.  Lo importante es ponerlos en movimiento.
+Con suerte, los personajes tienen un objetivo claro en mente, algo que simplemente no está bien y exige acción.  Si no es así, saco una _granada de mano_ y se las tiro.  Si lo hace bien, esto los pondrá en movimiento, ¡incluso en una dirección desconocida para mí!  Por ejemplo, con la chica infestada de demonios pidiendo ayuda, no tenía idea de que sucedería con eso, si los PJ se ofrecerían a ayudar, si la atacarían y matarían, si intentarían rastrearla de regreso, o  qué.  Lo importante es ponerlos en movimiento.
 
 Ahora, los PJs deberían proponer algún curso de acción.  Aquí es donde entra en juego un pequeño empujón sutil del DJ.  Lo que estamos tratando de hacer en este momento es conducir rápidamente a una escena interesante.  Encuentro que hay algunas cosas que puedo hacer para ayudar con ello:
 
-1. Si el planteamiento es abstracto, conviértalo en una acción real.  "Investigar" no es una escena.  "Ve a la biblioteca de la academia arcana y busca xyz" es una escena posible.
-1. Comprenda cuál es el objetivo de los PJs.  “Está bien, entonces, ¿qué estás tratando de lograr?  Si esto va a su manera, ¿qué cambia? "  ¡Es sorprendente la frecuencia con la que los jugadores inicialmente no tienen una idea!  Empujarlos hacia esto me permite como DJ:
+1. Si el planteamiento es abstracto, conviértalo en una acción real.  "Investigar" no es una escena.  "Ve a la biblioteca de la academia arcana y busca XYZ" es una escena posible.
+1. Comprenda cuál es el objetivo de los PJs: “Está bien, entonces, ¿qué estás tratando de lograr? Si esto va a su manera, ¿qué cambia?" ¡Es sorprendente la frecuencia con la que los jugadores inicialmente no tienen una idea!  Empujarlos hacia esto me permite como DJ:
 
-<ul>
-<li>No proponer un railroad</li>
-<li>Proporcionar la oposición adecuada</li>
-<li>¡Mantener las cosas en movimiento!</li>
-<li>Averigüe quién podría oponerse a esto y cómo podría salir mal.  Si bien en algunos casos las consecuencias "detrás de escena" pueden ser interesantes, con más frecuencia es preferible mantener las cosas "en pantalla".</li>
-</ul>
+- No proponer un _railroad_.
+- Proporcionar la oposición adecuada.
+- ¡Mantener las cosas en movimiento!
+- Averiguar quién podría oponerse a esto y cómo podría salir mal.  Si bien en algunos casos las consecuencias "detrás de escena" pueden ser interesantes, con más frecuencia es preferible mantener las cosas "en pantalla".
 
 Si no hay consecuencias interesantes ni oposición interesante, por lo general les dejo hacer lo que están tratando de hacer, o hago brevemente un par de tiradas y trato de seguir adelante.  No tiene sentido gastar tiempo en minucias.
 
-Bien, ¡ahora tenemos una escena!  En este punto, prepararé la escena y descubriré la estructura de tiradas y habilidades adecuada para esta — Desafío, Conflicto, Competiciones o solo tiradas sencillas.  Últimamente, he intentado hacer menos la secuencia naturalista de "tirada tras tirada" en favor de enfoques más estructurados, pero eso es una cuestión de estilo.
+Bien, ¡ahora tenemos una escena!  En este punto, prepararé la escena y descubriré la estructura de tiradas y habilidades adecuada para esta —_Desafío_, _Conflicto_, _Competiciones_ o solo tiradas sencillas—.  Últimamente, he intentado hacer menos la secuencia naturalista de "tirada tras tirada" en favor de enfoques más estructurados, pero eso es una cuestión de estilo.
 
-Tenga en cuenta que generalmente permitiré casi cualquier acción proactiva de los jugadores, incluso si no es lo que tenía en mente.  Si los jugadores quieren probar algo que va completamente en contra de los preceptos del juego y la ambientación, les advertiré, pero aparte de eso, cualquier cosa puede hacerse.  ¿Tres tipos enfrentándose a toda la Guardia del Rey a plena luz del día?  Puede que sea demasiado, pero pueden intentarlo.  Sin embargo, ¿quieren intentar envenenar a la guarnición?  ¡Por supuesto!  ¿quieren intentar conseguir seguidores?  ¡Por supuesto!  ¿Encontrar una manera de colarse sin ser detectado a través de un pasaje oculto?  ¿Por qué no?  ¿Disfrazarse y entrar por la puerta principal?  ¡Suena bien para mí!  Los jugadores que preparan la escena tienen más que ver con qué tipo de desafío e historia tendremos que cualquier otra cosa, por lo que normalmente estoy dispuesto a permitir que cualquier cosa tenga una oportunidad de éxito a menos que simplemente no tenga sentido real dentro de la ficción.
+Tenga en cuenta que generalmente permitiré casi cualquier acción proactiva de los jugadores, incluso si no es lo que tenía en mente.  Si los jugadores quieren probar algo que va completamente en contra de los preceptos del juego y la ambientación, les advertiré, pero aparte de eso, cualquier cosa puede hacerse.  ¿Tres tipos enfrentándose a toda la Guardia del Rey a plena luz del día?  Puede que sea demasiado, pero pueden intentarlo.  Sin embargo, ¿quieren intentar envenenar a la guarnición?  ¡Por supuesto!  ¿quieren intentar conseguir apoyo?  ¡Por supuesto!  ¿Encontrar una manera de colarse sin ser detectado a través de un pasaje oculto?  ¿Por qué no?  ¿Disfrazarse y entrar por la puerta principal?  ¡Suena bien para mí!  Los jugadores que preparan la escena tienen más que ver con qué tipo de desafío e historia tendremos que cualquier otra cosa, por lo que normalmente estoy dispuesto a permitir que cualquier cosa tenga una oportunidad de éxito a menos que simplemente no tenga sentido real dentro de la ficción.
 
-Otra cosa buena que se puede hacer cuando los jugadores quieren hacer algo que provoca un cortocircuito en muchas cosas es agregar complicaciones.  "¿Quieres convocar a un fantasma para averiguar quién mató al barón Cualessunombre?  Claro que puedes hacer eso.  Solo necesitarás encontrar un hechizo de invocación de fantasmas o un especialista.  Y averigüar qué materiales se necesitan.  Y luego tendrás que entrar al Reino de los Muertos para encontrarlo".  Una vez más, el curso de la acción del jugador está ayudando a determinar qué tipo de historia tendrán, no es un cortocircuito de la historia por completo.  En muchos casos, el curso de acción del jugador tomará más de una escena, y eso está bien —solo maneje las escenas una a la vez.
+Otra cosa buena que se puede hacer cuando los jugadores quieren hacer algo que provoca un cortocircuito en muchas cosas es agregar complicaciones.  "¿Quieres convocar a un fantasma para averiguar quién mató al barón _Cualessunombre_?  Claro que puedes hacer eso.  Solo necesitarás encontrar un hechizo de invocación de fantasmas o un especialista.  Y averigüar qué materiales se necesitan.  Y luego tendrás que entrar al Reino de los Muertos para encontrarlo".  Una vez más, el curso de la acción del jugador está ayudando a determinar qué tipo de historia tendrán, no es un cortocircuito de la historia por completo.  En muchos casos, el curso de acción del jugador tomará más de una escena, y eso está bien —solo maneje las escenas una a la vez—.
 
-## Paso Nueve: Resolver la escena
+## Paso nueve: resolver la escena
 
 La resolución está bastante en línea con las reglas de Fate Básico, por lo que realmente no tengo mucho que agregar aquí.  Lo único que diré es que sigas mirando los aspectos de tus personajes y busques formas de forzarlos.
 
 Además, cada tirada debería tener una consecuencia potencialmente interesante.  No es necesariamente lo peor que podría pasar.  Ni siquiera lo más peligroso.  Pero, ¿qué es lo más interesante que podría suceder como resultado de esto si sale mal?
 
-Así que juega a través de la escena y determina lo que ocurre.
+Así que juegue a través de la escena y determina lo que ocurre.
 
-## Paso Diez: Finalizar la escena
+## Paso diez: finalizar la escena
 
 Tus jugadores han hecho algunas locuras.  Obtendrán lo que quieren, o conseguirán algo más, o encontrarán un revés, o alguna combinación de lo anterior.
 
-Recapitula con los jugadores lo que ha cambiado, averigua cómo va a reaccionar la oposición a esto en el corto plazo y dales a los jugadores la oportunidad de reflexionar sobre lo que sucedió.  Luego, regrese al Paso Ocho y repita esto hasta el final de la sesión.
+Recapitula con los jugadores lo que ha cambiado, averigua cómo va a reaccionar la oposición a esto en el corto plazo y dales a los jugadores la oportunidad de reflexionar sobre lo que sucedió.  Luego, regrese al **paso ocho** y repita esto hasta el final de la sesión.
 
-Si una escena es resuelta bien (en otras palabras, has hecho un buen trabajo —no es que los jugadores hayan obtenido lo que querían), no deberias haber lanzado muchas granadas de mano. Una escena bien resuelta proporcionará a los jugadores algo que necesitan para avanzar (por eso les pregunto el objetivo de la escena), o proporcionará un revés obvio que debe tenerse en cuenta.  Si investiga en la biblioteca arcana, un éxito podría significar que encuentran la información que necesitan, lo que les indica la dirección de lo que sea que necesiten para encontrar / matar / adquirir / etc.  Un fracaso podría significar que los agentes enemigos los han encontrado y ahora los están persiguiendo.  De cualquier manera, los jugadores deberían tener algo de ímpetu para mantenerlos en movimiento.
+Si una escena es resuelta bien (en otras palabras, has hecho un buen trabajo —no es que los jugadores hayan obtenido lo que querían—), no deberías haber lanzado muchas _granadas de mano_. Una escena bien resuelta proporcionará a los jugadores algo que necesitan para avanzar (por eso les pregunto el objetivo de la escena), o proporcionará un revés obvio que debe tenerse en cuenta.  Si investiga en la biblioteca arcana, un éxito podría significar que encuentran la información que necesitan, lo que les indica la dirección de lo que sea que necesiten para encontrar/matar/adquirir/etcétera.  Un fracaso podría significar que los agentes enemigos los han encontrado y ahora los están persiguiendo.  De cualquier manera, los jugadores deberían tener algo de ímpetu para mantenerlos en movimiento.
 
-Si por alguna razón, este no es el caso, arroje otra granada de mano.
+Si por alguna razón, este no es el caso, arroje otra _granada de mano_.
 
-Repita los pasos ocho al diez hasta que esté cerca del final de la sesión.
+Repita los **pasos ocho al diez** hasta que esté cerca del final de la sesión.
 
-## Paso Once: Terminar la sesión
+## Paso once: terminar la sesión
 
-¡Quieres dejar a tus jugadores con ganas de más, no ansiosos por irse!  Si quieren más, aparecerán la próxima vez y mantendrás un juego saludable.  Si el juego se prolonga y se prolonga, empezarás a notar que los jugadores no aparecen.  El objetivo no es mantener el juego en marcha el mayor tiempo posible, es mantenerlo cada minuto tan increíble como se pueda.
+¡Quieres dejar a tus jugadores con ganas de más, no ansiosos por irse!  Si quieren más, aparecerán la próxima vez y mantendrás un juego saludable.  Si el juego se prolonga y se prolonga, empezarás a notar que los jugadores no aparecen. El objetivo no es mantener el juego en marcha el mayor tiempo posible, es mantenerlo cada minuto tan impresionante como se pueda.
 
 Una vez que haya finalizado el "tiempo de juego" real, deberá ocuparse de todas las cuestiones de recapitulación.  Dígales a los jugadores qué tipo de hito han alcanzado y lo que eso significa.  Pregúnteles si tienen alguna idea inicial sobre cambios en los personajes (¡especialmente aspectos!) que quieran hacer.  Recoge todas tus cosas y haz la limpieza.
 
-Y quizás lo más importante —pida comentarios.  Siempre debes preguntar después de un juego qué salió bien, qué no salió tan bien, qué le gustaría ver más o menos a la gente, etc. El objetivo del juego es que todos se diviertan y si no es así, entonces algo debe cambiar.  También, asegúrate de que los jugadores sientan que pueden enviarte un correo electrónico o contactarte en privado, ya que algunos no querrán hablar.
+Y quizás lo más importante: pida comentarios.  Siempre debes preguntar después de un juego qué salió bien, qué no salió tan bien, qué le gustaría ver más o menos a la gente, etcétera. El objetivo del juego es que todos se diviertan y si no es así, entonces algo debe cambiar.  También, asegúrate de que los jugadores sientan que pueden enviarte un correo electrónico o contactarte en privado, ya que algunos no querrán hablar.
 
-Lo más importante de los comentarios es escucharlos.  No se ponga a la defensiva, no lo tome como algo personal.  No se trata de lo que es "bueno" o "malo", se trata de lo que los jugadores encuentran divertido.  Y eso no será igual para todos los jugadores.  Este es un proceso de aprendizaje para que pueda mejorar sus habilidades de DJ.  E incluso los comentarios negativos no significan que lo que hiciste estuvo "mal".
+Lo más importante de los comentarios es escucharlos.  No se ponga a la defensiva, no lo tome como algo personal.  No se trata de lo que es "bueno" o "malo", se trata de lo que los jugadores encuentran divertido.  Y eso no será igual para todos los jugadores.  Este es un proceso de aprendizaje para que pueda mejorar sus habilidades de DJ. Incluso los comentarios negativos no significan que lo que hiciste estuvo "mal".
 
-En los casos en que tuvo que tomar una decisión que fue polémica, explique por qué terminó haciendo lo que hizo, los factores involucrados y qué más consideró.  Además, pregunte a los jugadores cómo lo habrían manejado.  Sea abierto y honesto: Fate es un juego que fomenta este tipo de comportamiento.  A menudo, simplemente explicar la situación y preguntar a los jugadores cómo lo habrían manejado es suficiente para que también entiendan tus razones.
+En los casos en que tuvo que tomar una decisión que fue polémica, explique por qué terminó haciendo lo que hizo, los factores involucrados y qué más consideró.  Además, pregunte a los jugadores cómo lo habrían manejado ellos.  Sea abierto y honesto: Fate es un juego que fomenta este tipo de comportamiento.  A menudo, simplemente explicar la situación y preguntar a los jugadores cómo lo habrían manejado es suficiente para que también entiendan tus razones.
 
 Contabilice los punto Fate y revise cómo les va a los jugadores.
 
-Si están acumulando puntos Fate, piense por qué.  Una sesión en la que los jugadores terminan con más puntos Fate positivos debería, en general, ser una en la que las cosas salieron mal en general para los jugadores (o simplemente tuvieron suerte).  Pero si están acumulando puntos Fate de manera constante y no sufren contratiempos, realice más forzados y aumente la dificultad de su oposición.
+Si están acumulando puntos Fate, piense por qué.  Una sesión en la que los jugadores terminan con más puntos Fate positivos debería ser una en la que las cosas salieron mal en general para los jugadores (o simplemente tuvieron suerte).  Pero si están acumulando puntos Fate de manera constante y no sufren contratiempos, realice más forzados y aumente la dificultad de su oposición.
 
 ¿Están todos agotados sus puntos Fate?  Si es así, deberían haber hecho un progreso decente.  Si no, es posible que haya sido demasiado duro con ellos.  En el futuro, puede reducir la oposición o proporcionar algunas competiciones "débiles" para aumentar sus reservas de puntos Fate.
 
-## Paso Doce: Próxima sesión
+## Paso doce: próxima sesión
 
-Una vez hecho esto, comience a pensar en la próxima sesión.  Piense en los eventos que han sucedido hasta ahora y lo que eso significa para el futuro.  Si eres honesto contigo mismo, es posible que debas revisar algunos de tus planes para el futuro del juego —de todos modos nada preparado es "real" hasta que los jugadores lo ven.
+Una vez hecho esto, comience a pensar en la próxima sesión. Piense en los eventos que han sucedido hasta ahora y lo que eso significa para el futuro. Si es honesto consigo mismo, es posible que deba revisar algunos de sus planes para el futuro del juego —de todos modos nada preparado es "real" hasta que los jugadores lo ven—.
 
-¿Ha terminado el arco?  Si es así, planifique el siguiente arco como en el Paso Cinco.  De lo contrario, simplemente planifique la próxima sesión como en el Paso Seis.
+¿Ha terminado el arco?  Si es así, planifique el siguiente arco como en el **paso cinco**.  De lo contrario, simplemente planifique la próxima sesión como en el **paso seis**.
 
-Si la campaña ha llegado a una conclusión natural y no hay ningún deseo (o una manera fácil) de continuarla, ¡excelente!  ¡Plantea un nuevo juego!
+Si la campaña ha llegado a una conclusión natural y no hay ningún deseo (o una manera fácil) de continuarla, ¡excelente!  ¡plantea un nuevo juego!
 
-También hay un par de cosas que intento hacer durante el juego.  Estas son guías generales, por lo que en realidad no pertenecen a ninguna sección.
+También hay un par de cosas que intento hacer durante el juego. Estas son guías generales, por lo que en realidad no pertenecen a ninguna sección:
 
-1. No prediga a dónde irá el juego.  Este es tan importante que lo pondré en la regla cero.  Cuanto más prediga lo que sucederá, más intentará que suceda.  Entrar en un juego sin tener ni idea de a dónde irá da bastante miedo al principio, pero también es increíblemente divertido una vez que te acostumbras.  También garantiza que escuches a tus jugadores y les dejes conducir el juego.  Si hay un arco general del juego que esperas, como fomentar una rebelión en lugar de tener una acción de guerrilla o un juego político complejo, asegúrate de hablar con tus jugadores sobre eso —este es el tipo de cosas en las que todo el mundo debería estar en sintonía cuando se trata de "este es el juego que estamos jugando".  También es algo que se puede discutir fácilmente sin causar "espóiler".
+1. No prediga a dónde irá el juego.  Este es tan importante que lo pondré en la regla cero.  Cuanto más prediga lo que sucederá, más intentará que suceda.  Entrar en un juego sin tener ni idea de a dónde irá da bastante miedo al principio, pero también es impresionantemente divertido una vez que te acostumbras.  También garantiza que escuches a tus jugadores y les dejes conducir el juego.  Si hay un arco general del juego que esperas, como fomentar una rebelión en lugar de tener una acción de guerrilla o un juego político complejo, asegúrate de hablar con tus jugadores sobre eso —este es el tipo de cosas en las que todo el mundo debería estar en sintonía cuando se trata de "este es el juego que estamos jugando"—.  También es algo que se puede discutir fácilmente sin causar "espóiler".
 
 1. Mantenga a la gente involucrada, pero respete el estilo de juego de todos.  Este es un acto de equilibrio.  Como DJ, eres un mediador.  Es su trabajo mantener a todos involucrados en el juego, pero algunas personas son naturalmente más introvertidas y no serán tan proactivas o contundentes en sus opiniones.  Trate de convencerlos de que interactúen, pero no insista en el tema.  Su trabajo principal con esto es evitar que las personas más extrovertidas y enérgicas los cohíban o dominen el juego.
 
-1. Mantenga las cosas dramáticas.  Fate es un juego dramático.
+1. Mantenga las cosas dramáticas. Fate es un juego dramático.
 
-1. ¡Mantén las cosas centradas en los jugadores!  Tu trabajo es mantener a los jugadores interesados en lo que está sucediendo, no mantenerte interesado en todas las cosas ocultas detrás de escena que conoces.
+1. ¡Mantén las cosas centradas en los jugadores!  Tu tarea es mantener a los jugadores interesados en lo que está sucediendo, no mantenerte interesado en todas las cosas ocultas detrás de escena que conoces.
 
 1. Muestre, no lo diga.  Como dije anteriormente, algunas cosas "detrás de escena" pueden ser interesantes, pero en general, desea mantener las cosas visibles y "en la pantalla".
 
-1. Por lo general, me gusta que las dificultades se basen en la importancia dramática más que en nada.  Si algo es crítico, ¡haz que los jugadores decidan cuánto lo desean!  Fate se trata más de decidir qué es importante, a través del gasto de puntos Fate, que de microadministrar bonificaciones o simular la realidad.  ¡Así que ponga esas decisiones difíciles al frente y al centro!
+1. Por lo general, me gusta que las dificultades se basen en la importancia dramática más que nada.  Si algo es crítico, ¡haz que los jugadores decidan cuánto lo desean!  Fate se trata más de decidir qué es importante, a través del gasto de puntos Fate, que de microadministrar bonificaciones o simular la realidad.  ¡Así que ponga esas decisiones difíciles al frente y al centro!
 
-1. Mantenga interesantes las fallas.  El éxito con un costo es excelente y los fallos interesantes también lo son.  Lo que no es genial es decir "eso no se puede".  ¡Mantenga las cosas en movimiento, incluso si no es la dirección en la que los personajes necesariamente querían ir!
+1. Mantenga interesantes las fallas.  El éxito con un costo es excelente y los fallos interesantes también lo son.  Lo que no es genial es decir: "eso no se puede". ¡Mantenga las cosas en movimiento, incluso si no es la dirección en la que los personajes necesariamente querían ir!
 
 1. Solicite la participación del jugador.  Esta es una excelente manera de descargar algo de trabajo.  ¿Detalles sobre unas vacaciones?  ¡Pregúntale a los jugadores!  ¿Quién es el posadero?  ¡Pregúntale a los jugadores!  Además, fomente la colaboración.  Si un jugador se siente en el lugar por una pregunta como esa, pregúntele cualquier tipo de pensamiento que tenga al respecto y luego haga que otros se unan y colaboren.
 
-1. Sea honesto.  Fate es un gran juego para la honestidad.  No hay nada de malo en decirles a los jugadores las consecuencias de una tirada fallida antes de tirar si estás planeando algo que no es muy obvio.  Hable sobre por qué está estructurando las cosas de cierta manera y anime a los jugadores a participar en eso.
+1. Sea honesto. Fate es un gran juego para la honestidad. No hay nada de malo en decirles a los jugadores las consecuencias de una tirada fallida antes de tirar si estás planeando algo que no es muy obvio. Hable sobre por qué está estructurando las cosas de cierta manera y anime a los jugadores a participar en eso.
 
-1. Mantenga las consecuencias apropiadas.  Me gusta decir "Para que alguien sea eliminado, tiene que ser eliminado".  Básicamente, esa es mi manera de decir que no se puede obviar los marcadores de estrés y consecuencias, por ejemplo, arrojando a alguien por un precipicio —si todavía tienen estrés y consecuencias, entonces tal vez se estén aferrando al acantilado, evadieron su agarre y se torcieron el tobillo, etc. Pero también funciona para otras tiradas.  ¡Una tirada para lanzar un hechizo trivial generalmente no debería tener el fin del universo como un fallo!  Esto puede ser cierto incluso si “tuviera sentido”.  En cambio, adopte una visión de nivel superior: incluso si el hechizo en particular que falla daría como resultado el fin del mundo, tal vez un fracaso signifique algo más —tal vez signifique que, como parte del hechizo, sucede algo malo —o tarda más de lo esperado —o posiblemente te das cuenta de que no tienes algo que necesitas o no puedes invocar dicha energía.
+1. Mantenga las consecuencias apropiadas.  Me gusta decir: "Para que alguien sea eliminado, tiene que ser eliminado".  Básicamente, esa es mi manera de decir que no se puede obviar los marcadores de estrés y consecuencias, por ejemplo, arrojando a alguien por un precipicio —si todavía tienen estrés y consecuencias, entonces tal vez se estén aferrando al acantilado, evadieron su agarre y se torcieron el tobillo, etcétera—. Pero también funciona para otras tiradas.  ¡Una tirada para lanzar un hechizo trivial generalmente no debería tener el fin del universo como un fallo!  Esto puede ser cierto incluso si “tuviera sentido”.  En cambio, adopte una visión de nivel superior: incluso si el hechizo en particular que falla daría como resultado el fin del mundo, tal vez un fracaso signifique algo más tal vez signifique que, como parte del hechizo, sucede algo malo o tarda más de lo esperado o posiblemente te das cuenta de que no tienes algo que necesitas o no puedes invocar dicha energía.
 
-1. ¡Ayuda a los jugadores con las reglas y la estrategia!  Hombre, si pudiera cambiar una cosa sobre las primeras veces que dirigí Fate, sería esta.  Las estrategias efectivas en Fate no siempre son obvias para los nuevos jugadores y, como tal, el juego puede ser muy frustrante.  Asegúrese de que sus jugadores sepan cómo funciona la acción  Crear una Ventaja, especialmente en un conflicto.  Asegúrese de que sepan cómo usar dicha acción para emplear sus mejores habilidades contra la oposición del entorno o las habilidades más débiles de sus oponentes.  Como DJ, pregúntate constantemente "oye, ¿qué haría yo si fuera este jugador?"  ¡y sugiérelo a los jugadores!  Tenga una breve conversación con ellos sobre las tiradas enfrentadas de habilidades, los aspectos que se acumulan otorgados a través de la acción Crear una Ventaja e incluso el costo-beneficio entre grandes golpes (menos rondas para eliminar a alguien, requiere más turnos) y pequeños golpes (más rondas para eliminar a alguien,  requiere menos turnos).
+1. ¡Ayuda a los jugadores con las reglas y la estrategia!  Hombre, si pudiera cambiar una cosa sobre las primeras veces que dirigí Fate, sería esta.  Las estrategias efectivas en Fate no siempre son obvias para los nuevos jugadores y, como tal, el juego puede ser muy frustrante.  Asegúrese de que sus jugadores sepan cómo funciona la acción  **crear una ventaja**, especialmente en un _conflicto_.  Asegúrese de que sepan cómo usar dicha acción para emplear sus mejores habilidades contra la oposición del entorno o las habilidades más débiles de sus oponentes.  Como DJ, pregúntate constantemente: "oye, ¿qué haría yo si fuera este jugador?"  ¡y sugiérelo a los jugadores!  Tenga una breve conversación con ellos sobre las tiradas enfrentadas de habilidades, los aspectos que se acumulan otorgados a través de la acción **crear una ventaja** e incluso el costo-beneficio entre grandes golpes (menos rondas para eliminar a alguien, requiere más turnos) y pequeños golpes (más rondas para eliminar a alguien,  requiere menos turnos).
 
 1. ¡Haz que tus jugadores se acostumbren al éxito y al fallo en Fate!  Específicamente, ¡asegúrate de que sepan lo difícil que es ser eliminado de un solo golpe!  Póngalos en situaciones en las que tengan que hacer concesiones al principio de juego si no están acostumbrados a Fate y muéstreles cómo sigue el juego.  Haga que fallen algunas tiradas y vuelva a mostrarles cómo sigue el juego.  Muchos jugadores están acostumbrados a juegos en los que "fallar" es igual a "juego terminado", por lo que esta es una parte clave de Fate para los nuevos jugadores.
 
 Y mas que todo:
 
-DIVIÉRTASE
+¡DIVIÉRTASE!
 
 # Fallar
 
-Una de las cosas que he dicho aquí un montón es que Fate es un juego que alienta a los jugadores a fallar. También, he argumentado que cualquier plan planteado por jugadores debería tener la posibilidad de que suceda (lo que parece contradictorio, lo sé). Algunos DJs dicen que sus jugadores  quieren riesgos mortales. En el pasado, yo mismo he argumentado que los juegos sin muerte eran muy flojos, y que permitir que los jugadores tengan siempre una oportunidad de éxito era una locura.
+Una de las cosas que he dicho aquí un montón es que Fate es un juego que alienta a los jugadores a fallar. También, he argumentado que cualquier plan sugerido por los jugadores debería tener la posibilidad de que suceda (lo que parece contradictorio, lo sé). Algunos DJs comentan que sus jugadores, en sus partidas, quieren tener riesgos de muerte. En el pasado, yo mismo he dicho que los juegos sin riesgo de muerte eran muy flojos, y que permitir que los jugadores tengan siempre una oportunidad de éxito era una locura.
 
-Estos parecen un montón de temas no relacionados, pero lo están.  Todos se reducen a un concepto clave: el fallar y lo que significa en el juego.
+Estos parecen un montón de temas no relacionados, pero lo están.  Todos se reducen a un concepto clave: _fallar_ y lo que significa en el juego.
 
-En una sesión de JdR típica, tienes un objetivo.  Una princesa necesita ser salvada, así que te diriges a una cueva para recuperar el antídoto, luchas contra un monstruo que guarda ese antídoto, y solo después de ganar la pelea y salvar a la princesa, aprendes que lo siguiente que tendrás que hacer es detener al mago antes de que envenene a otra princesa.  Tu aventura sigue y sigue, te la pasas haciendo cosas, aprendiendo lo que viene después y repitiéndolo una y otra vez.
+En una sesión de juego de rol típica, tienes un objetivo.  Una princesa necesita ser salvada, así que te diriges a una cueva para recuperar el antídoto, luchas contra un monstruo que guarda ese antídoto, y solo después de ganar la pelea y salvar a la princesa, aprendes que lo siguiente que tendrás que hacer es detener al mago antes de que envenene a otra princesa. Tu aventura sigue y sigue, te la pasas haciendo cosas, aprendiendo lo que viene después y repitiéndolo una y otra vez.
 
 Esto puede volverse obsoleto muy rápidamente, ya que los jugadores tienen que seguir ganando, de lo contrario los monstruos los derrotarán, las princesas no se salvarán y los magos seguirán envenenando a la gente.
 
-El truco es que los jugadores tengan la impresión de que pueden fallar.  Gran parte del trabajo del DJ en este tipo de juegos es hacer que la oposición sea lo suficientemente dura como para que los jugadores se sientan en riesgo, pero lo suficientemente débil como para ganar.
+El truco es que los jugadores tengan la impresión de que pueden fallar.  Gran parte de la tarea del DJ en este tipo de juegos es hacer que la oposición sea lo suficientemente dura como para que los jugadores se sientan en riesgo, pero lo suficientemente débil como para que puedan ganar.
 
-Incluso los jugadores que dicen cosas como "Quiero que la muerte sea una posibilidad" son algo ambiguos.  Quieren la sensación de peligro.  Pero, probablemente no quieran que sus personajes mueran (o, en el peor de los casos, quieren que la muerte sea un inconveniente).  Seguramente no quieren un juego tan letal que tengan un personaje muriendo en cada sesión.
+Incluso los jugadores que dicen cosas como: "Quiero que la muerte sea una posibilidad" son algo ambiguos.  Quieren la sensación de peligro.  Pero, probablemente no quieran que sus personajes mueran (o, en el peor de los casos, quieren que la muerte sea un inconveniente). Seguramente no quieren un juego tan letal que tengan un personaje muriendo en cada sesión.
 
-Cuando los juegos a menudo tratan de atravesar una serie de desafíos (ya sean acertijos, problemas de exploración, desafíos que no son de combate, combate o lo que sea), y están cerrados por la solución, se vuelve bastante obvio que muy  probablemente tengan éxito, y que el "riesgo" es imaginario.  Solo quieren creer que no lo es.
+Cuando los juegos a menudo tratan de atravesar una serie de desafíos (ya sean acertijos, problemas de exploración, desafíos que no son de combate, combate o lo que sea), y están cerrados por la solución, se vuelve bastante obvio que muy  probablemente tengan éxito, y que el "riesgo" es imaginario. Solo quieren creer que no lo es.
 
 Hay dos razones fundamentales para esto:
 
@@ -965,17 +963,17 @@ Hay dos razones fundamentales para esto:
 
 1. Varios juegos no proporcionan fallas significativas que no sean la muerte.  Si pierdes el combate, los orcos te matan.  Si fallas en tu salto, caes en el foso mortal.  O pierdes puntos de vida, lo que hará que la muerte ocurra antes.
 
-En Fate, la muerte es algo raro por las reglas.  Para matar a alguien, debes eliminarlo antes de que pueda rendirse, e incluso entonces debes elegir explícitamente que muera.  No existe una condición de muerte automática, y sacar a alguien antes de que tenga la oportunidad de reaccionar o rendirse es prácticamente imposible.
+En Fate, la muerte es algo raro por las reglas. Para matar a alguien, debes eliminarlo antes de que pueda rendirse, e incluso entonces debes elegir explícitamente que muera. No existe una condición de muerte automática, y sacar a alguien antes de que tenga la oportunidad de reaccionar o rendirse es prácticamente imposible.
 
 Para quiénes tengan la idea de un juego más tradicional, esto hace que parezca que no puedes fallar en Fate.  Entonces, ¿por qué molestarse en jugar?
 
-Un problema similar ocurre cuando llegas a cosas como "si un jugador quiere que haya un pasaje oculto, dale la oportunidad de que exista ese pasaje". Y de verdad aquí llegamos al meollo del asunto.
+Un problema similar ocurre cuando llegas a cosas como: "si un jugador quiere que haya un pasaje oculto, dale la oportunidad de que exista ese pasaje". Y de verdad, aquí llegamos al meollo del asunto.
 
-He descrito este tipo de estructura de "evento cerrado" un poco antes.  No hay nada de malo en los acertijos que deben resolverse.  Los rompecabezas están claramente destinados a resolverse, y el desafío del rompecabezas es descubrir cómo hacerlo.  ¡Eso es muy divertido!
+He descrito este tipo de estructura de "evento cerrado" un poco antes.  No hay nada de malo en los acertijos que deben resolverse.  Los rompecabezas están claramente destinados a resolverse, y el desafío del rompecabezas es descubrir cómo hacerlo. ¡Eso es muy divertido!
 
-Pero, existen otras cosas que te permiten dibujar imágenes.  Como los crayones.  Y los crayones te permiten hacer cualquier imagen que desees.  ¡Eso es una locura!  ¿Dónde está el desafío?  ¿Cómo sabes que lo has hecho bien?
+Pero, existen otras cosas que te permiten dibujar imágenes. Como los crayones. Y los crayones te permiten hacer cualquier imagen que desees. ¡Eso es una locura!  ¿Dónde está el desafío?  ¿Cómo sabes que lo has hecho bien?
 
-Veamos una situación sencilla.  Una puerta cerrada.
+Veamos una situación sencilla: una puerta cerrada.
 
 En un juego tradicional, tendrás la oportunidad de atravesar esta puerta.  Si fallas, fallas.  Si realmente necesitas pasar esa puerta, estás jodido.  Pero, ¿qué pasa en Fate?
 
@@ -983,73 +981,73 @@ Fate Básico, pág. 187 (del libro traducido al español por NOSOLOROL, N.d.T.):
 
 ¿Eso significa que si no puedes pensar en cómo hacer que abrir la puerta sea interesante, entonces simplemente se abre? ¿Dónde está el desafío en eso?
 
-Pero hay una joya escondida que es la clave para entender el "fallo" en Fate.  Si tiene un resultado interesante para ambos resultados, entonces abrir la puerta no es un "desafío cerrado".  Es una bifurcación en el camino.  Es un lugar donde la historia puede llegar a uno de dos lugares, y no sabes cuál sucederá.  Entonces, la tirada se vuelve menos sobre "¿pasamos el desafío?" Y más sobre "¿cómo avanza la historia?"
+Pero hay una joya escondida que es la clave para entender el "fallo" en Fate.  Si tiene un resultado interesante para ambos resultados, entonces abrir la puerta no es un "desafío cerrado".  Es una bifurcación en el camino.  Es un lugar donde la historia puede llegar a uno de dos lugares, y no sabes cuál sucederá.  Entonces, la tirada se vuelve menos acerca de: "¿pasamos el desafío?" Y más acerca de: "¿cómo avanza la historia?"
 
-Entonces, con la puerta, queremos derribarla.  Ahora tenemos que encontrar un fallo interesante, otra forma en que puede ir la historia.  "Simplemente no se abre" no es una historia, es un estancamiento en la historia.  Mata el impulso y no progresa en nada.  Pero tratando de derribar la puerta —eso es interesante porque es ruidoso y llamaría la atención.  Poner guardias o alarmas en juego ayuda a mantener la historia en movimiento, y es exactamente el tipo de juego cinematográfico que Fate hace mejor.
+Entonces, con la puerta, queremos derribarla.  Ahora tenemos que encontrar un fallo interesante, otra forma en que puede ir la historia.  "Simplemente no se abre" no es una historia, es un estancamiento en la historia.  Mata el impulso y no progresa en nada.  Pero tratando de derribar la puerta —eso es interesante porque es ruidoso y llamaría la atención—.  Poner guardias o alarmas en juego ayuda a mantener la historia en movimiento, y es exactamente el tipo de juego cinematográfico que Fate hace mejor.
 
-He sugerido antes la idea de "Desafíos fractales" (la idea de que una sola tirada se puede expandir a un Conflicto, Desafío o Competición, y al revés igual).  Así que miremos a nuestra princesa envenenada desde el mismo punto de vista.  En la versión original, si no logras atravesar las Cuevas Pegajosas, no salvas a la Princesa Exhuberante, y ella no te dice quién es el Mago Loco.  Tradicionalmente, lo que se busca es obtener la información o morir y no obtener la información.
+He sugerido antes la idea de "Desafíos fractales" (la idea de que una sola tirada se puede expandir a un _Conflicto_, _Desafío_ o _Competición_, y al revés igual).  Así que miremos a nuestra princesa envenenada desde el mismo punto de vista.  En la versión original, si no logras atravesar las cuevas pegajosas, no salvas a la _Princesa Exhuberante_, y ella no te dice quién es el _Mago Loco_.  Tradicionalmente, lo que se busca es obtener la información o morir y no obtener la información.
 
-En Fate, la misma regla de "resultado interesante" para una sola tirada se aplica a un Conflicto en su conjunto.  Si no hay un resultado interesante en donde se pueda fallar el conflicto, no lo tenga.  Al ver el conflicto como un punto de decisión, como una rama en la historia, en lugar de un desafío a superar, permitimos el "fallo", donde en el juego tradicional, el fallar tiende a ser el final de este.
+En Fate, la misma regla de "resultado interesante" para una sola tirada se aplica a un _Conflicto_ en su conjunto.  Si no hay un resultado interesante en donde se pueda fallar el conflicto, no lo tenga.  Al ver el conflicto como un punto de decisión, como una rama en la historia, en lugar de un desafío a superar, permitimos el "fallo", donde en el juego tradicional, el fallar tiende a ser el final de este.
 
 Iré tan lejos como para decir que cada tirada en Fate debería generar tensión. Ahí es donde funciona mejor el sistema. Este no es un juego en el que el objetivo sea acumular bonos tan altos para que nunca falles. Este es un juego donde el  fallo siempre debería ser una posibilidad, donde  siempre puede suceder que las cosas empeoren.
 
-Un juego de Fate, jugado como Fate, puede ser mucho más brutal que cualquier juego de D&D que haya jugado. Asuma eso. Asuma el fallo en sus juegos. Asuma no saber qué ocurrirá. Asuma las tiradas, las Competiciones, los Desafíos y los Conflictos como momentos de toma de decisiones. Asuma las concesiones, y no pienses en estas como algo que debería evitar. 
+Un juego de Fate, jugado como Fate, puede ser mucho más brutal que cualquier juego de D&amp;D que haya jugado. Asuma eso. Asuma el fallo en sus juegos. Asuma no saber qué ocurrirá. Asuma las tiradas, las _Competiciones_, los _Desafíos_ y los _Conflictos_ como momentos de toma de decisiones. Asuma las concesiones, y no pienses en estas como algo que debería evitar. 
 
-Fallar es una parte fundamental de Fate "como Fate". Asumalo 
+Fallar es una parte fundamental de Fate "como Fate". Asúmalo. 
 
 # Desmitificando el fractal Fate y la naturaleza de los aspectos
 
-Mi primera exposición real a Fate fue Spirit of the Century.  Venía de una larga historia de juegos tradicionales.  Vi Aspectos y pensé “¡Oye, genial!  ¡Esos son como Ventajas / Dotes / Méritos / etc.!, ¡Excepto que puedes nombrarlos de manera interesante y puedes hacer lo que quieras! "  Parecía bastante obvio y genial.  Habiendo descubierto eso, pasé al resto del sistema.
+Mi primer contacto real con Fate fue _Spirit of the Century_.  Venía de una larga historia de juegos tradicionales.  Vi aspectos y pensé: “¡Oye, genial!  ¡Esos son como ventajas/dotes/méritos/etcétera!, ¡excepto que puedes nombrarlos de manera interesante y puedes hacer lo que quieras!".  Parecía bastante obvio y genial.  Habiendo descubierto eso, seguí con el resto del sistema.
 
-Excepto que estaba equivocado.  Este fue uno de mis primeros errores en la comprensión de Fate, y es bastante significativo.  Estaba pensando en un aspecto principalmente como algo que daba una bonificación y algo que se adjuntaba a otra cosa, como un adjetivo.  Y puede argumentar que algunos aspectos son así, pero en realidad no es una muy buena comprensión.  Un aspecto es más simple y más complejo que eso.
+Pero, estaba equivocado.  Este fue uno de mis primeros errores en la comprensión de Fate, y es bastante significativo.  Estaba pensando en un aspecto principalmente como algo que daba una bonificación y algo que se adjuntaba a otra cosa, como un adjetivo. Y se puede argumentar que algunos aspectos son así, pero en realidad no es una muy buena comprensión de ellos. Un aspecto es más simple y más complejo que eso.
 
-Un aspecto es un elemento de la historia.  Es algo, cualquier cosa, importante para la historia de alguna manera.  Es un "aspecto" de la historia.
+Un aspecto es un elemento de la historia.  Es algo, cualquier cosa, que es importante para la historia de alguna manera. Es un "aspecto" de la historia.
 
-Voy a volver a "narrativa primero" aquí.  Necesitamos entender qué es importante para la historia (al menos en este punto, esta escena), y luego capturamos esas cosas, les colocamos pequeñas etiquetas y las llamamos "aspectos".
+Voy a regresar con lo de "primero la ficción" aquí.  Necesitamos entender qué es importante para la historia (al menos en este punto, esta escena) y, luego capturamos esas cosas, les colocamos pequeñas etiquetas y las llamamos a cada una: "aspectos".
 
-Pero, ¿qué pasa con los personajes?, te preguntarás.  ¡Son importantes para la historia, claramente!  ¡Y son personajes, no aspectos!
+Pero, ¿qué pasa con los personajes?, te preguntarás. ¡Claramente son igual de importantes para la historia!¡Y son personajes, no aspectos!
 
-¡Ah-ja!  Has caído en mi trampa, oh inexistente-persona-a-la-que-pongo-palabras-en-su-boca.  Estás asumiendo que los personajes no son aspectos, ¡pero claramente lo son!
+¡Ah-ja! Has caído en mi trampa, ¡_oh inexistente-persona-a-la-que-pongo-palabras-en-su-boca_! (la únion de palabras es del original, N.d.T). Estás asumiendo que los personajes no son aspectos,¡pero claramente lo son!
 
-Bueno, entonces, ¿cómo es que los personajes tienen habilidades y los aspectos no?  Quiero decir, ¡claramente «Demasiado Oscuro» no puede conducir un coche!
+Bueno, entonces, ¿cómo es que los personajes tienen habilidades y los aspectos no?  Quiero decir, ¡claramente «Demasiado oscuro» no puede conducir un coche!
 
-Y aquí, quizás, se hacen algunas suposiciones sobre lo que es una "habilidad".  Una "habilidad" no representa entrenamiento del personaje.  Representa la capacidad de un "aspecto" de la historia para influir en una escena, sin ser invocado por otra persona.
+Y aquí, haré algunas suposiciones sobre lo que es una "habilidad". Una "habilidad" no representa el entrenamiento del personaje.  Representa la capacidad de un "aspecto" de la historia para influir en una escena, sin ser invocado por otra persona.
 
-Eso es mucha meta charla, así que aclaremos.
+Eso es mucha meta charla, así que aclaremos:
 
-Un personaje es un elemento de la historia.  Puede influir en una escena.  Lo hace usando habilidades.  Lo que representa una habilidad, entonces, es la habilidad de un elemento de la historia para influir en una escena, sin la influencia de otra.
+Un personaje es un elemento de la historia. Puede influir en una escena. Lo hace usando habilidades. Entonces, lo que representa una habilidad es la "habilidad" de un elemento de la historia para influir en una escena, sin la influencia de otra.
 
-Entonces, ¿qué pasa con «Demasiado Oscuro»?  ¡Ciertamente no puede conducir!  Esto es cierto, por lo que no tendrá la habilidad Conducir.  Pero, dependiendo del juego y la escena, ¡puede influir en las cosas!  La oscuridad puede hacer que las personas se vuelvan paranoicas, puede causarles estrés mental.  En lugar de tener un montón de reglas para todas estas cosas, Fate simplemente lo maneja diciendo "Claro, «Demasiado Oscuro» puede estar activo e influir en una escena si es apropiado.  Solo dale habilidades ".
+Entonces, ¿qué pasa con «Demasiado oscuro»? ¡Ciertamente no puede conducir! Esto es cierto, por lo que no tendrá la habilidad _Conducir_. Pero, dependiendo del juego y la escena, ¡puede influir en las cosas! La oscuridad puede hacer que las personas se vuelvan paranoicas, puede causarles estrés mental. En lugar de tener un montón de reglas para todas estas cosas, Fate simplemente lo maneja diciendo "Claro, «Demasiado oscuro» puede estar activo e influir en una escena si es apropiado. Solo dale habilidades".
 
-Y este es uno de los puntos fundamentales del fractal —que los elementos de la historia pueden influir en las escenas, y lo hacen aquellos que utilizan "habilidades".
+Y este es uno de los puntos fundamentales del fractal —que los elementos de la historia pueden influir en las escenas, y lo hacen aquellos que utilizan "habilidades"—.
 
-Un personaje no es realmente diferente a «Demasiado oscuro».  Solo es más fácil agrupar algunos elementos comunes de la historia controlados por los jugadores y llamarlo "personaje" por convención.
+Un personaje no es realmente diferente a «Demasiado oscuro». Solo es más fácil agrupar algunos elementos comunes de la historia controlados por los jugadores y llamarlo "personaje" por convención.
 
-Y los elementos de la historia pueden poseer otros elementos de la historia.  El elemento de la historia del personaje Han Solo está asociado con El Halcón Milenario.  Es fácil llamar al Halcón como un "detalle" de Han Solo ya que, si no estuviera en la historia, el Halcón tampoco lo estaría.  Así que declaramos que El Halcón Milenario es un "aspecto" de Han Solo (que es, él mismo, un aspecto, un elemento de la historia).  Y, por supuesto, el Halcón puede tener sus propias habilidades y sus propios aspectos («Almacenamiento oculto en todas partes», por ejemplo).
+Y los elementos de la historia pueden poseer otros elementos de la historia.  El elemento de la historia del personaje _Han Solo_ está asociado con _El Halcón Milenario_.  Es fácil llamar al Halcón como un "detalle" de Han Solo ya que, si no estuviera en la historia, el Halcón tampoco lo estaría.  Así que declaramos que _El Halcón Milenario_ es un "aspecto" de _Han Solo_ (que es, él mismo, un aspecto, un elemento de la historia).  Y, por supuesto, el Halcón puede tener sus propias habilidades y sus propios aspectos («Almacenamiento oculto en todas partes», por ejemplo).
 
-Y esa es una buena descripción del Fractal.  Pero falta una pieza.  Una característica fundamental de los fractales, en matemáticas, es que tienen detalles infinitos.  Puede alejarlos, verlos a mayor escala o acercarlos y verlos en una escala más ajustada, y aún tienen detalles equivalentes.  Eso es genial.  Y también es muy importante comprender el Fractal Fate.
+Y esa es una buena descripción del Fractal.  Pero falta una pieza.  Una característica fundamental de los fractales, en matemáticas, es que tienen detalles infinitos.  Puede alejarlos, verlos a mayor escala o acercarlos y verlos en una escala más ajustada, y aún tienen detalles equivalentes.  Eso es genial.  Y también es muy importante para comprender el Fractal Fate.
 
-Digamos que hay un juego de fantasía y el aspecto ambientado de la Ciudad-Estado de Warrington.  Es relevante para la historia, por lo que es un aspecto y, como tal, puede invocarse o forzarse.
+Digamos que hay un juego de fantasía y el aspecto de la Ciudad-Estado de Warrington es relevante para la historia, por lo que es un aspecto y, como tal, puede invocarse o forzarse.
 
-Ahora nuestros protagonistas se acercan a Warrington y, por lo tanto, se vuelve más relevante para la historia.  Podemos empezar a darle aspectos propios, como «Se gobierna con puño de hierro», «Vigilancia constante» y «Milicia sedienta de sangre».  Podemos darle habilidades, como Conquistar otras ciudades-estado: 4.
+Ahora nuestros protagonistas se acercan a Warrington y, por lo tanto, se vuelve más relevante para la historia.  Podemos empezar a darle aspectos propios, como: «Se gobierna con puño de hierro», «Vigilancia constante» y «Milicia sedienta de sangre».  Podemos darle habilidades, como _Conquistar otras ciudades-estado_: +4.
 
 Digamos que nuestros protagonistas se acercan aún más a la ciudad.  La ciudad está constantemente vigilada, pero queremos más detalles, por lo que podemos declarar un aspecto de «Guardias de la puerta».  Si los protagonistas mantienen la distancia, un aspecto, por sí solo, probablemente sea suficiente para indicar su efecto en la escena.
 
-Nuevamente, examinando las cosas más de cerca, es posible que deseemos tener más detalles allí.  Tal vez decidamos que hay un guardia gordo y un guardia flaco.  A medida que nos acercamos, tal vez obtengan algunos aspectos propios.  Y ciertamente, si asaltamos las puertas, necesitarán habilidades, y posiblemente equipo, ¡y así sucesivamente!  E incluso su equipo podría obtener aspectos —si un PJ usa la acción Crear una Ventaja para declarar que la espada del guardia flaco es vieja y quebradiza, ¡entonces lo es!
+Nuevamente, examinando las cosas más de cerca, es posible que deseemos tener más detalles allí.  Tal vez decidamos que hay un guardia gordo y un guardia flaco.  A medida que nos acercamos, tal vez obtengan algunos aspectos propios.  Y ciertamente, si asaltamos las puertas, necesitarán habilidades, y posiblemente equipo, ¡y así sucesivamente! E incluso su equipo podría obtener aspectos —si un PJ usa la acción _Crear una ventaja_ para declarar que la espada del guardia flaco es vieja y quebradiza, ¡entonces lo es!—.
 
-De esto se trata realmente el Fate Fractal.  Se trata de tener una forma universal de describir los elementos de la historia y su capacidad para impactar al mundo.  Se trata de tener la capacidad de describir estos elementos con la cantidad adecuada de detalles para la escena actual.  No necesito saber detalles sobre los dos guardias si estoy a ciento sesenta kilómetros de Warrington.  Necesito saber que existen y que son opresivos.
+De esto se trata realmente el Fractal Fate. Se trata de tener una forma universal de describir los elementos de la historia y su capacidad para impactar al mundo.  Se trata de tener la capacidad de describir estos elementos con la cantidad adecuada de detalles para la escena actual.  No necesito saber detalles sobre los dos guardias si estoy a ciento sesenta kilómetros de Warrington.  Necesito saber que existen y que son opresivos.
 
 Pero a medida que me acerco, su capacidad para manipular las cosas se vuelve importante.  Necesito saber más sobre cómo impacta las escenas en las que se encuentran los personajes. Así que el Fractal Fate me da herramientas para desarrollar esto.  Incluso los guardias pasan de ser un aspecto generalizado («Guardias de la puerta»), a individuos, a elementos individuales que contienen habilidades y posiblemente incluso subelementos.
 
-Y nada de esto cambia una sola cosa sobre ellos, en ningún momento.  Los guardias no "adquieren habilidades" de repente cuando me acerco a ellos.  Siempre los tuvieron.  Es solo que en realidad no eran importantes hasta que estuvimos en condiciones de interactuar con ellos.  No "cambiaron" de "aspectos" a "personajes" —esa es una distinción falsa.  ¡Siempre fueron aspectos, en el sentido de que cada elemento de la historia es un aspecto!  Y siempre fueron "personajes", porque ¿qué más podía ser un guardia?  Pero como necesitábamos saber más sobre ellos, los detallamos más, y cuando no necesitábamos ese detalle, no tuvimos que pensar en ello.  La ciudad-estado de Warrington no se convirtió en un aspecto fractal cuando necesitábamos más detalles —sigue siendo "un aspecto", solo uno con menos detalles asociados. Nada sobre su naturaleza fundamental cambió.
+Y nada de esto cambia una sola cosa sobre ellos, en ningún momento.  Los guardias no "adquieren habilidades" de repente cuando me acerco a ellos.  Siempre los tuvieron.  Es solo que en realidad no eran importantes hasta que estuvimos en condiciones de interactuar con ellos.  No "cambiaron" de "aspectos" a "personajes" —esa es una distinción falsa—.  ¡Siempre fueron aspectos, en el sentido de que cada elemento de la historia es un aspecto!  Y siempre fueron "personajes", porque ¿qué más podía ser un guardia?  Pero como necesitábamos saber más sobre ellos, los detallamos más, y cuando no necesitábamos ese detalle, no tuvimos que pensar en ello.  La ciudad-estado de Warrington no se convirtió en un aspecto fractal cuando necesitábamos más detalles —sigue siendo "un aspecto", solo uno con menos detalles asociados—. Nada sobre su naturaleza fundamental cambió.
 
 Entonces, si tienes un aspecto que necesita estar activo en una escena, ¡solo dale una habilidad!  No es necesario que se produzca ningún tipo de cambio en este. Las "habilidades" son simplemente acerca de cómo los elementos de la historia impactan las escenas, sin ser impulsados ​​por otro elemento de la historia.  Todo son solo aspectos.  Y eso es todo lo que tienes que tener en cuenta.
 
 # La pregunta importante de Fate
 
-Creo que todos los juegos de rol tienen una " pregunta importante" —un ejercicio fundamental de toma de decisiones acerca de cuál es realmente el objetivo del juego.  En gran medida, lo que permite esta pregunta es identificar lo que separa a un jugador "bueno" de un jugador "malo" en un juego determinado, por lo que es una métrica útil para averiguar cuál es esta pregunta importante.
+Creo que todos los juegos de rol tienen una " pregunta importante" —un ejercicio fundamental de toma de decisiones acerca de cuál es realmente el objetivo del juego—.  En gran medida, lo que permite esta pregunta es identificar lo que separa a un jugador "bueno" de un jugador "malo" en un juego determinado, por lo que es una métrica útil para averiguar cuál es esta pregunta importante.
 
-Para las primeras ediciones de D&D, la gran pregunta era "¿Puedo usar los recursos a mi disposición, y los que tengo en el camino, para sacar tanto tesoro como sea posible de la mazmorra sin morir?"  Y al observar esa gran pregunta, vemos las opciones que impulsan el juego: la gestión de recursos, el riesgo de muerte y el deseo de obtener un tesoro.
+Para las primeras ediciones de D&amp;D, la gran pregunta era: "¿Puedo usar los recursos a mi disposición, y los que tengo en el camino, para sacar tanto tesoro como sea posible de la mazmorra sin morir?"  Y al observar esa gran pregunta, vemos las opciones que impulsan el juego: la gestión de recursos, el riesgo de muerte y el deseo de obtener un tesoro.
 
 La gran mayoría de los juegos de rol de hoy tienen variaciones sobre la misma pregunta importante: "¿Mi habilidad para construir un personaje y mi habilidad para manipular la mecánica del juego son suficientes para superar estos obstáculos?"  Es bastante común suponer que Fate tiene la misma pregunta importante.
 
@@ -1057,55 +1055,55 @@ Pero no es así.
 
 Fate Básico realmente no permite la optimización de tal manera  que este proceso sea un ejercicio interesante.  Crear los personajes, claro.  ¿Optimización de los personajes?  No tanto.  Si eres más o menos competente en el sistema, es difícil crear un personaje que realmente sea un incompetente o supercompetente.  (Aparte, creo que el mayor problema con la optimización de personajes en Fate es, irónicamente, la gente que se especializa en exceso, lo que es la mejor estrategia en la mayoría de los juegos).
 
-Y las mecánicas del sistema de Fate Básico realmente no son compatibles con un juego de manipulación mecánica compleja.  Una vez más, sí, hay algunos conceptos básicos, pero una vez que aprendas a usar la acción Crear una Ventaja, la mecánica de Estrés y Consecuencias, así cómo elegir buenas tiradas enfrentadas para las habilidades, estarás bastante bien para empezar a jugar.
+Y las mecánicas del sistema de Fate Básico realmente no son compatibles con un juego de manipulación mecánica compleja.  Una vez más, sí, hay algunos conceptos básicos, pero una vez que aprendas a usar la acción _Crear una ventaja_, la _mecánica de Estrés_ y _Consecuencias_, así cómo elegir buenas tiradas enfrentadas para las habilidades, estarás bastante bien para empezar a jugar.
 
-Entonces, ésa no pueden ser la gran pregunta del destino.  Entonces, ¿cuál es?
+Entonces, ésa no pueden ser la gran pregunta de Fate.  Entonces, ¿cuál es?
 
 Una cosa que he estado diciendo mucho más recientemente sobre Fate es que un personaje de Fate puede hacer cualquier cosa, pero no puede hacer todo.
 
-Ahora, eso es obviamente una exageración.  Hay algunas cosas que el personaje simplemente no puede hacer en un entorno determinado.  Pero eso no es realmente de lo que estoy hablando.  De lo que estoy hablando aquí es del hecho de que, con suficientes Puntos Fate para gastar y suficiente voluntad para asumir las Consecuencias, un personaje puede lograr casi cualquier objetivo razonable.  Si el personaje quiere colarse en el castillo, lo hará.  Es casi inevitable.  Casi todo se puede lograr.  Pero hacerlo agotaría sus recursos.  Terminará sin puntos Fate y con todas sus consecuencias marcadas.  Y luego, la próxima ves, se encontrará a si mismo con los caprichos de los dados —que es exactamente la razón por la que el personaje no puede lograrlo todo.
+Ahora, eso es obviamente una exageración.  Hay algunas cosas que el personaje simplemente no puede hacer en un entorno determinado.  Pero eso no es realmente de lo que estoy hablando.  De lo que estoy hablando aquí es del hecho de que, con suficientes _puntos Fate_ para gastar y suficiente voluntad para asumir las _consecuencias_, un personaje puede lograr casi cualquier objetivo razonable.  Si el personaje quiere colarse en el castillo, lo hará.  Es casi inevitable.  Casi todo se puede lograr.  Pero hacerlo agotaría sus recursos.  Terminará sin puntos Fate y con todas sus consecuencias marcadas.  Y luego, la próxima ves, se encontrará a si mismo con los caprichos de los dados —que es exactamente la razón por la que el personaje no puede lograrlo todo—.
 
-Y para mí, esto lleva directamente a la pregunta importante de Fate.  Y esa pregunta es simple: "¿Qué tanto deseas lograr esto?"  O, dado que el costo en realidad solo es interesante en términos del costo de oportunidad, "¿Cuál de estos deseas realmente?".
+Y para mí, esto lleva directamente a la pregunta importante de Fate.  Y esa pregunta es simple: "¿Cuánto deseas esto?" O, debido a que el costo en realidad solo es interesante en términos del costo de oportunidad, "¿Cuál de estos costos, deseas asumir?".
 
-Y para mí, esa es la gran pregunta de Fate.  Y al igual que cada encuentro en un juego de rol "típico" tiene que convertirse en un ejercicio desafiante de construcción y tácticas, cada escena en Fate debe conducir a que los jugadores tomen esas decisiones difíciles.  La elección de lo que les importa, qué pueden tener y qué no.
+Y esa es para mí la gran pregunta de Fate.  Y al igual que cada encuentro en un juego de rol "típico" tiene que convertirse en un ejercicio desafiante de construcción y tácticas, cada escena en Fate debe conducir a que los jugadores tomen esas decisiones difíciles.  La elección de lo que les importa, qué pueden tener y qué no.
 
-Es por eso que fallar es importante en Fate —si nunca fallas, eso significa que tienes todo lo que quieres —y nunca has tenido que tomar una decisión tan difícil.  Es por eso que obtenemos las tramas de los aspectos de los personajes —porque de lo contrario, es probable que a los jugadores o personajes realmente no les importe lo suficiente como para hacer que la elección sea difícil.  Y es por eso que dejamos que los personajes sean proactivos —para asegurarse de que puedan tomar las decisiones, que establezcan las decisiones difíciles por sí mismos al decirle convenientemente al DJ lo que les importa y en qué están interesados.
+Es por eso que fallar es importante en Fate —si nunca fallas, eso significa que tienes todo lo que quieres y nunca has tenido que tomar una decisión tan difícil—.  Es por eso que obtenemos las tramas de los aspectos de los personajes —porque de lo contrario, es probable que a los jugadores o personajes realmente no les importe lo suficiente como para hacer que la elección sea difícil—.  Y es por eso que dejamos que los personajes sean proactivos —para asegurarse de que puedan tomar las decisiones, que establezcan las decisiones difíciles por sí mismos al decirle convenientemente al DJ lo que les importa y en qué están interesados—.
 
-Entonces, lo que un DJ realmente necesita pensar en Fate no es "cómo puedo hacer que este encuentro sea mecánicamente interesante" (al menos en un primer momento —aunque esa es una gran preocupación secundaria).  Es "¿qué tanto les costará salirse con la suya en esto a los personajes?"  Es fundamentalmente un ejercicio de cálculo de costos y el costo debería ser alto.  Cada vez que estos se interesen por algo, debería resultar difícil para ellos conseguirlo, tienen que saber que para conseguirlo hay algo más de lo que se tienen que preocupar y de que tendrán que renunciar a algo o, en su caso, soportar un costo doloroso.
+Entonces, lo que un DJ realmente necesita pensar en Fate no es: "¿cómo puedo hacer que este encuentro sea mecánicamente interesante" (al menos en un primer momento —aunque esa es una gran preocupación secundaria—)?.  Es: "¿qué tanto les costará salirse con la suya en esto a los personajes?"  Es fundamentalmente un ejercicio de cálculo de costos y el costo debería ser alto.  Cada vez que estos se interesen por algo, debería resultar difícil para ellos conseguirlo, tienen que saber que para conseguirlo hay algo más de lo que se tienen que preocupar y de que tendrán que renunciar a algo o, en su caso, soportar un costo doloroso.
 
 ¿Quieres un ejemplo de esto? Veámoslo con Harry Dresden.  Él, se negó a enrolarse con los malos durante años, hasta que su DJ (también conocido como Jim Butcher) le hizo elegir entre la vida de su hija y enrolarse con uno de los malos.
 
 Tuvo que tomar una decisión difícil.  Eso es un gran drama.  Ese es un gran juego.  Ese es el punto de Fate.
 
-Como DJ, tú controlas los costes que pagan los jugadores.  Averigua qué quieren los jugadores y haz que paguen por ello.  Haz que te muestren la mirada de "eres un idiota" con las Concesiones o los Forzados.  Deje que sus prioridades los involucren más y más profundamente.
+Como DJ, tú controlas los costes que pagan los jugadores.  Averigua qué quieren los jugadores y haz que paguen por ello.  Haz que te muestren la mirada de "eres un idiota" con las _Concesiones_ o los _Forzados_.  Deje que sus prioridades los involucren más y más profundamente.
 
 Te lo agradecerán.
 
 # Preguntas y Decisiones
 
-Hay un libro de escritura de guiones llamado "Save the Cat".  Es un libro bastante bueno para las personas que quieren aprender sobre escritura de guiones y estructura de guiones, y descubrí que tenía usos fuera de la escritura.  Save the Cat me enseñó mucho sobre el desarrollo de juegos.
+Hay un libro de escritura de guiones llamado "_Save the Cat_".  Es un libro bastante bueno para las personas que quieren aprender sobre escritura de guiones y estructura de guiones, y descubrí que tenía usos fuera de la escritura.  _Save the Cat_ me enseñó mucho sobre el desarrollo de juegos.
 
-Lo que Save The Cat hace bien es plantear preguntas que lleven a las personas a tomar decisiones.  ¿Podrá Luke destruir la Estrella de la Muerte?  ¿Batman detendrá al Acertijo?  ¿Puede el padre soltero preparar la cena?
+Lo que _Save The Cat_ hace bien es plantear preguntas que lleven a las personas a tomar decisiones.  ¿Podrá Luke destruir la Estrella de la Muerte?  ¿Batman detendrá al Acertijo? ¿Puede el padre soltero preparar la cena?
 
-Cada sesión de RPG debería responder alguna pregunta.  Esto es lo que impulsa el juego y mantiene a la gente comprometida.
+Cada sesión de los JDR debería responder alguna pregunta.  Esto es lo que impulsa el juego y mantiene a las personas comprometidas.
 
-Entonces, al comenzar una campaña, pregúntese cuál es la pregunta o preguntas de la campaña.  Una gran pregunta arrolladora está bien, pero luego debe haber algo más inmediato, relevante y asequible.
+Entonces, al comenzar una campaña, pregúntese cuál es la pregunta o preguntas de la campaña. Una gran pregunta amplia y que incluya todo está bien, pero luego debe haber algo más inmediato, relevante y asequible.
 
-La otra cosa es asegurarse de que los jugadores se interesen en encontrar las respuestas a las preguntas.  Así que piensa en lo que les importa a tus jugadores —que por lo general son cosas con las que se han involucrado. En Fate, se hace referencia a sus personajes, pero también se puede hacer referencia a las partes de la ambientación en la que los jugadores han participado creandola.  Puede que tengas una gran idea para una guerra entre facciones masivas, pero a los jugadores, al menos para empezar, realmente no les importan tus facciones.  A ti si te importa, porque tu las creaste —tienes interés sobre ello.
+La otra cosa es asegurarse de que los jugadores se interesen en encontrar las respuestas a las preguntas.  Así que piensa en lo que les importa a tus jugadores —que por lo general son cosas con las que se han involucrado—. En Fate, se hace referencia a los personajes, pero también se puede hacer referencia a las partes de la ambientación en la que los jugadores han participado creándola.  Puede que tengas una gran idea para una guerra entre facciones masivas, pero a los jugadores, al menos para empezar, realmente no les importan tus facciones. A ti si te importa, porque tu las creaste —tienes interés sobre ello—.
 
-La mayoría de las escenas deben responder a una pregunta.  Claro, hay escenas que son solo una exposición o el desarrollo del personaje, pero una buena escena dramática debe tener una pregunta que se responda.  Si no puede hallar una, tal vez debería omitir la escena o darles a los jugadores suficiente información para que puedan llegar a una escena con una pregunta importante.
+La mayoría de las escenas deben responder a una pregunta. Claro, hay escenas que son solo una exposición o el desarrollo del personaje, pero una buena escena dramática debe tener una pregunta que se responda. Si no puede hallar una, tal vez debería omitir la escena o darles a los jugadores suficiente información para que puedan llegar a una escena con una pregunta importante.
 
-La otra parte de hacer que un juego sea atractivo son las decisiones.  Las preguntas preparan el escenario y crean el drama.  Pero las decisiones de los jugadores son las que responden a las preguntas.
+La otra parte de hacer que un juego sea atractivo son las decisiones. Las preguntas preparan el escenario y crean el drama. Pero las decisiones de los jugadores son las que responden a las preguntas.
 
-Cuando mire un escenario, piense en las decisiones que están tomando los jugadores.  Si solo van del punto A al B al C y superan los desafíos, entonces no están tomando muchas decisiones y no están haciendo mucho para responder las preguntas importantes.  Eso está bien para algunos juegos, pero parece algo contrario a los juegos en los que Fate realmente brilla.
+Cuando analice un escenario, piense en las decisiones que están tomando los jugadores. Si solo van del punto A al B al C y superan los desafíos, entonces no están tomando muchas decisiones y no están haciendo mucho para responder las preguntas importantes. Eso está bien para algunos juegos, pero parece algo contrario a los juegos en los que Fate realmente brilla.
 
-Muchas veces buscamos agregar mecánicas, o encuentros, o modificar cosas o establecer ambientaciones.  Y eso es genial.  Pero creo que es mejor hacer siempre esas cosas pensando en "¿qué tipo de decisiones permite esto para los jugadores?"
+Muchas veces buscamos agregar mecánicas, o encuentros, o modificar cosas o crear ambientaciones. Y eso es genial. Pero creo que es mejor hacer siempre esas cosas pensando en: "¿qué tipo de decisiones permite esto para los jugadores?"
 
-¿Tiene una ciudad que está teniendo una lucha de poder interna?  ¡Genial!  Uno son claramente los buenos y los otros claramente los malos, bueno, acabas de eliminar una decisión, en la que (¡con suerte!) Los jugadores se alinearán con los buenos.  En su lugar, intente que las dos partes tengan implicaciones para el futuro de la ciudad que no sean solo "buenas" y "malas" —o incluso mejor aún, relacionelos con los aspectos de los personajes, ¡especialmente si puede encontrar aspectos conflictivos!
+¿Tiene una ciudad que está teniendo una lucha de poder interna? ¡Genial! Uno son claramente los buenos y los otros claramente los malos, bueno, acabas de eliminar una decisión, en la que (¡con suerte!) los jugadores se alinearán con los buenos. En su lugar, intente que las dos partes tengan implicaciones para el futuro de la ciudad que no sean solo "buenas" y "malas" —o incluso mejor aún, relacionelos con los aspectos de los personajes, ¡especialmente si puede encontrar aspectos conflictivos!—.
 
-Lo mismo ocurre con la mecánica del juego.  ¿Tienes alguna mecánica de dados nueva y original que quieras probar?  ¡Impresionante!  Pero, ¿qué puntos de decisión les da a los jugadores que no tengan ya?  Si los jugadores siguen tomando las mismas decisiones (o peor aún, a menos que las nuevas mecánicas proporcionen algún tipo de camino óptimo), entonces reconsidere la mecánica.
+Lo mismo ocurre con la mecánica del juego. ¿Tienes alguna mecánica de dados nueva y original que quieras probar? ¡Excelente! Pero, ¿qué puntos de decisión les da a los jugadores que no tengan ya? Si los jugadores siguen tomando las mismas decisiones (o peor aún, a menos que las nuevas mecánicas proporcionen algún tipo de camino óptimo), entonces reconsidere la mecánica.
 
-Si las decisiones de los jugadores están impulsando la respuesta a las preguntas del juego, entonces no puede conocer las respuestas de antemano.  Evito deliberadamente planear lo que sucederá —incluso hasta el punto de pensar en lo geniales que podrían ser las cosas, y luego dejar de pensar en eso.
+Si las decisiones de los jugadores están impulsando la respuesta a las preguntas del juego, entonces no podrás conocer las respuestas de antemano. Yo evito deliberadamente planear lo que sucederá —incluso hasta el punto de pensar en lo geniales que podrían ser las cosas, y luego dejar de pensar en eso—.
 
 Preguntas y decisiones.  Intégrelas y brillará.
 
@@ -1113,19 +1111,19 @@ Preguntas y decisiones.  Intégrelas y brillará.
 
 Los episodios del _Monstruo de la semana_ en la televisión tienen mala reputación, y también pueden tener mala reputación en las sesiones de juego.  La idea de que son contenido de relleno con poca creatividad y no tiene nada que ver con la trama general que está ocurriendo no habla de sus fortalezas.
 
-Especialmente al comienzo de una campaña, las sesiones del MdlS (Monstruo de la semana, N.d.T.) son excelentes para ayudar a tener una idea del tono general del juego y descubrir a qué responde el grupo, en su conjunto.  Es una excelente manera de averiguar con qué elementos querrán lidiar los jugadores, tomarlos y comenzar a integrarlos en el panorama general.  Si les gusta algo, es fácil traerlo de vuelta o algo parecido.  Pero si no les gusta un elemento, es mucho más fácil olvidarse de él y seguir adelante con el juego.
+Especialmente al comienzo de una campaña, las sesiones del **MdlS** (por sus siglas en españo, N.d.T son excelentes para ayudar a tener una idea del tono general del juego y descubrir a qué responde el grupo en su conjunto.  Es una excelente manera de averiguar con qué elementos querrán lidiar los jugadores, tomarlos y comenzar a integrarlos en el panorama general. Si les gusta algo, es fácil traerlo de vuelta o, al menos, algo parecido. Pero si no les gusta un elemento, es mucho más fácil olvidarse de él y seguir adelante con el juego.
 
-Y esos son todos puntos válidos a favor de las sesiones del MdlS.
+Y esos son todos puntos válidos a favor de las sesiones del **MdlS**.
 
-Mira la primera temporada de Buffy.  ¿Una mamá porrista bruja?  Totalmente ajeno a la trama general.  Monstruo de la semana ¿Inútil?  No.  Porque el episodio no fue sobre la bruja.  Se trataba de Buffy queriendo vivir una vida normal y de cómo no puede hacerlo por lo que es.  ¿Maestro Mantis?  Inútil, ¿verdad?  No.  Se trataba de que Xander tuviera mala suerte (y fuera un poco desesperado) en el amor.
+Mira la primera temporada de Buffy.  ¿Una mamá porrista bruja?  Totalmente ajeno a la trama general. Monstruo de la semana ¿Inútil?  No.  Porque el episodio no fue sobre la bruja. Se trataba de Buffy queriendo vivir una vida normal y de cómo no puede hacerlo por lo que es. ¿Maestro Mantis? Inútil, ¿verdad? No. Se trataba de que Xander tuviera mala suerte (y fuera un poco desesperado) en el amor.
 
-¿Pandilla de Hyena?  Eso es un doble revés, tanto por el deseo de Xander de encajar, pero sobre todo por lo mucho que Willow se preocupa por Xander.
+¿Pandilla de Hyena? Eso es un doble revés, tanto por el deseo de Xander de encajar, pero sobre todo por lo mucho que Willow se preocupa por Xander.
 
-¿Demonio de la computadora?  Otro doble revés, golpeando la mala suerte de Willow en el amor, así como el amor de Giles por los libros y la incomodidad por la tecnología.
+¿Demonio de la computadora? Otro doble revés, golpeando la mala suerte de Willow en el amor, así como el amor de Giles por los libros y la incomodidad por la tecnología.
 
-El objetivo de estos episodios no es avanzar en la trama.  Es para resaltar y dar cuerpo a los personajes involucrados.  Y esa es la clave.
+El objetivo de estos episodios no es avanzar en la trama. Es para resaltar y dar cuerpo a los personajes involucrados. Y esa es la clave.
 
-Entonces, si estás haciendo un Monstruo de la semana, ¡genial!  ¡Bien por usted!  Pero hazlo bien.  Hazlo relacionado con los personajes.  No empieces con una idea monstruosa.  Comience con los aspectos de los personajes y luego cree un "monstruo" que refleje ese aspecto, o muestre la debilidad, o lleve ese conflicto a casa.
+Entonces, si estás haciendo un **MdlS**, ¡genial! ¡bien por usted! Pero hazlo bien.  Hazlo relacionado con los personajes. No empieces con una idea monstruosa. Comience con los aspectos de los personajes y luego cree un "monstruo" que refleje ese aspecto, o muestre la debilidad, o lleve ese conflicto a casa.
 
 # Aspectos, la economía de la información y la pistola de Chéjov
 
@@ -1135,23 +1133,23 @@ Especialmente en una obra de teatro, todo lo que hay debería estar ahí por una
 
 También vemos esto en programas de televisión, películas y libros, pero no tanto.  La mayoría de estos medios intentan sumergir a su audiencia en la realidad de lo que está sucediendo, algo que generalmente no es un objetivo para las obras de teatro.  Y entonces bien podría haber un arma en la pared que nunca se dispara, o una sombra de la que nadie se percata.
 
-Para decirlo de otra manera, existe una diferencia entre una escena oscura y una «Escena Oscura».  Una escena oscura puede ser por una barra que iluminada mal —pero la iluminación es solo algo ambiental.  No influye en la trama de ninguna manera.  Realmente no afecta la forma en que los personajes hacen las cosas.  Solo está ahí para crear un estado de ánimo.
+Para decirlo de otra manera, existe una diferencia entre una escena oscura y una «Escena oscura».  Una escena oscura puede ser por una barra que iluminada mal —pero la iluminación es solo algo ambiental—. No influye en la trama de ninguna manera. Realmente no afecta la forma en que los personajes hacen las cosas. Solo está ahí para crear un estado de ánimo.
 
-Una «Escena Oscura» es diferente.  En una «Escena Oscura», podemos esperar que alguien salte de las sombras en algún momento o desaparezca en ellas.
+Una «Escena oscura» es diferente.  En una «Escena oscura», podemos esperar que alguien salte de las sombras en algún momento o desaparezca en ellas.
 
-Y eso es lo que son los aspectos.  Son las cosas que les estamos señalando a los jugadores como importantes.  No tratamos de capturar todos los detalles, ni nos preocupamos por las cosas menores que tienen una ligera influencia en lo que sucede.  El tamaño de las ventajas y desventajas de no son un gran problema, hasta que hablemos de algo en el nivel de Bruce Lee contra Kareem Abdul Jabaar, sí, un tipo puede tener un alcance un poco más largo y otro puede ser un poco más rápido, blablablá,  blablablá, blablablá, pero todos esos son factores menores.
+Y eso es lo que son los aspectos.  Son las cosas que les estamos señalando a los jugadores como importantes.  No tratamos de capturar todos los detalles, ni nos preocupamos por las cosas menores que tienen una ligera influencia en lo que sucede. El tamaño de las ventajas y desventajas no son un gran problema, hasta que hablemos de algo en el nivel de _Bruce Lee_ contra _Kareem Abdul Jabaar_, sí, un tipo puede tener un alcance un poco más largo y otro puede ser un poco más rápido, blablablá,  blablablá, blablablá... pero todos esos son factores menores.
 
-Fate se preocupa por los factores principales.  Se preocupa por las grandes cosas que influirán en el desarrollo de las escenas.  No se preocupa por los efectos menores, aunque ciertamente pueden sumar un gran efecto —pero asume que, como un programa de televisión o una película, resultan ser algo sin beneficio la mayor parte del tiempo.
+Fate se preocupa por los factores principales. Se preocupa por las grandes cosas que influirán en el desarrollo de las escenas. No se preocupa por los efectos menores, aunque ciertamente pueden sumar un gran efecto —pero asuma que, como un programa de televisión o una película, resultan ser algo sin beneficio la mayor parte del tiempo—.
 
 Es importante tener en cuenta que cada aspecto debe ser algo que podría ser importante y que podría ser algo que haga que la escena cambie de alguna manera.
 
 # Reglas faltantes en Fate
 
-Hay muchas reglas que Fate "no tiene".  En muchos casos, se debe a que las reglas faltantes serían derivadas de las reglas básicas y se pueden acordar fácilmente en la mesa.
+Hay muchas reglas que Fate "no tiene". En muchos casos, se debe a que las reglas faltantes serían derivadas de las reglas básicas y se pueden acordar fácilmente en la mesa.
 
-Tomemos el ejemplo eterno: "en llamas".  Muchos juegos dicen que "estar en llamas significa que recibes una cierta cantidad de daño por turno".
+Tomemos el ejemplo eterno: "en llamas". Muchos juegos dicen que "estar en llamas significa que recibes una cierta cantidad de daño por turno".
 
-Esa es una interpretación.  Pero estar "en llamas" podría significar muchas cosas, desde estar completamente envuelto en fuego hasta tener un par de llamas en la manga.  ¿Hay una respuesta realmente correcta aquí?  ¿Una sola mecánica?  Si no es así, ¿cuántas mecánicas se necesitarían realmente para cubrir todas las situaciones posibles?  ¿Nos limitamos a manejar los efectos físicos y mecánicos?  ¿Qué pasa con el terror instintivo que tiende a causar algo como estar en llamas?
+Esa es una interpretación. Pero estar "en llamas" podría significar muchas cosas, desde estar completamente envuelto en fuego hasta tener un par de llamas en la manga.  ¿Hay una respuesta realmente correcta aquí? ¿Una sola mecánica? Si no es así, ¿cuántas mecánicas se necesitarían realmente para cubrir todas las situaciones posibles? ¿Nos limitamos a manejar los efectos físicos y mecánicos? ¿Qué pasa con el terror instintivo que tiende a causar algo como estar en llamas?
 
 Y eso supone un solo género.  Una causa similar (por ejemplo, tener la ropa en llamas) podría tener efectos muy diferentes en diferentes géneros: una estrella de cine de acción podría simplemente superarlo sin problema, mientras que alguien en una película de terror podría asustarse por completo.
 
@@ -1159,12 +1157,12 @@ El modelo de Fate Básico de averiguar lo que quieres hacer y luego aplicar las 
 
 # Conclusión
 
-Fate es un juego centrado en contar historias emocionantes.  Con este libro, hemos cubierto cómo usted y sus amigos pueden trabajar juntos para crear sus historias de juegos increíbles.
+Fate es un juego centrado en contar historias emocionantes. Con este libro, hemos cubierto cómo usted y sus amigos pueden trabajar juntos para crear sus historias de juegos impresionantes.
 
-Ahora tienes en este kit de herramientas para principiantes diferentes formas de presentar a la gente el estilo de juego de Fate.  ¡El fallo de los personajes en la mesa se ha convertido en diversión para el jugador!  Las decisiones difíciles harán que tus juegos sean más intensos que cualquier bola de fuego.
+Ahora tienes, en esta guía para principiantes, diferentes formas de presentar a la gente el estilo de juego de Fate. ¡El fallo de los personajes en la mesa se ha convertido en diversión para el jugador! Las decisiones difíciles harán que tus juegos sean más intensos que cualquier bola de fuego.
 
 Los entresijos de Fate han sido analizados y presentados; los aspectos tienen sentido, al igual que el estrés y las consecuencias de Fate.
 
-El Libro de Hanz se convirtió en un libro no por el autor sino por la Comunidad de Fate.  Las publicaciones originales que se convirtieron en estos ensayos fueron compartidas y guardadas por esa comunidad.  Hoy, es un honor que tengas esto en tus manos.
+El Libro de Hanz se convirtió en un libro no por el autor sino por la **Comunidad de Fate**.  Las publicaciones originales que se convirtieron en estos ensayos fueron compartidas y guardadas por esa comunidad.  Hoy, es un honor que tengas esto en tus manos.
 
-Versión 3.11, texto traducido por [@laesquinadelrol](https://twitter.com/laesquinadelrol)  15-05-2021 11:00
+Versión 3.11, texto traducido al español por [La esquina del rol](https://twitter.com/laesquinadelrol)  15-05-2021 11:00
